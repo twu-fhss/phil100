@@ -5,9 +5,9 @@ bookdown::gitbook:
       collapse: section
       scroll_highlight: true
       before: |
-        <li><a href="./">Template</a></li>
+        <li><a href="./">Philosophy 100</a></li>
       after: |
-        <li><a href="https://github.com/twuonline/bookdown-template" target="blank">Published with bookdown</a></li>
+        <li><a href="https://github.com/twu-fhss/phil100" target="blank">Published with bookdown</a></li>
   download: ["epub", "pdf"]
 bookdown::pdf_book:
   includes:

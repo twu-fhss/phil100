@@ -1,6 +1,10 @@
-fig:unnamed-chunk-12
-fig:unnamed-chunk-13
-course-description-1
+fig:unnamed-chunk-9
+fig:unnamed-chunk-10
+course-evaluation
+late-assignments-policy
+writing-centre-sessions
+program-grade-submission-policy
+online-learning-orientation
 title
 title-1
 title-2
