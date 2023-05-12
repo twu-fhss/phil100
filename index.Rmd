@@ -1,6 +1,6 @@
 ---
 title: "Philosophy for Life"
-author: "Andrew Bigham"
+author: "Andrew Brigham"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -99,8 +99,9 @@ Please note that you may be required to use the support of our writing center co
 
 ALL course work must be submitted for final grading within 14 days following the course end date. The instructor has to submit grades to the Registrar within 14 days of the course end date. In extenuating circumstances, a provision is made for an INC to be entered pending final assignment of a course mark.
 
-! :fa-bell:*Note:* **WC** = For students required to attend the Writing Centre.
-
+```{block, type='caution'}
+*Note:* **WC** = For students required to attend the Writing Centre.
+```
 
 ### Online Learning Orientation
 
