@@ -5,7 +5,7 @@ show_sidebar: false
 hide_git_sync_repo_link: false
 ---
 
-![alttext](TWU_logo.png "TWU Logo")
+![alttext](LogoOverview.jpg "TWU Logo")
 
 <p>&nbsp;</p>  
 _____________
