@@ -1,1 +1,131 @@
-# Title
+# Faith
+
+![Man's hand reaching forward](assets/u3/Unit3Overview.jpg)
+
+CCO Creative Commons by [ISO Republic](https://isorepublic.com/photo/hand-reach/)
+
+
+## Overview
+
+The third unit examines the idea of faith. The aim in this unit is to (i) consider some definitions of faith; and (ii), inquire if, and in what way, faith coincides with wisdom and reason. One idea associated with the term faith is belief. To say that one has “faith in God” may imply that one believes that God exists. That view of faith centers on intellectual assent by affirming a statement about God. However, the term faith can also refer to a personal trust in something or someone. Thus, the phrase “faith in God” may also  refer to trusting God for some state of affairs. Those two initial definitions of faith are different and yet may apply in the same instance. One may possess “faith in God” and in doing so believe both that God exists and trust God to bring about some state of affairs. Or one may believe that God exists, but maintain that God cannot be trusted to bring about some state of affairs. The term faith can also mean hope. According to that view, to have “faith in God” means to desperately hope that God exists and will bring about some good state of affairs, even if one lacks belief that God exists. That third definition of faith as hope is often distinguished from faith as belief. Finally, the term faith may refer to other ideas besides belief and hope. To live a life of faith may require that a person act a certain kind of way; if that person fails to live a life of faith, then they in fact lack faith (even if they “believe” accordingly). This final view of defining faith focuses less on intellectual assent - the types of beliefs and hopes one affirms - and more on behavior.
+
+### Topics {-}
+
+This unit is divided into the following topics:
+
+1. Faith, Hope, Doubt
+2. Ethics in the Christian Scriptures
+
+
+### Learning Outcomes {-}
+
+When you have completed this unit, you should be able to:
+
+- Develop skills for living a life of wisdom and justice
+- Develop and enhance skills of written communication
+- Practice the skills of wisdom and reason, such as humility
+- Enhance skills of wisdom and reason to live life within the context of justice and faith.
+- Understand how to become a well-rounded person and citizen.
+
+### Resources {-}
+
+- Pojman, L. P., & Rea, M. C. (2008). "Faith, Hope and Doubt" in Philosophy of religion: An anthology.
+- Boyd, C et. al.,(2018) "Ethics in the Christian Scriptures" chapter 3 in Christian Ethics and Moral Philosophy: An Introduction to Issues and Approaches
+
+
+In this topic, we explore a first way to think about faith. For Pojman, religious faith - particularly in the midst of doubt - entails a hope that the claims of that faith are true (e.g.. in the case of Christianity, that creation is restored, forgiveness, and resurrection). Pojman’s view of faith differs from some traditional definitions of faith that focus on affirming correct beliefs. According to Pojman, faith requires hope and not belief. One reason Pojman affirms that position is because the acquisition of belief is largely beyond one’s control and thus one cannot be held responsible for those beliefs. For example, the belief that “I see a tree” is something the world generates in the mind through perception. One cannot help but believe that they see a tree in the appropriate circumstances. Belief in God may resemble the example of perceiving the tree in that one cannot help but believe in God or disbelieve in God, depending on the appropriate circumstances. By contrast, Pojman argues that hope is within one’s control and thus one can be held responsible for their hopes. So, for Pojman, a person who desperately hopes in the truth of Christianity, who takes appropriate action in light of that hope, even though they do not believe the truth of Christianity, may find themselves in God’s good company.
+
+
+### Highlights from the reading {-}
+
+“Traditionally, orthodox Christianity has claimed (1) that faith in God and Christ entails belief that God exists and that Christ is God incarnate and (2) that without faith we are damned to eternal hell. Thus, doubt is an unacceptable propositional attitude.”
+
+“Beliefs are not chosen but occur involuntarily as responses to states of affairs in the world.”
+
+“When a person acquires a belief, the world forces itself upon him.”
+
+“There is something incoherent in stating that one can obtain or sustain a belief in full consciousness simply by a bais act of the will - that is, purposefully disregarding the evidence…”
+
+Suppose I say that I believe I have $1000,000 in my checking account, and suppose that when you point out to me that there is no reason to believe this, I respond, “I know that there is not the slightest reason to suppose that there is $1000,000 in my checking account, but I believe it anyway, simply because I want to.”
+
+“If we have a moral duty not to volit [that is, to hold beliefs only because of our will to do so] but to seek the truth impartially and passionately, then we ought not to obtain religious belief by willing to have them; instead we should follow the best evidence we can get.”
+
+
+“The point may be put more simply. Suppose you are fleeing a murderous gang of desperados who are betn on your annihilation. You come to the edge of a cliff that overlooks a yawning gorge. You find a rope spanning the gorge - tied to a tree on the cliff on the opposite side - and a man who announces that he is a tight-rope walker and can carry you over the gorge on the rope. He doesn’t look as if he can do it, so you wonder whether he is insane or simply overconfident. He takes a few steps on the rope to assure you that he can balance himself. You agree that it’s possible that he can navigate the rope across the gorge, but you have grave doubts about whether he can carry you. But your options are limited. Soon your pursuers will be upon you. You must decide. Whereas you still don’t believe that the ‘tight-rope walker’ can save you, you decide to trust him. You place your faith in his ability, climb on his back, close your eyes, and do your best to relax and obey his commands in adjusting your body as he steps onto the rope. You have a profound, even desperate, hope that he will be successful. This is how I see religious hope functioning in the midst of doubt.”
+
+
+Please take a moment to watch the following video on Doubt and Faith by Professor Richard Swinburne. The video duration is 6:17 minutes long and is an optional resource.
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/exsmSlxnbHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+### Learning Activity {-}
+
+```{block2, type='reflect'}
+#### Take notes for your Final Paper {-}
+
+Answering the following questions is optional. Answering these questions and saving them as a document will allow you to take notes on the readings in preparation for your final paper due at the end of Unit 3.
+<!-- content goes here -->
+```
+//todo #21
+[h5p id="435"]
+
+The second topic focuses on another definition of faith. While Boyd and Thorsen’s chapter deals largely with Christian ethics, a valuable topic in its own right, especially noting the relationship between ethics and wisdom, the chapter includes a valuable discussion about the nature of faith. In some Christian traditions, faith coincides with salvation. That is, faith in God is motivated in part to receive forgiveness and secure the afterlife. In some cases, that commitment to faith for salvation aligns with understanding faith as belief and trust - the first two definitions of faith described above. However, Boyd and Thorsen briefly summarize a different view of faith (and, indeed, salvation) such that faith requires living a certain kind of life - a life devoted to Christian virtue. Christian virtue focuses on the ethics of love towards God, other individuals (particularly the neediest) and to society as a whole. Thus, Boyd and Thorsen’s chapter provides valuable insight into Christian wisdom. A Christian should focus not only on the principles of wisdom described in Unit 1, but should reflect on how those principles of wisdom align with Christian faith and moral responsibility towards God, individuals, and society.
+
+### Highlights from the reading {-}
+
+“...the sermon [on the mount] culminates in what is known as the golden rule: “In everything do to others as you would have them do to you.” (41)
+
+“From this brief survey of how Christians have interpreted the Sermon on the Mount, we can see that there is no unanimity with regard to how to understand Jesus’s teachings in general and his ethics in particular. This does mean that we are without guidance with regard to learning about Jesus’s beliefs, values, and practices.” (44-5)
+
+“But Christians should be humble when making their claims about what Jesus and the Christian Scriptures state precisely about any particular ethical issue.”
+
+“The so-called new perspective on Paul emphasizes a greater continuity between Paul’s view of grace and faith, including God’s role in providing for people’s salvation, and the conditionality of their choosing to assent, repent, and act faithfully” (46).
+
+“Although Christians have had divergent opinions of the degree to which obedience to God’s laws relates to the gospel message of salvation, they agree that people are responsible for their moral choices.” (47)
+
+“The greatest ethical command that Jesus gave had to do with love, and this principle is echoed throughout the Christian Scriptures.” (48)
+Please take a moment to watch the following video on Why Consider Other Christian Views of the Bible? by Don Thorsen. Please consider thet the video duration is 1:17 minutes long and is an optional resource.
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pHQiSwX-dCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+### Learning Activity {-}
+
+```{block2, type='reflect'}
+
+#### Take notes for your Final Paper {-}
+
+Answering the following questions is optional. Answering these questions and saving them as a document will allow you to take notes on the readings in preparation for your final paper due at the end of Unit 3.
+<!-- content goes here -->
+```
+//todo #22
+[h5p id="436"]
+
+## Assessment {-}
+
+
+#### Grading Criteria {-}
+
+
+#### Submission Instructions {-}
+
+Submit your Reflective Journal to the Moodle dropbox under Assessments.
+
+### Forum Introductions {-}
+
+Also remember to introduce yourself to your  TWU instructor by writing a brief introduction in the online Discussion Forum.  Please share about yourself, such as where you live, what you are studying, and the kind of things that interest you. Perhaps some questions you have about this course? Share a picture of someone or something that means a lot to you (i.e. your pet, family, favourite movie or book, etc.).
+
+
+### Checking Your Learning {-}
+
+```{block2, type='progress'}
+
+Before you move on to the next unit, check that you are able to:  
+[fa=check /] ...   
+[fa=check /] ...  
+[fa=check /] ...  
+
+```
