@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.5.13)  13 MAY 2023 12:34
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.5.13)  13 MAY 2023 17:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -971,24 +971,21 @@ File: assets/course-intro/right_arrow.png Graphic file (type bmp)
 ]
 File: assets/community/luke-porter-NEqEC7qa9FM-unsplash.jpg Graphic file (type bmp)
 <assets/community/luke-porter-NEqEC7qa9FM-unsplash.jpg>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 [13]
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
-(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 430.
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 434.
 [14]
 Chapter 1.
 ! Dimension too large.
 <argument> \wd \@tempboxa 
                           
-l.443 ...ludegraphics{assets/u1/Unit1overview.jpg}
+l.447 ...ludegraphics{assets/u1/Unit1overview.jpg}
                                                    
 Here is how much of TeX's memory you used:
- 26585 strings out of 478708
- 529126 string characters out of 5848295
+ 26586 strings out of 478708
+ 529137 string characters out of 5848295
  1859630 words of memory out of 5000000
- 46261 multiletter control sequences out of 15000+600000
+ 46262 multiletter control sequences out of 15000+600000
  518762 words of font info for 88 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  86i,7n,121p,815b,489s stack positions out of 10000i,1000n,20000p,200000b,200000s
