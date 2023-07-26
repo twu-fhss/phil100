@@ -110,9 +110,11 @@ Identify which of the following are premises and which are conclusions by clicki
 ### Activity Checklist {-}
 
 ```{block2, type='reflect'}
+
 - Focus on statements and ignore non-statements
+
 - Locate the premises and conclusion using keywords
-<!-- content goes here -->
+
 ```
 //todo #14
 [h5p id="413"]
@@ -139,10 +141,13 @@ Identify which of the following are premises and which are conclusions. Label by
 
 
 ```{block2, type='progress'}
+
 - Focus on statements and ignore non-statements
-- Locate the premises and conclusion using keywords
+
+- Locate the premises and conclusion using keywords.
+
 - Label the premises and conclusion by inserting the appropriate letter in the blank in front of the statements: P for premise, and C for Conclusion. Be sure to ignore non-statements by inserting an "X" in the blank in front of the non-statement.
-<!-- content goes here -->
+
 ```
 
 **Example:**
@@ -174,17 +179,21 @@ This activity has two steps. The first step is to click/drag the appropriate let
 ### Activity Checklist {-}
 
 - Focus on statements and ignore non-statements
+
 - Locate the premises and conclusion using keywords
-- Label the premises and conclusion using letters in parentheses
-- Restructure the argument vertically, with premises on top and the conclusion on the bottom
+
+- Label the premises and conclusion using letters in parentheses.
+
+- Restructure the argument vertically, with premises on top and the conclusion on the bottom.
 
 
 For example:
- “Lucy is a teacher. All teachers drink coffee. Therefore, Lucy drinks coffee.”
+
+“Lucy is a teacher. All teachers drink coffee. Therefore, Lucy drinks coffee.”
 
 Step 1: Label the argument
 
- (P) Lucy is a teacher. (P) All teachers drink coffee. (C) Therefore, Lucy drinks coffee.
+(P) Lucy is a teacher. (P) All teachers drink coffee. (C) Therefore, Lucy drinks coffee.
 
 
 Step 2: Restructure the argument vertically
@@ -261,12 +270,14 @@ This activity has two steps. The first step is to click/drag the appropriate let
 ### Activity Checklist: {-}
 
 - Focus on statements and ignore non-statements.
+
 - Locate the premises and conclusion using keywords. 
 
 ```{block2, type='progress'}
 **NOTE: use the “Why/Because” strategy for difficult cases.**
 ```
 - Label the premises and conclusion using letters in parentheses.
+
 - Restructure the argument vertically, with premises on top and the conclusion on the bottom.
 
 ```{block2, type='progress'}
@@ -275,11 +286,11 @@ This activity has two steps. The first step is to click/drag the appropriate let
 
 Example:
 
- “I think all children are artists. Marcie is a child. Marcie must be an artist.”
+“I think all children are artists. Marcie is a child. Marcie must be an artist.”
 
 **Step 1:** Label the arguments
 
- (P) I think all children are artists. (P) Marcie is a child. (C) Marcie must be an artist.
+(P) I think all children are artists. (P) Marcie is a child. (C) Marcie must be an artist.
 
 **Step 2:** Restructure the argument vertically
 
@@ -387,7 +398,9 @@ This activity has two steps. The first step is to click/drag the appropriate let
 ```{block2, type='progress'}
 
 - Focus on statements and ignore non-statements.
-- Locate the premises and conclusion using keywords. 
+
+- Locate the premises and conclusion using keywords.
+
 
 ```
 
@@ -396,8 +409,11 @@ This activity has two steps. The first step is to click/drag the appropriate let
 ```
 
 ```{block2, type='progress'}
+
 - Label the premises and conclusion using letters in parentheses.
+
 - Restructure the argument vertically, with premises on top and the conclusion beneath.
+
 ```
 
 ```{block2, type='caution'}
@@ -406,24 +422,25 @@ This activity has two steps. The first step is to click/drag the appropriate let
 ```
 
 Example 1:
- “If that thing walks like a duck, then that thing is a duck. That thing walks like a duck. Therefore, that thing is a duck.
+“If that thing walks like a duck, then that thing is a duck. That thing walks like a duck. Therefore, that thing is a duck.
 
 **Step 1:** Label the argument
 
- (P) If that thing walks like a duck, then that thing is a duck. (P) That thing walks like a duck. (C) Therefore, that thing is a duck.
+(P) If that thing walks like a duck, then that thing is a duck. (P) That thing walks like a duck. (C) Therefore, that thing is a duck.
 
 **Step 2:** Restructure the argument vertically
+
 1. If that animal walks like a duck, then that animal is a duck.  
 2. That animal walks like a duck.  
 3. Therefore, that animal is a duck.  
 
 
 Example 2:
- “I’ll marry you only if you watch Downton Abbey. What!? You refuse to watch Downton Abbey. You’re kidding me! Well, I refuse to marry you.”
+“I’ll marry you only if you watch Downton Abbey. What!? You refuse to watch Downton Abbey. You’re kidding me! Well, I refuse to marry you.”
 
 **Step 1:** Label the argument (notice the change from "only if" to "if then")
 
- (P) If I marry you, then you must watch Downton Abbey. (P) You refuse to watch Downton Abbey. (C) I will not marry you.
+(P) If I marry you, then you must watch Downton Abbey. (P) You refuse to watch Downton Abbey. (C) I will not marry you.
 
 **Step 2:** Restructure the argument vertically
 
@@ -439,13 +456,16 @@ In the previous topics, we learned about identifying arguments. In this final to
 
 ### Activity Checklist {-}
 
-
 ```{block2, type='reflect'}
+
 - Focus on statements and ignore non-statements
-- Locate the premises and conclusion using keywords
-- Label the premises and conclusion using letters and numerals in parentheses
+
+- Locate the premises and conclusion using keywords.
+
+- Label the premises and conclusion using letters and numerals in parentheses.
+
 - Restructure the argument vertically, with premises on top and the conclusion beneath
-<!-- content goes here -->
+
 ```
 
 //todo #18

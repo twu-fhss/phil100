@@ -1,6 +1,6 @@
 # Wisdom
 
-!["Rough waters"](assets/u1/Unit1overview.jpg)
+![](assets/u1/Unit_1_Overview.png)
 
 CCO Creative Commons by [ISO Republic](https://isorepublic.com/photo/sun-reflecting-on-waves/)
 
@@ -18,9 +18,6 @@ This unit is divided into the following topics:
 4. Wisdom and Bias
 6. Wisdom and Charity
 7. Wisdom and Rhetoric
-
-
-
 
 ## Learning Outcomes
 
@@ -50,7 +47,10 @@ Heinrichs, J., 2007 “Set Your Goals,” chapter 2 in "Thank you for Arguing: W
 ### Activity: Reading{-}
 
 ```{block2, type='reflect'}
-- [Robert Nozick, “What Is Wisdom And Why Do Philosophers Love It So?”](assets/u1/PAT-10018662_What_is_Wisdom.pdf)
+
+- [](assets/u1/PAT_10018662_What_is_Wisdom.pdf)
+{target="_blank"}
+
 ```
 
 This topic examines wisdom and action. According to Nozick, wisdom is practical in that wisdom is required to live life well, to cope with and respond to the many challenges of life, and, if possible, avoid some of those challenges. For living life well, wisdom requires both affirming the right beliefs and practicing the right actions. **How do we know which beliefs and actions are appropriate for living life well?** Nozick argues that a wise person holds beliefs about many aspects of life, including beliefs about life's most important values, beliefs about achieving one's goals, and following the necessary steps to achieve these goals. Likewise, the right actions for living a fulfilling life are derived from applying the aforementioned beliefs. If a person knows about the most important values and goals in life, but never applies them to their behavior, then they are not considered wise. In other words, having knowledge does not entail wisdom. Nozick is also aware that applying the appropriate beliefs and actions is not sufficient to live life well. Sometimes bad things occur for no apparent reason, which may undermine our efforts. A wise person is aware of this problem, and while pursuing their  goals, prepares for failure, learns how to avoid it, and how to respond to it if failure occurs.
@@ -71,11 +71,14 @@ This topic examines wisdom and action. According to Nozick, wisdom is practical 
 ### Activity: Watch and Reflect {-}
 
 ```{block2, type='reflect'}
+
 Please take a moment to watch the following video, a look at the definition of wisdom from philosophers Valerie Tiberius and Philip Kitcher, as well as psychologist Lisa Feldman Barret. The video duration is 5:55 minutes and is an optional resource.
 
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/obqedyeUcwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 </div>
+
 ```
 
 This topic contains a learning activity, its purpose is to examine one application of wisdom and setting a personal goal that may improve one's life. Along with setting a personal goal, one must outline the good habits necessary to achieve that goal, and devise strategies to avoid the bad habits that would undermine it. Additionally, one needs to prepare for failure in terms of developing the right habits and reaching the end goal, as well as developing a strategy for avoiding failure and addressing it, if it happens.
