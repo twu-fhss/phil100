@@ -87,8 +87,13 @@ In that example, the first part, “Stop,” is a non-statement, and the second 
 ### Learning Activity : Identifying statements and non-statements {-}
 
 Which of the following are statements? Which of the following are non-statements?. Identify the statements and non-statements by dragging down the appropriate statement and non-statement to the corresponding box below.
-//todo #13
-[h5p id="411"]
+
+---
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=411" width="845" height="765" frameborder="0" allowfullscreen="allowfullscreen" title="Phil101_Statement | Non-statement"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+---
+
 
 The purpose of Topic 1 was to introduce the elements of an argument, such as statements, non-statements, and sentences. We learned about the premises, conclusion, and inferences (note, again, that we do not cover inferences in this class). Topic 2 discusses the use of keywords to identify the premises and conclusion of an argument.
 
@@ -116,8 +121,11 @@ Identify which of the following are premises and which are conclusions by clicki
 - Locate the premises and conclusion using keywords
 
 ```
-//todo #14
-[h5p id="413"]
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=413" width="845" height="231" frameborder="0" allowfullscreen="allowfullscreen" title="Phil101_LA_2.2: Identifying premises and conclusions"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+---
+
 
 In topics 1 and 2, we learned about the parts of an argument and some initial strategies for identifying arguments. The parts of an argument include statements, which are claims that are either true or false, such as premises and conclusions. We also learned that identifying an argument is simpler when there exist keywords for indicating those premises and conclusions. In Topic 3, we focus on how to label arguments by symbolizing premises and conclusions, for example:
 
@@ -158,8 +166,12 @@ Argument:
 Solution:
  (P) All conservatives are Christian. (P) Charlie is conservative. (C) Therefore, Charlie is Christian.
 
-//todo #15
-[h5p id="414"]
+---
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=414" width="845" height="1966" frameborder="0" allowfullscreen="allowfullscreen" title="Phil101_LA_2.3: Label premises and conclusions"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+---
+
 
 A major part of our learning in Topics 1-3 focused on the premises and conclusions of an argument. Additionally, we learned about the keywords for identifying those parts, and how to label the premises and conclusion with letters in parentheses. As illustrated in the previous topics, notice that writing an argument in vertical form, with premises on top and the conclusion on the bottom, is the most effective way to illustrate the final argument. For example,   
 
@@ -203,7 +215,11 @@ Step 2: Restructure the argument vertically
 3. Therefore, Lucy drinks coffee. (C)
 
 #### Practice Exercises {-}
-[h5p id="415"]
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=415" width="845" height="10230" frameborder="0" allowfullscreen="allowfullscreen" title="Phil101_LA_2.4: Label and Structure the argument"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+---
+
 
 In Topics 1-4, we learned about the parts of the argument, how to locate keywords, label the parts of the argument with letters in parentheses, and how to restructure the argument vertically with premises at the top and conclusion at the bottom.
 
@@ -300,8 +316,9 @@ Example:
 
 
 #### Practice Exercises {-}
-//todo #16
-[h5p id="425"]
+
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=425" width="845" height="12426" frameborder="0" allowfullscreen="allowfullscreen" title="Phil101_LA_2.5: Label and Structure the argument"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 In topics 1-5, we learned about the parts of the argument, and, in doing so, learned some strategies for identifying arguments. However, as arguments become more complicated, one must learn new techniques.
 
@@ -449,8 +466,9 @@ Example 2:
 3. Thus, I will not marry you.  
 
 #### Practice Exercises {-}
-//todo #17
-[h5p id="426"]
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=426" width="845" height="6022" frameborder="0" allowfullscreen="allowfullscreen" title="Phil101_LA_2.6: Label and Structure the argument"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 
 In the previous topics, we learned about identifying arguments. In this final topic, we apply those tools to identifying more difficult arguments. The examples below are more challenging because the arguments are not only greater length, but the arguments can be difficult to identify. One must carefully sift through the statements to decipher (i) does an argument exist, and (ii) if yes, then what is the conclusion(s) and the premises supporting that conclusion(s)? One must employ all the methods to achieve those tasks: such as ignoring non-statements, search for keywords that indicate premises and conclusions (highlight them, if that helps), label the premises and conclusions in parentheses, interpret what the author intended to say, and restructure the argument vertically in its strongest form. Note: more complex arguments often include multiple conclusions and those conclusions may operate as premises of the same argument. Note: when encountering a lengthy passage, read the entire passage through multiple times before attempting to identify the parts of the argument. The reason for that is to gain a broader understanding of what the author intended to say.  
 
@@ -468,16 +486,19 @@ In the previous topics, we learned about identifying arguments. In this final to
 
 ```
 
-//todo #18
-[h5p id="432"]
+---
 
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=432" width="845" height="524" frameborder="0" allowfullscreen="allowfullscreen" title="Phil101_U2_FinalExamples1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-//todo #19
-[h5p id="433"]
+---
 
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=433" width="845" height="496" frameborder="0" allowfullscreen="allowfullscreen" title="Phil101_U2_FinalExample2"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-//todo #20
-[h5p id="434"]
+---
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=434" width="845" height="592" frameborder="0" allowfullscreen="allowfullscreen" title="Phil101_U2_FinalExample3"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+---
 
 
 Example 3 is more challenging. In these types of cases, read through the entire passage several times to decipher the argument exactly. Take time to draft multiple arguments vertically and observe which version best represents what the author intended to say.  
