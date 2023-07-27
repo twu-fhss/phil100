@@ -57,7 +57,9 @@ Suppose I say that I believe I have $1000,000 in my checking account, and suppos
 Please take a moment to watch the following video on Doubt and Faith by Professor Richard Swinburne. The video duration is 6:17 minutes long and is an optional resource.
 
 <div class="video-container">
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/exsmSlxnbHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 </div>
 
 ### Learning Activity {-}
@@ -68,8 +70,13 @@ Please take a moment to watch the following video on Doubt and Faith by Professo
 Answering the following questions is optional. Answering these questions and saving them as a document will allow you to take notes on the readings in preparation for your final paper due at the end of Unit 3.
 <!-- content goes here -->
 ```
-//todo #21
-[h5p id="435"]
+
+---
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=435" width="845" height="930" frameborder="0" allowfullscreen="allowfullscreen" title="Phil101_U3_FaithHopeDoubt_Notes"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+---
+
 
 The second topic focuses on another definition of faith. While Boyd and Thorsen’s chapter deals largely with Christian ethics, a valuable topic in its own right, especially noting the relationship between ethics and wisdom, the chapter includes a valuable discussion about the nature of faith. In some Christian traditions, faith coincides with salvation. That is, faith in God is motivated in part to receive forgiveness and secure the afterlife. In some cases, that commitment to faith for salvation aligns with understanding faith as belief and trust - the first two definitions of faith described above. However, Boyd and Thorsen briefly summarize a different view of faith (and, indeed, salvation) such that faith requires living a certain kind of life - a life devoted to Christian virtue. Christian virtue focuses on the ethics of love towards God, other individuals (particularly the neediest) and to society as a whole. Thus, Boyd and Thorsen’s chapter provides valuable insight into Christian wisdom. A Christian should focus not only on the principles of wisdom described in Unit 1, but should reflect on how those principles of wisdom align with Christian faith and moral responsibility towards God, individuals, and society.
 
@@ -89,7 +96,9 @@ The second topic focuses on another definition of faith. While Boyd and Thorsen�
 Please take a moment to watch the following video on Why Consider Other Christian Views of the Bible? by Don Thorsen. Please consider thet the video duration is 1:17 minutes long and is an optional resource.
 
 <div class="video-container">
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pHQiSwX-dCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 </div>
 
 ### Learning Activity {-}
@@ -101,8 +110,11 @@ Please take a moment to watch the following video on Why Consider Other Christia
 Answering the following questions is optional. Answering these questions and saving them as a document will allow you to take notes on the readings in preparation for your final paper due at the end of Unit 3.
 <!-- content goes here -->
 ```
-//todo #22
-[h5p id="436"]
+---
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=436" width="845" height="1356" frameborder="0" allowfullscreen="allowfullscreen" title="Phil101_U3_Ethics"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+---
+
 
 ## Assessment {-}
 
