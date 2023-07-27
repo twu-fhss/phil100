@@ -34,9 +34,10 @@ Nozick, R., 1989, “What is Wisdom and Why Do Philosophers Love it So?” in Th
 
 [Descartes, R., Miller, V. R., & Miller, R. P. (1983). Principles of philosophy. Dordrecht, Holland: Reidel.](https://www.earlymoderntexts.com/assets/pdfs/descartes1644part1.pdf)
 
-//todo #2
+
 [Plato, & Jowett, B. (1999). Apology. Project Gutenberg.](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1085368&site=eds-live&scope=site&ebv=EB&ppid=pp_1)
 
+//todo #2
 Stanovish, K. (2020). The Bias that divides us. Quillette. https://quillette.com/2020/09/26/the-bias-that-divides-us/. (Free subscription)
 
 Johnson, Ralph. 1981. “Charity Begins at Home,” Informal Logic Newsletter 3: 4-9.
@@ -87,8 +88,12 @@ This topic contains a learning activity, its purpose is to examine one applicati
 
 Answering the following questions is optional. Answering these questions and saving them as a document will allow you to take notes on the readings in preparation for the Life Journal assignment due at the end of Unit 1.
 
-//todo #3
-[h5p id="410"]  
+---
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=410" width="845" height="804" frameborder="0" allowfullscreen="allowfullscreen" title="Phil101_Wisdom and Action"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+---
+
 
 ### Activity: Reading{-}
 
@@ -121,7 +126,10 @@ To pursue a higher knowledge about God, science, and morality, Descartes imagine
 Please take a moment to view this optional video.  In this video, the Honorable Richard Holloway, who is a writer, broadcaster, and cleric from Scotland, seeks to initiate a debate around the more profound spiritual questions of life. The duration of this video is 4:45 minutes.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LERi_Xjfio4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LERi_Xjfio4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
 
 ```
 
@@ -132,8 +140,12 @@ The aim of the following learning activities is to explore and learn about these
 
 The simulation exercises are meant to simulate a conversation and introduce students to the various topics in Unit 1. Students are encouraged to not only review the simulation exercises but to practice the applications of wisdom in their daily lives.
 
-//todo #4
-[h5p id="409"]
+---
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=409" width="845" height="745" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL101_Branching Exercise - Wisdom and Knowledge (topic 2)"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+---
+
 
 ## Activity Checklist {-}
 
@@ -144,8 +156,10 @@ The simulation exercises are meant to simulate a conversation and introduce stud
 Answering the following questions is optional. Answering these questions and saving them as a document will allow you to take notes on the readings in preparation for the Life Journal assignment due at the end of Unit 1.
 
 ```
-//todo #5
-[h5p id="412"]
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=412" width="845" height="876" frameborder="0" allowfullscreen="allowfullscreen" title="Phil101_Wisdom and Knowledge"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+---
 
 _Pre-reading: [http://classics.mit.edu/Plato/apology.html](http://classics.mit.edu/Plato/apology.html)_
 
@@ -172,24 +186,32 @@ The aim in the following learning activities is to practice humility about what 
 ```{block2, type='reflect'}
 
 Please take a moment to watch this optional video with Dr. Ian Church, What is intellectual humility? A doxastic account. Here is the first of three parts. If you have the time, you should watch them all. Please note that this video lasts for approximately 2:27 minutes.
+
 ```
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8CZIkGEJYRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8CZIkGEJYRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
 
 
 ### Learning Activity: Practicing Humility - Simulation Exercise 2
 
 The simulation exercises are meant to simulate a conversation and introduce students to the various topics in Unit 1. Students are encouraged to not only review the simulation exercises but to practice the applications of wisdom in their daily lives.
 
-//todo #6
-[h5p id="424"]
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=424" width="845" height="745" frameborder="0" allowfullscreen="allowfullscreen" title="Phil 101_Branching Exercise (Humility, Topic 3)"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 
 ### Learning Activity: Take notes for your Life Journal
 
 Answering the following questions is optional. Answering these questions and saving them as a document will allow you to take notes on the readings in preparation for the Life Journal assignment due at the end of Unit 1.
 
-//todo #7
-[h5p id="427"]
+---
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=427" width="845" height="804" frameborder="0" allowfullscreen="allowfullscreen" title="Phil101_Wisdom and Humility"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+---
+
 
 ### Activity: Reading{-}
 
@@ -241,19 +263,30 @@ Watch the optional video below. Jonathan Haidt, a renowned social psychologist, 
 ### Learning Activity: Awareness of bias - Simulation Exercise 3
 
 The simulation exercises are meant to simulate a conversation and introduce students to the various topics in Unit 1. Students are encouraged to not only review the simulation exercises but to practice the applications of wisdom in their daily lives.
-//todo #8
-[h5p id="419"]
+
+---
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=419" width="845" height="745" frameborder="0" allowfullscreen="allowfullscreen" title="Phil 101_Branching Exercise (Bias, Topic 4)"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+---
+
 
 ### Learning Activity : Take notes for your Life Journal
 
 Answering the following questions is optional. Answering these questions and saving them as a document will allow you to take notes on the readings in preparation for the Life Journal assignment due at the end of Unit 1.
-//todo #9
-[h5p id="429"]
+
+---
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=429" width="845" height="780" frameborder="0" allowfullscreen="allowfullscreen" title="Phil101_Wisdom and Bias"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+---
 
 ### Activity: Reading{-}
 
 ```{block2, type='reflect'}
+
 [Ralph H. Johnson, “Charity Begins at Home”](assets/u1/CharityBeginsatHome.pdf)
+
 ```
 
 In Topic 5, the emphasis is on wisdom and charity. The term “charity” in this case refers to **a principle of treating a person's argument and/or opinion in its strongest form**. In the previous two topics, we discussed humility and bias, both of which are relevant to practicing charity. For example, when employing humility, one is aware of their ignorance and the need to ask questions about the opponent’s view. That questioning can be a type of charity when done for the purpose of gaining understanding. Similarly, one is aware of myside bias, and that bias influences the interpretation and treatment of the opponent, especially if that opponent is from another social group. Recognizing the powerful influence of myside bias promotes charity by helping constrain one’s immediate rejection of the opponent’s view.
@@ -304,13 +337,23 @@ You are invited to watch the following optional video. John Corvino who is a spe
 ### Learning Activity: Acting with charity - Simulation Exercise 4
 
 The simulation exercises are meant to simulate a conversation and introduce students to the various topics in Unit 1. Students are encouraged to not only review the simulation exercises but to practice the applications of wisdom in their daily lives.
-//todo #10
-[h5p id="422"]
+
+---
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=422" width="845" height="745" frameborder="0" allowfullscreen="allowfullscreen" title="Phil 101_Branching Exercise (Charity, Topic 5)"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+---
+
 
 ### Learning Activity : Take notes for your Life Journal
 Answering the following questions is optional. Answering these questions and saving them as a document will allow you to take notes on the readings in preparation for the Life Journal assignment due at the end of Unit 1.
 
-[h5p id="444"]
+---
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=444" width="845" height="852" frameborder="0" allowfullscreen="allowfullscreen" title="Phil101_Wisdom and Charity"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+---
+
 
 [Jay Heinrichs, “Set Your Goals,” chapter 2 in Thank you for Arguing: What Aristotle, Lincoln, and Homer Simpson can teach us about the Art of Persuasion](assets/u1/PAT-10018663_Thank_you_for.pdf)
 
@@ -358,14 +401,24 @@ Take a moment to watch this optional video. Here, Camille A. Langston, a special
 ### Learning Activity: The art of persuasion - Simulation Exercise 5
 
 The simulation exercises are meant to simulate a conversation and introduce students to the various topics in Unit 1. Students are encouraged to not only review the simulation exercises but to practice the applications of wisdom in their daily lives.
-//todo #11
-[h5p id="420"]
+
+---
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=420" width="845" height="745" frameborder="0" allowfullscreen="allowfullscreen" title="Phil 101_Branching Exercise (Rhetoric, topic 6)"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+---
+
 
 ### Learning Activity: Take notes for your Life Journal
 
 Answering the following questions is optional. Answering these questions and saving them as a document will allow you to take notes on the readings in preparation for the Life Journal assignment due at the end of Unit 1.
-//todo #12
-[h5p id="428"]
+
+---
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=428" width="845" height="954" frameborder="0" allowfullscreen="allowfullscreen" title="Phil101_Wisdom and Rhetoric"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+---
+
 
 ## Assessment
 
