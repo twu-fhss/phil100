@@ -79,7 +79,7 @@ Please take a moment to watch the following video on Doubt and Faith by Professo
 
 Answering the following questions is optional. Answering these questions and saving them as a document will allow you to take notes on the readings in preparation for your final paper due at the end of Unit 3.
 
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=435" width="700" height="930" frameborder="0" allowfullscreen="allowfullscreen" title="Phil101_U3_FaithHopeDoubt_Notes"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=435" width="100%" height="930" frameborder="0" allowfullscreen="allowfullscreen" title="Phil101_U3_FaithHopeDoubt_Notes"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ```
 
@@ -126,7 +126,7 @@ Please take a moment to watch the following video on Why Consider Other Christia
 
 Answering the following questions is optional. Answering these questions and saving them as a document will allow you to take notes on the readings in preparation for your final paper due at the end of Unit 3.
 
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=436" width="700" height="1356" frameborder="0" allowfullscreen="allowfullscreen" title="Phil101_U3_Ethics"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=436" width="100%" height="1356" frameborder="0" allowfullscreen="allowfullscreen" title="Phil101_U3_Ethics"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ```
 

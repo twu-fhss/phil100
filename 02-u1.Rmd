@@ -144,7 +144,7 @@ The aim of the following learning activities is to explore and learn about these
 
 The simulation exercises are meant to simulate a conversation and introduce students to the various topics in Unit 1. Students are encouraged to not only review the simulation exercises but to practice the applications of wisdom in their daily lives.
 
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=409" width="700" height="745" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL101_Branching Exercise - Wisdom and Knowledge (topic 2)"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=409" width="100%" height="745" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL101_Branching Exercise - Wisdom and Knowledge (topic 2)"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ```
 
@@ -154,7 +154,7 @@ The simulation exercises are meant to simulate a conversation and introduce stud
 
 Answering the following questions is optional. Answering these questions and saving them as a document will allow you to take notes on the readings in preparation for the Life Journal assignment due at the end of Unit 1.
 
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=412" width="700" height="876" frameborder="0" allowfullscreen="allowfullscreen" title="Phil101_Wisdom and Knowledge"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=412" width="100%" height="876" frameborder="0" allowfullscreen="allowfullscreen" title="Phil101_Wisdom and Knowledge"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ```
 
@@ -207,7 +207,7 @@ Please take a moment to watch this optional video with Dr. Ian Church, What is i
 
 The simulation exercises are meant to simulate a conversation and introduce students to the various topics in Unit 1. Students are encouraged to not only review the simulation exercises but to practice the applications of wisdom in their daily lives.
 
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=424" width="700" height="745" frameborder="0" allowfullscreen="allowfullscreen" title="Phil 101_Branching Exercise (Humility, Topic 3)"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=424" width="100%" height="745" frameborder="0" allowfullscreen="allowfullscreen" title="Phil 101_Branching Exercise (Humility, Topic 3)"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ```
 
@@ -219,7 +219,7 @@ Answering the following questions is optional. Answering these questions and sav
 
 
 
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=427" width="700" height="804" frameborder="0" allowfullscreen="allowfullscreen" title="Phil101_Wisdom and Humility"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=427" width="100%" height="804" frameborder="0" allowfullscreen="allowfullscreen" title="Phil101_Wisdom and Humility"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ```
 
@@ -274,7 +274,7 @@ Watch the optional video below. Jonathan Haidt, a renowned social psychologist, 
 
 The simulation exercises are meant to simulate a conversation and introduce students to the various topics in Unit 1. Students are encouraged to not only review the simulation exercises but to practice the applications of wisdom in their daily lives.
 
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=419" width="700" height="745" frameborder="0" allowfullscreen="allowfullscreen" title="Phil 101_Branching Exercise (Bias, Topic 4)"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=419" width="100%" height="745" frameborder="0" allowfullscreen="allowfullscreen" title="Phil 101_Branching Exercise (Bias, Topic 4)"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ```
 
@@ -284,7 +284,7 @@ The simulation exercises are meant to simulate a conversation and introduce stud
 
 Answering the following questions is optional. Answering these questions and saving them as a document will allow you to take notes on the readings in preparation for the Life Journal assignment due at the end of Unit 1.
 
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=429" width="700" height="780" frameborder="0" allowfullscreen="allowfullscreen" title="Phil101_Wisdom and Bias"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=429" width="100%" height="780" frameborder="0" allowfullscreen="allowfullscreen" title="Phil101_Wisdom and Bias"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ```
 
@@ -345,7 +345,7 @@ You are invited to watch the following optional video. John Corvino who is a spe
 
 The simulation exercises are meant to simulate a conversation and introduce students to the various topics in Unit 1. Students are encouraged to not only review the simulation exercises but to practice the applications of wisdom in their daily lives.
 
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=422" width="700" height="745" frameborder="0" allowfullscreen="allowfullscreen" title="Phil 101_Branching Exercise (Charity, Topic 5)"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=422" width="100%" height="745" frameborder="0" allowfullscreen="allowfullscreen" title="Phil 101_Branching Exercise (Charity, Topic 5)"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ```
 
@@ -356,7 +356,7 @@ The simulation exercises are meant to simulate a conversation and introduce stud
 
 Answering the following questions is optional. Answering these questions and saving them as a document will allow you to take notes on the readings in preparation for the Life Journal assignment due at the end of Unit 1.
 
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=444" width="700" height="852" frameborder="0" allowfullscreen="allowfullscreen" title="Phil101_Wisdom and Charity"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=444" width="100%" height="852" frameborder="0" allowfullscreen="allowfullscreen" title="Phil101_Wisdom and Charity"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ```
 
@@ -408,7 +408,7 @@ Take a moment to watch this optional video. Here, Camille A. Langston, a special
 The simulation exercises are meant to simulate a conversation and introduce students to the various topics in Unit 1. Students are encouraged to not only review the simulation exercises but to practice the applications of wisdom in their daily lives.
 
 
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=420" width="700" height="745" frameborder="0" allowfullscreen="allowfullscreen" title="Phil 101_Branching Exercise (Rhetoric, topic 6)"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=420" width="100%" height="745" frameborder="0" allowfullscreen="allowfullscreen" title="Phil 101_Branching Exercise (Rhetoric, topic 6)"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ```
 
@@ -418,7 +418,7 @@ The simulation exercises are meant to simulate a conversation and introduce stud
 
 Answering the following questions is optional. Answering these questions and saving them as a document will allow you to take notes on the readings in preparation for the Life Journal assignment due at the end of Unit 1.
 
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=428" width="700" height="954" frameborder="0" allowfullscreen="allowfullscreen" title="Phil101_Wisdom and Rhetoric"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=428" width="100%" height="954" frameborder="0" allowfullscreen="allowfullscreen" title="Phil101_Wisdom and Rhetoric"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ```
 
