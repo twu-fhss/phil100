@@ -13,17 +13,17 @@ biblio-style: apalike
 
 This course explores philosophy as a way of life accessible to all, in order to think more truthfully, act more justly, and live more faithfully. This course focuses on critical thinking as an invaluable ethical tool for interpreting current events. Students will learn to analyze and evaluate the claims of contemporary culture and religious faith.
 
+<span class="blockhead">NSTRUCTOR AND ZOOM DETAILS<span class="prote">
+
+
 ## Course Learning Outcomes {-}
 
-This course will enhance leadership skills and facilitate learning whereby a student will:
+This course will enhance your leadership skills and facilitate your abilities to:
 
-1. Develop skills for living a life of wisdom and justice  
-2. Cultivate skills of logical argumentation.  
-3. Develop and enhance skills of written communication.  
-4. Practice the skills of wisdom and reason, such as humility, reflection, charity, rhetoric, and argumentation.  
-5. Write a journal that expresses the learned skills concisely and effectively.  
-6. Enhance skills of wisdom and reason to live life within the context of justice and faith.  
-7. Understand how to become a well-rounded person and citizen.  
+1. Learn, reflect, practice, and apply the skills of wisdom in friendship, humility, and rhetoric  
+2. Apply the skills of wisdom to live life within the context of justice and faith  
+3. Understand how to become a well-rounded person and citizen  
+
 
 ## Texts and Reading Resources {-}
 
@@ -60,21 +60,12 @@ This course is organized into 3 units. Each unit of the course will provide you 
 - Specific learning outcomes and topics for the unit.  
 - Learning activities to help you engage with the concepts. These often include key readings, videos, and reflective prompts.  
 - The Assessment section provides details on assignments you will need to complete throughout the course to demonstrate your understanding of the course learning outcomes.  
+- Note that assessments, including assignments and discussion posts will be submitted in Moodle.  
+- See the Assessment tab in Moodle for assignment details and dropboxes.  
 
 ```{block, type='caution'}
 
 Note that assessments, including assignments and discussion posts will be submitted in Moodle.  See the Assessment tab in Moodle for assignment details and dropboxes.
-
-```
-
-### Course Activities {-}
-
-Below is some key information on features you will see throughout the course. 
-
-```{block, type='reflect'}
-
-***Learning Activity***  
-This box will prompt you to engage in course concepts, often by viewing resources and reflecting on your experience and/or learning. Most learning activities are ungraded and are designed to help prepare you for the assessment in this course.
 
 ```
 
