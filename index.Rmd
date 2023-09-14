@@ -27,10 +27,7 @@ This course will enhance your leadership skills and facilitate your abilities to
 
 ## Texts and Reading Resources {-}
 
-**Required**
 - A variety of resources will be provided throughout each unit.
-
-## Course Notes {-}
 
 ### How To Navigate This Book {-}
 
@@ -60,8 +57,6 @@ This course is organized into 3 units. Each unit of the course will provide you 
 - Specific learning outcomes and topics for the unit.  
 - Learning activities to help you engage with the concepts. These often include key readings, videos, and reflective prompts.  
 - The Assessment section provides details on assignments you will need to complete throughout the course to demonstrate your understanding of the course learning outcomes.  
-- Note that assessments, including assignments and discussion posts will be submitted in Moodle.  
-- See the Assessment tab in Moodle for assignment details and dropboxes.  
 
 ```{block, type='caution'}
 
