@@ -30,3 +30,10 @@ When you’ve completed this unit, you will have learned how to:
 <iframe src="https://player.vimeo.com/video/863371527?h=d793b2efb1&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Wisdom and Rhetoric, part 2"></iframe>
 
 </div>
+
+### Activity: Answering These Questions {-}
+
+- Optional Note Taking Learning Activity
+- Answering these questions is optional. However, they will help you reflect on the video lecture content and prepare you for your Unit 3 Reflection Assignment.
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=572" width="936" height="1758" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 3"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
