@@ -36,7 +36,6 @@ When you’ve completed this unit, you will have learned how to:
 <div class="video-container">
 
 <iframe src="https://player.vimeo.com/video/863371368?h=2355f01fe6&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Wisdom and Friendship, Part 2"></iframe>
-
 </div>
 
 ### Activity: Answering These Questions {-}
@@ -45,4 +44,3 @@ When you’ve completed this unit, you will have learned how to:
 - Answering these questions is optional. However, they will help you reflect on the video lecture content and prepare you for your Unit 1 Reflection Assignment.
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=570" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
-
