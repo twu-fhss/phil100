@@ -16,11 +16,6 @@ When you’ve completed this unit, you will have learned how to:
 
 <span class="blockhead">Watch:<span class="prote">
 
--  *Philosophy for Life Course Overview video (4 min 55 sec)*
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/863371291?h=be205cbd14&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="PHIL 100 - Philosophy for Life, Introduction"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-
 - *Wisdom & Friendship Part 1 Lecture video (13 min 44 sec)*
 
 <div class="video-container">
@@ -34,5 +29,11 @@ When you’ve completed this unit, you will have learned how to:
 <div class="video-container">
 
 <iframe src="https://player.vimeo.com/video/863371368?h=2355f01fe6&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Wisdom and Friendship, Part 2"></iframe>
-
 </div>
+
+### Activity: Answering These Questions {-}
+
+- Optional Note Taking Learning Activity
+- Answering these questions is optional. However, they will help you reflect on the video lecture content and prepare you for your Unit 1 Reflection Assignment.
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=570" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>

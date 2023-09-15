@@ -31,3 +31,9 @@ When you’ve completed this unit, you will have learned how to:
 
 </div>
 
+### Activity: Answering These Questions {-}
+
+- Optional Note Taking Learning Activity
+- Answering these questions is optional. However, they will help you reflect on the video lecture content and prepare you for your Unit 2 Reflection Assignment.
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=571" width="936" height="1902" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 2"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
