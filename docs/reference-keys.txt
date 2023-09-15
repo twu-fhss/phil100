@@ -3,4 +3,3 @@ fig:unnamed-chunk-2
 wisdom-friendship
 wisdom-humility
 wisdom-rhetoric
-overview-2
