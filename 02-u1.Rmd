@@ -1,4 +1,4 @@
-# Wisdom & Friendship
+# Wisdom, Action, Knowledge
 
 ## Overview {-}
 
@@ -16,24 +16,24 @@ When you’ve completed this unit, you will have learned how to:
 
 <span class="blockhead">Watch:<span class="prote">
 
-- *Wisdom & Friendship Part 1 Lecture video (13 min 44 sec)*
+- *Wisdom, Action, Knowledge Topic 1 Lecture video (13 min 44 sec)*
 
 <div class="video-container">
 
-<iframe src="https://player.vimeo.com/video/863371336?h=1432d24ea4&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Wisdom and Friendship, Part 1"></iframe>
+<iframe src=https://player.vimeo.com/video/863371336?h=1432d24ea4&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 1, Topic 1, Wisdom and Action"></iframe>
 
 </div>
 
-- *Wisdom & Friendship Part 2 Lecture video (10 min 27 sec)*
+- *Wisdom, Action, Knowledge Topic 2 Lecture video (10 min 27 sec)*
 
 <div class="video-container">
 
-<iframe src="https://player.vimeo.com/video/863371368?h=2355f01fe6&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Wisdom and Friendship, Part 2"></iframe>
+<iframe src=https://player.vimeo.com/video/863371368?h=2355f01fe6&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 1, Topic 2, Wisdom and Knowledge"></iframe>
 </div>
 
-### Activity: Answering These Questions {-}
+### Required Note Taking Learning Activity {-}
 
-- Optional Note Taking Learning Activity
-- Answering these questions is optional. However, they will help you reflect on the video lecture content and prepare you for your Unit 1 Reflection Assignment.
+- Answering these questions will help you reflect on the video lecture content and prepare you for your Unit 1 Reflection Assignment.
+- You will be required to submit these notes as part of your Course Reflection Essay/Video Final Assignment.
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=570" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>

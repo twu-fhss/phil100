@@ -1,5 +1,5 @@
 fig:unnamed-chunk-1
 fig:unnamed-chunk-2
-wisdom-friendship
-wisdom-humility
-wisdom-rhetoric
+wisdom-action-knowledge
+wisdom-humility-charity
+wisdom-friendship-rhetoric

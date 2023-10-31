@@ -1,4 +1,4 @@
-# Wisdom & Humility
+# Wisdom, Humility, Charity
 
 ## Overview {-}
 
@@ -7,33 +7,40 @@ Unit 2 includes two video lectures. The first lecture includes an allegory about
 ### Learning Outcomes {-}
 
 When you’ve completed this unit, you will have learned how to:
+
 - Apply wisdom to practice intellectual humility with our knowledge
 - Understand complex philosophical ideas of humility
 - Apply these complex ideas of humility to improve our social life
-
 
 ### Reading Resources {-}
 
 <span class="blockhead">Watch:<span class="prote"> 
 
-- *Wisdom & Humility Part 1 Lecture video (12 min 28 sec)*
+- *Wisdom, Humility, Charity Topic 1A Lecture video (12 min 28 sec)*
 
-<div class="video-container">
-<iframe src="https://player.vimeo.com/video/863371397?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Wisdom and Humility, Part 1"></iframe>
-
-</div>
-
-- *Wisdom & Humility Part 2 Lecture video (12 min 47 sec)*
-
-<div class="video-container">
-
-<iframe src="https://player.vimeo.com/video/863371442?h=66df806e96&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Wisdom and Humility, Part 2"></iframe>
+<iframe src=https://player.vimeo.com/video/863371397?badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 2, Topic 1A"></iframe>
 
 </div>
 
-### Activity: Answering These Questions {-}
+- *Wisdom, Humility, Charity Topic 1B Lecture video (12 min 47 sec)*
 
-- Optional Note Taking Learning Activity
-- Answering these questions is optional. However, they will help you reflect on the video lecture content and prepare you for your Unit 2 Reflection Assignment.
+<div class="video-container">
+
+<iframe src=https://player.vimeo.com/video/863371442?h=66df806e96&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 2, Topic 1B"></iframe>
+
+</div>
+
+- *Wisdom, Humility, Charity Topic 2 Lecture video (12 min 47 sec)*
+
+<div class="video-container">
+
+<iframe src=https://player.vimeo.com/video/877227001?h=ef5f85198f&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 2, Topic 2"></iframe>
+
+</div>
+
+### Required Note Taking Learning Activity {-}
+
+- Answering these questions will help you reflect on the video lecture content and prepare you for your Unit 2 Reflection Assignment.
+- You will be required to submit these notes as part of your Course Reflection Essay/Video Final Assignment.
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=571" width="936" height="1902" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 2"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>

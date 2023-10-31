@@ -1,8 +1,8 @@
-# Wisdom & Rhetoric
+# Wisdom, Friendship, Rhetoric
 
 ## Overview {-}
 
-Unit 3 includes two video lectures. The first lecture is about the challenges and solutions to rhetoric (the art of persuasion). The second lecture is about how to apply some skills of rhetoric to everyday life.
+Unit 3 includes four video lectures. The first lecture is about the challenges and solutions to rhetoric (the art of persuasion). The second lecture is about how to apply some skills of rhetoric to everyday life.
 
 ### Learning Outcomes {-}
 
@@ -17,23 +17,34 @@ When you’ve completed this unit, you will have learned how to:
 
 <span class="blockhead">Watch:<span class="prote">
 
-- *Wisdom & Rhetoric Part 1 Lecture video (7 min 35 sec)*
+- *Wisdom, Friendship, Rhetoric Topic 1A Lecture video (7 min 35 sec)*
 
-<div class="video-container">
-<iframe src="https://player.vimeo.com/video/863371492?h=320703f256&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Wisdom and Rhetoric, Part 1"></iframe>
-
-</div>
-
-- *Wisdom & Rhetoric Part 2 Lecture video (9 min 42 sec)*
-
-<div class="video-container">
-<iframe src="https://player.vimeo.com/video/863371527?h=d793b2efb1&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Wisdom and Rhetoric, part 2"></iframe>
+<iframe src=https://player.vimeo.com/video/863371492?h=320703f256&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 3, Topic 1A"></iframe>
 
 </div>
 
-### Activity: Answering These Questions {-}
+- *Wisdom, Friendship, Rhetoric Topic 1B Lecture video (9 min 42 sec)*
 
-- Optional Note Taking Learning Activity
-- Answering these questions is optional. However, they will help you reflect on the video lecture content and prepare you for your Unit 3 Reflection Assignment.
+<iframe src=https://player.vimeo.com/video/863371527?h=d793b2efb1&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 3, Topic 1B"></iframe>
+
+</div>
+
+- *Wisdom, Friendship, Rhetoric Topic 2A Lecture video (9 min 42 sec)*
+
+<iframe src=https://player.vimeo.com/video/877228997?h=f6b8837670&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 3, Topic 2A"></iframe>
+
+</div>
+
+- *Wisdom, Friendship, Rhetoric Topic 2B Lecture video (9 min 42 sec)*
+
+<iframe src=https://player.vimeo.com/video/877229308?badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 3, Topic 2B"></iframe>
+
+
+</div>
+
+### Required Note Taking Learning Activity {-}
+
+- Answering these questions will help you reflect on the video lecture content and prepare you for your Unit 3 Reflection Assignment.
+- You will be required to submit these notes as part of your Course Reflection Essay/Video Final Assignment.
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=572" width="936" height="1758" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 3"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
