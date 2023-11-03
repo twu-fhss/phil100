@@ -65,6 +65,7 @@ According to Johnson, a major problem with the principle of charity is that it r
 ### Required Note Taking Learning Activity {-}
 
 - Answering these questions will help you reflect on the video lecture content and prepare you for your Unit 2 Reflection Assignment.
-- You will be required to submit these notes as part of your Course Reflection Essay/Video Final Assignment.
+- Click the Download button after you've completed all the questions for this unit and save the answers to your computer.
+- You will be required to submit these downloaded notes as part of your Course Reflection Essay/Video Final Assignment.
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=571" width="936" height="1902" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 2"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
