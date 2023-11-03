@@ -2,27 +2,37 @@
 
 ## Overview {-}
 
-Unit 2 includes two video lectures. The first lecture includes an allegory about knowledge and humility. The second lecture includes a short excerpt from Plato’s The Apology of Socrates.
+This unit is divided into three lectures. The first two lectures are about humility and discuss one allegory and a section from Plato. The third lecture is about charity and discusses the importance of first defending your opponent’s view before raising objections.
 
 ### Learning Outcomes {-}
 
 When you’ve completed this unit, you will have learned how to:
 
-- Apply wisdom to practice intellectual humility with our knowledge
-- Understand complex philosophical ideas of humility
-- Apply these complex ideas of humility to improve our social life
+- Apply wisdom to practice intellectual humility with knowledge
+- Interpret Plato’s “The Apology” from a wise person’s perspective
+- Develop and apply wisdom to strategies for practicing charity towards your opponents
 
 ### Reading Resources {-}
 
+Pre-reading: http://classics.mit.edu/Plato/apology.html
+
+The third topic focuses on wisdom and humility. Our previous two topics discussed the importance of knowledge when seeking wisdom. Nevertheless, even Descartes recognizes that knowledge in some domains is difficult to obtain. Plato believed that a wise person understands their limitations about what they know and do not know. In other words, a wise person is aware of their ignorance. The word "ignorance" in this case does not have a negative connotation, but rather describes a lack of knowledge about a particular thing.
+
+In “the Apology,” Plato introduces the character Socrates, who is on trial for his life. During his defense, Socrates describes the account of his friend, Chaerephon, seeking answers from the Oracle of Delphi, wondering if there is any person wiser than Socrates. In reply to Chaerephon, the oracle says that no one is wiser than Socrates. Socrates is puzzled by the revelation about his wisdom since he considers himself to be unwise. Socrates then asks questions of different people in the city, such as politicians, poets, and artisans, in an attempt to solve the mystery about the oracle's revelation. Socrates discovers that while these individuals claim to know a great deal about issues such as the nature of beauty and what is good, he observes that they know very little about such issues. These people think they possess knowledge, when in fact they do not, and that is why they lack wisdom. Their way of thinking contrasts with Socrates, who thinks he lacks knowledge about these issues; more specifically, Socrates is aware of his ignorance about the nature of beauty and what is good, while the others are unaware of their own ignorance about these same issues. Because of this, Socrates is the wisest person.
+
+One application of being aware of ignorance for seeking wisdom is to practice a humble attitude towards the complex issues in life, such as how to interpret the Bible, evolution, the nature of sexuality, the implications of social media for our lives, and was Donald Trump an effective president? These types of questions represent complex ideas that even some of the most specialized scholars cannot answer. A wise person demonstrates their humility towards these complex issues by asking thoughtful questions about the opposing view, knowing when to withhold judgment and opinion, and with a willingness to change their mind.
+
 <span class="blockhead">Watch:<span class="prote"> 
 
-- *Wisdom, Humility, Charity Topic 1A Lecture video (12 min 28 sec)*
+- *Wisdom and Humility - Unit 2 Topic 1A Lecture video (13 min 12 sec)*
+
+<div class="video-container">
 
 <iframe src=https://player.vimeo.com/video/863371397?badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 2, Topic 1A"></iframe>
 
 </div>
 
-- *Wisdom, Humility, Charity Topic 1B Lecture video (12 min 47 sec)*
+- *Plato's The Apology of Socrates - Unit 2 Topic 1B Lecture video (12 min 57 sec)*
 
 <div class="video-container">
 
@@ -30,7 +40,21 @@ When you’ve completed this unit, you will have learned how to:
 
 </div>
 
-- *Wisdom, Humility, Charity Topic 2 Lecture video (12 min 47 sec)*
+Pre-reading: Ralph H. Johnson, “Charity Begins at Home”
+
+In Topic 5, the emphasis is on wisdom and charity. The term “charity” in this case refers to a principle of treating a person's argument and/or opinion in its strongest form. In the previous two topics, we discussed humility and bias, both of which are relevant to practicing charity. For example, when employing humility, one is aware of their ignorance and the need to ask questions about the opponent’s view. That questioning can be a type of charity when done for the purpose of gaining understanding. Similarly, one is aware of myside bias, and that bias influences the interpretation and treatment of the opponent, especially if that opponent is from another social group. Recognizing the powerful influence of myside bias promotes charity by helping constrain one’s immediate rejection of the opponent’s view.
+
+Charity involves more than humility and awareness of bias: it requires willpower. One must willfully, and temporarily, embrace the opponent’s view, assist with constructing that view in its best possible light, and then express the view better than the opponent. The act of embracing an opposing argument is challenging for many reasons, but, as stated in the previous chapter on bias, humans are not built to act with charity toward those with whom they disagree, especially when those convictions are strong. Put in a different way, humans struggle to, on the one hand, affirm a viewpoint in which they hold strong convictions, and then, on the other hand, compartmentalize that view away while attempting to charitably evaluate objections to that conviction.
+
+In his article, “Charity Begins at Home,” Johnson outlines the general principle of charity and then discusses some of the challenges with that principle. Practicing charity involves three steps:
+
+    Identifying the argument: Does the argument even exist? According to Johnson, the first step is difficult in its own right because the art of constructing a well-organized argument is in decline.
+    Reconstructing the argument: This step requires that one re-build the argument to follow the rules of logical inference. Sometimes arguments include additional hidden premises, irrelevant information, and are simply weak or invalid. One must reconstruct the argument in its strongest form.
+    Presenting the main objections to the argument: Now that the argument has been identified and properly reconstructed, one should focus on the criticisms that undermine the main premises of the argument and avoid criticizing irrelevant information and implications of the argument.
+
+According to Johnson, a major problem with the principle of charity is that it requires too much effort and time to apply, as few people can construct an argument correctly in the first place. His solution to this problem is to apply the principle only when the following conditions are met: (i) the argument is fully expressed; (ii) the argument is brought forward by a serious person; (iii), the argument is about a serious issue. One implication of those criteria for the principle is that one should apply charity only when there is reason to think that the opponent will benefit from that charity.
+
+- *Wisdom and Charity - Unit 2 Topic 2 Lecture video (13 min 36 sec)*
 
 <div class="video-container">
 
