@@ -2,7 +2,10 @@
 
 ## Overview {-}
 
-This unit is divided into two lectures. The first lecture is about wisdom and action and the second lecture is about wisdom and knowledge.
+This unit is divided into two lectures.
+
+1. Wisdom and Action Lecture
+2. Wisdom and Knowledge Lecture
 
 ### Learning Outcomes {-}
 
@@ -12,23 +15,23 @@ When you’ve completed this unit, you will have learned how to:
 - Understand the type of knowledge important and necessary for wisdom
 - Recognize and be able to apply the types of actions a wise person may take
 
-### Reading Resources {-}
-
-Pre-reading: Robert Nozick, “What Is Wisdom And Why Do Philosophers Love It So?”
+## 1.1 Wisdom and Action {-}
 
 This topic examines wisdom and action. According to Nozick, wisdom is practical in that wisdom is required to live life well, to cope with and respond to the many challenges of life, and, if possible, avoid some of those challenges. For living life well, wisdom requires both affirming the right beliefs and practicing the right actions. **How do we know which beliefs and actions are appropriate for living life well?** Nozick argues that a wise person holds beliefs about many aspects of life, including beliefs about life's most important values, beliefs about achieving one's goals, and following the necessary steps to achieve these goals. Likewise, the right actions for living a fulfilling life are derived from applying the aforementioned beliefs. If a person knows about the most important values and goals in life, but never applies them to their behavior, then they are not considered wise. In other words, having knowledge does not entail wisdom. Nozick is also aware that applying the appropriate beliefs and actions is not sufficient to live life well. Sometimes bad things occur for no apparent reason, which may undermine our efforts. A wise person is aware of this problem, and while pursuing their goals, prepares for failure, learns how to avoid it, and how to respond to it if failure occurs.
 
-<span class="blockhead">Watch:<span class="prote">
+Reading: Robert Nozick, “What is Wisdom and Why Do Philosophers Love It So?”
+
+<span class="blockhead">Watch<span class="prote">
 
 - *Wisdom and Action - Unit 1 Topic 1 Lecture video (10 min 25 sec)*
 
 <div class="video-container">
 
-<iframe src=https://player.vimeo.com/video/863371336?h=1432d24ea4&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 1, Topic 1, Wisdom and Action"></iframe>
+<iframe src=https://player.vimeo.com/video/863371336?h=1432d24ea4&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="Wisdom and Action - PHIL 100 - Unit 1, Topic 1, Wisdom and Action"></iframe>
 
 </div>
 
-Pre-reading: (Preface to Principles of Philosophy; Principles 1, 2, 3, 75)
+## 1.2 Wisdom and Knowledge {-}
 
 In the previous topic, we established that knowledge is not sufficient for wisdom because wisdom requires action. That is, knowledge must be applied correctly in order to live life well. While Descartes endorses that view of the limitations of knowledge and the importance of application, he maintains that one should pursue knowledge in the highest domains, such as knowledge of God, science, and morality, because that knowledge benefits the one pursuing wisdom and a fulfilling life.
 
@@ -36,19 +39,22 @@ There are two ideas associated with wisdom and knowledge to discuss. The first i
 
 Having doubt about something does not entail rejecting its truth. For our purposes, doubting something means applying careful consideration, such as asking yourself: Why should I think this is true? What is the best way to verify the claim? Who can give me an informed opinion? Are there any concerns about this content? Which aspects of the content are strong and which are weak? Healthy doubt is valuable for acquiring knowledge and living life well. For example, whenever we detect incoming scams, such as phone and computer scams, we employ doubt. In this regard, one intends to uncover the nature of the scam and warn others of its harmful potential. The hesitation (or doubt) to believe and act according to the computer scam is similar to the hesitation one should apply when listening to the news, a podcast, a sermon, or reading an opinion on Facebook or Twitter. However, particularly in ordinary affairs, Decartes also warns that extreme doubt may be harmful. Neither the need for basic necessities nor the importance of friendship should be questioned. When individuals are faced with situations such as these, it is often necessary that they act even if they lack all the information about the situation. Descartes argues that remaining paralyzed by doubt is an inadvisable course.
 
-To pursue a higher knowledge about God, science, and morality, Descartes imagines the structure of a tree, whose roots are metaphysics, the trunk is physics, and the branches represent the remainder of scientific inquiry, including morality (note that 'science' in this context encompasses more domains than a contemporary definition of science). Descartes believed that in order to understand the human condition, one must have an understanding of metaphysics and science. Descartes’ point about seeking this type of valuable knowledge about God, science, and morality is relevant because of the human obsession with entertainment. We often seek entertainment and pleasure rather than searching for the truth about the most important ideas in life. That obsession with entertainment and the neglect of seeking valuable knowledge undermines one’s potential to gain wisdom and seek a fulfilling life. 
+To pursue a higher knowledge about God, science, and morality, Descartes imagines the structure of a tree, whose roots are metaphysics, the trunk is physics, and the branches represent the remainder of scientific inquiry, including morality (note that 'science' in this context encompasses more domains than a contemporary definition of science). Descartes believed that in order to understand the human condition, one must have an understanding of metaphysics and science. Descartes’ point about seeking this type of valuable knowledge about God, science, and morality is relevant because of the human obsession with entertainment. We often seek entertainment and pleasure rather than searching for the truth about the most important ideas in life. That obsession with entertainment and the neglect of seeking valuable knowledge undermines one’s potential to gain wisdom and seek a fulfilling life.
+
+<span class="blockhead">Watch<span class="prote">
 
 - *Wisdom and Knowledge - Unit 1 Topic 2 Lecture video (7 min 59 sec)*
 
 <div class="video-container">
 
-<iframe src=https://player.vimeo.com/video/863371368?h=2355f01fe6&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 1, Topic 2, Wisdom and Knowledge"></iframe>
+<iframe src=https://player.vimeo.com/video/863371368?h=2355f01fe6&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="Wisdom and Knowledge - PHIL 100 - Unit 1, Topic 2, Wisdom and Knowledge"></iframe>
+
 </div>
 
-### Required Note Taking Learning Activity {-}
+## Required Note Taking Learning Activity {-}
 
 - Answering these questions will help you reflect on the video lecture content and prepare you for your Unit 1 Reflection Assignment.
 - Click the Download button after you've completed all the questions for this unit and save the answers to your computer.
-- You will be required to submit these downloaded notes as part of your Course Reflection Essay/Video Final Assignment.
+- You will be required to submit these downloaded notes as part of your Final Course Reflection Essay/Video Assignment.
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=570" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>

@@ -2,7 +2,12 @@
 
 ## Overview {-}
 
-This unit is divided into four lectures. The first two lectures are about Aristotle’s view of friendship and Aquinas’ views of pride and envy. The second two lectures focus on both the importance of rhetoric and some skills for practicing rhetoric.
+This unit is divided into four lectures.
+
+1. Wisdom and Friendship Lecture 1 on Aristotle’s view of friendship.
+2. Wisdom and Friendship Lecture 2 on Aquinas’ views of pride and envy and how they affect friendship.
+3. Wisdom and Rhetoric Lecture 1 focusses on the importance of rhetoric.
+4. Wisdom and Rhetoric Lecture 2 focusses on some skills for practicing rhetoric.
 
 ### Learning Outcomes {-}
 
@@ -12,29 +17,35 @@ When you’ve completed this unit, you will have learned how to:
 - Identify and apply the importance of virtue in friendship
 - Apply wisdom to identify and use some basic skills of rhetoric (or persuasion)
 
-### Reading Resources {-}
+## 3.1 Wisdom and Friendship Lecture 1 {-}
 
-<span class="blockhead">Watch:<span class="prote">
+<span class="blockhead">Watch<span class="prote">
 
 - *Wisdom and Friendship - Unit 3 Topic 1A Lecture video (14 min 14 sec)*
 
 <div class="video-container">
 
-<iframe src=https://player.vimeo.com/video/863371492?h=320703f256&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 3, Topic 1A"></iframe>
+<iframe src=https://player.vimeo.com/video/863371492?h=320703f256&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="Wisdom and Friendship - PHIL 100 - Unit 3, Topic 1A"></iframe>
 
 </div>
+
+## 3.2 Wisdom and Friendship Lecture 2 {-}
+
+<span class="blockhead">Watch<span class="prote">
 
 - *Wisdom and Friendship - Unit 3 Topic 1B Lecture video (10 min 19 sec)*
 
 <div class="video-container">
 
-<iframe src=https://player.vimeo.com/video/863371527?h=d793b2efb1&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 3, Topic 1B"></iframe>
+<iframe src=https://player.vimeo.com/video/863371527?h=d793b2efb1&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="Wisdom and Friendship - PHIL 100 - Unit 3, Topic 1B"></iframe>
 
 </div>
 
-Pre-reading: Jay Heinrichs, “Set Your Goals,” chapter 2 in Thank you for Arguing: What Aristotle, Lincoln, and Homer Simpson can teach us about the Art of Persuasion.”
+## 3.3 Wisdom and Rhetoric Lecture 1 {-}
 
-Topic 6 is about wisdom and rhetoric. Rhetoric refers to the art of persuasion or influence. Previously we discussed how wisdom requires an awareness and application of our actions, knowledge, humility, biases, and charity. The art of persuasion employs all of these skills. Along with those skills of wisdom, rhetoric also requires some tools of argumentation. A clarification regarding rhetoric is that the terms "argument", "argue", and "argumentation" can mean different things in different contexts. Students will learn the technical definitions of "argument" and "argumentation" in Unit 2, which may differ from how those terms are used in this topic of rhetoric. The student will also have the opportunity to develop some of the tools of technical argumentation in Unit 2, which will hone their rhetorical skills.
+<span class="blockhead">Watch<span class="prote">
+
+This topic is about wisdom and rhetoric. Rhetoric refers to the art of persuasion or influence. Previously we discussed how wisdom requires an awareness and application of our actions, knowledge, humility, biases, and charity. The art of persuasion employs all of these skills. Along with those skills of wisdom, rhetoric also requires some tools of argumentation. A clarification regarding rhetoric is that the terms "argument", "argue", and "argumentation" can mean different things in different contexts. Students will learn the technical definitions of "argument" and "argumentation" in Unit 2, which may differ from how those terms are used in this topic of rhetoric. The student will also have the opportunity to develop some of the tools of technical argumentation in Unit 2, which will hone their rhetorical skills.
 
 Arguments with other people, such as family, friends, or colleagues, are part of everyday life. A wise person knows how to argue without fighting. According to Heinrichs, a necessary skill for arguing productively is knowing the appropriate goal you wish to bring about. Are you trying to influence someone's decision? Is that feasible? Are you hoping to feel like a winner? Is that an appropriate goal? It may be your goal to change the mood of your opponent, or simply to inform your opponent of a different point of view. Would you like to end the argument quickly? After the argument, would you like to maintain the relationship with the person? Should you pursue either of these goals? How will you go about accomplishing your goal? In what way are you prepared to compromise? Are you prepared to experience defeat from your opponent's point of view in order to achieve your goal? What is the purpose of the argument and how should it be achieved?
 
@@ -44,22 +55,26 @@ Exercising the previous skills of wisdom when arguing with other people is helpf
 
 <div class="video-container">
 
-<iframe src=https://player.vimeo.com/video/877228997?h=f6b8837670&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 3, Topic 2A"></iframe>
+<iframe src=https://player.vimeo.com/video/877228997?h=f6b8837670&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="Wisdom and Rhetoric - PHIL 100 - Unit 3, Topic 2A"></iframe>
 
 </div>
+
+## 3.4 Wisdom and Rhetoric Lecture 2 {-}
+
+<span class="blockhead">Watch<span class="prote">
 
 - *Wisdom and Rhetoric - Unit 3 Topic 2B Lecture video (11 min 13 sec)*
 
 <div class="video-container">
 
-<iframe src=https://player.vimeo.com/video/877229308?badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 3, Topic 2B"></iframe>
+<iframe src="https://player.vimeo.com/video/877229308?h=235bf75818&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="Wisdom and Rhetoric - PHIL 100 - Unit 3, Topic 2B"></iframe>
 
 </div>
 
-### Required Note Taking Learning Activity {-}
+## Required Note Taking Learning Activity {-}
 
 - Answering these questions will help you reflect on the video lecture content and prepare you for your Unit 3 Reflection Assignment.
 - Click the Download button after you've completed all the questions for this unit and save the answers to your computer.
-- You will be required to submit these downloaded notes as part of your Course Reflection Essay/Video Final Assignment.
+- You will be required to submit these downloaded notes as part of your Final Course Reflection Essay/Video Assignment.
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=572" width="936" height="1902" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 3"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
