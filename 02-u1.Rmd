@@ -19,7 +19,9 @@ When you’ve completed this unit, you will have learned how to:
 
 This topic examines wisdom and action. According to Nozick, wisdom is practical in that wisdom is required to live life well, to cope with and respond to the many challenges of life, and, if possible, avoid some of those challenges. For living life well, wisdom requires both affirming the right beliefs and practicing the right actions. **How do we know which beliefs and actions are appropriate for living life well?** Nozick argues that a wise person holds beliefs about many aspects of life, including beliefs about life's most important values, beliefs about achieving one's goals, and following the necessary steps to achieve these goals. Likewise, the right actions for living a fulfilling life are derived from applying the aforementioned beliefs. If a person knows about the most important values and goals in life, but never applies them to their behavior, then they are not considered wise. In other words, having knowledge does not entail wisdom. Nozick is also aware that applying the appropriate beliefs and actions is not sufficient to live life well. Sometimes bad things occur for no apparent reason, which may undermine our efforts. A wise person is aware of this problem, and while pursuing their goals, prepares for failure, learns how to avoid it, and how to respond to it if failure occurs.
 
-Reading: Robert Nozick, “What is Wisdom and Why Do Philosophers Love It So?”
+<span class="blockhead">Read<span class="prote">
+
+- Robert Nozick -  “*What is Wisdom and Why Do Philosophers Love It So?*”
 
 <span class="blockhead">Watch<span class="prote">
 
