@@ -19,9 +19,12 @@ When you’ve completed this unit, you will have learned how to:
 
 ## 3.1 Wisdom and Friendship Lecture 1 {-}
 
+This topic examines the first part about wisdom and friendship. A wise person is careful about how they view their friends. In doing so, it is best to learn about the various types of friendships. According to Aristotle, there are several types of friendships, such as friends of utility, pleasure, and virtue. Friends of utility are friends who are a means to an end, such as business partners, or some friends on a sports team. Friends of pleasure are friends with whom we share pleasurable activities. Friends of virtue are friends who exhibit good qualities and help us develop these qualities as well. Aristotle believes that the third type of friend is the best friend, and this type of friendship, while difficult to find and develop, is worth pursuing and fighting for. In the following video, we briefly outline Aristote’s view of friendship and then figure how a wise person should think about friendship in these ways.
+
 <span class="blockhead">Watch<span class="prote">
 
-- *Wisdom and Friendship - Unit 3 Topic 1A Lecture video (14 min 14 sec)*
+- Wisdom and Friendship - Unit 3 Lecture 3.1 video (14 min 14 sec)
+- This video introduces Aristotle’s view of friendship. A wise person is aware of the different types of friendships and the importance of these types. This video helps us understand what makes a good friend and how we can be good friends to other people.
 
 <div class="video-container">
 
@@ -31,9 +34,14 @@ When you’ve completed this unit, you will have learned how to:
 
 ## 3.2 Wisdom and Friendship Lecture 2 {-}
 
+This topic examines the second part about wisdom and friendship. For Aristotle, friends of virtue are the best of friends because they care about us and our character development beyond the scope of utility and pleasure. They care about us even when things are difficult. But how do we find these friends and how can we be virtuous friends to other people? Thomas Aquinas provides some advice. Aquinas suggests that we should be careful about the bad qualities that make for a poor friend, such as envy and pride. These vices (or bad characteristics) undermine the pursuit of virtue and thus compromise any friendship that is built upon virtue.
+
+An envious person is someone who is upset about our own success. Think of a friend you have. Have they ever been upset or sad when good things happen to you? If the answer is yes, then this person may not be a virtuous friend. They may suffer from envy towards you. Or have you ever had a friend who jokes about you but can never receive the joke back to them in turn? This person may not be a virtuous friend because they suffer from arrogant pride. They think too highly of themselves. Furthermore, we should be cautious about whether we are exhibiting these defects as well. Do we feel upset about our friends success? Do we exhibit a sense of arrogant pride about ourselves? These vices undermine virtuous friendships. In the following video, we briefly outline Aquinas’ views about envy and pride and note how these vices undermine our friendships.
+
 <span class="blockhead">Watch<span class="prote">
 
-- *Wisdom and Friendship - Unit 3 Topic 1B Lecture video (10 min 19 sec)*
+- Wisdom and Friendship - Unit 3 Lecture 3.2 video (10 min 19 sec)
+- This video introduces Aquinas’ view of pride and envy. These vices are damaging to friendships because they undermine virtue. This video helps us understand how to identify bad friends and how we can be aware of when we are being a bad friend to others.
 
 <div class="video-container">
 
@@ -43,11 +51,9 @@ When you’ve completed this unit, you will have learned how to:
 
 ## 3.3 Wisdom and Rhetoric Lecture 1 {-}
 
-This topic is about wisdom and rhetoric. Rhetoric refers to the art of persuasion or influence. Previously we discussed how wisdom requires an awareness and application of our actions, knowledge, humility, biases, and charity. The art of persuasion employs all of these skills. Along with those skills of wisdom, rhetoric also requires some tools of argumentation. A clarification regarding rhetoric is that the terms "argument", "argue", and "argumentation" can mean different things in different contexts. Students will learn the technical definitions of "argument" and "argumentation" in Unit 2, which may differ from how those terms are used in this topic of rhetoric. The student will also have the opportunity to develop some of the tools of technical argumentation in Unit 2, which will hone their rhetorical skills.
+This topic examines the first part about wisdom and rhetoric. Rhetoric refers to the art of persuasion or influence. Previously we discussed how wisdom requires an awareness and application of our actions, knowledge, humility, charity, and friendship making. The art of persuasion applies to all of these skills. Rhetoric can help us get along in life in these various domains, particularly when dealing with other people.
 
-Arguments with other people, such as family, friends, or colleagues, are part of everyday life. A wise person knows how to argue without fighting. According to Heinrichs, a necessary skill for arguing productively is knowing the appropriate goal you wish to bring about. Are you trying to influence someone's decision? Is that feasible? Are you hoping to feel like a winner? Is that an appropriate goal? It may be your goal to change the mood of your opponent, or simply to inform your opponent of a different point of view. Would you like to end the argument quickly? After the argument, would you like to maintain the relationship with the person? Should you pursue either of these goals? How will you go about accomplishing your goal? In what way are you prepared to compromise? Are you prepared to experience defeat from your opponent's point of view in order to achieve your goal? What is the purpose of the argument and how should it be achieved?
-
-Exercising the previous skills of wisdom when arguing with other people is helpful for practicing rhetoric. Wise actions, for example, require setting reasonable goals and avoiding the pitfalls that may undermine these goals. Similarly, when applying rhetoric in an argument with someone else, focus on the goal you wish to bring about and be willing to concede as much as possible to get there. Furthermore, remember that wisdom requires knowledge and humility. When those skills are applied to rhetoric, demonstrate the ability to challenge your own views to show your intention to understand the opponent's position. Knowledge of one's own bias is also essential to rhetoric. Ensure that the opponent understands that you are aware of your own biases and that you will listen to and learn from them. And in everything, act with charity. When arguing with others, assist them with their arguments, and, if possible, suggest ways in which their arguments can be strengthened. Demonstrate your comfort with the exchange by temporarily embracing their viewpoint. Charity of this kind encourages your opponent to act in a similar manner, and, in doing so, may reduce the defensiveness of each person. Depending on your rhetorical goal when arguing with another person, the tactics above may be useful.
+But many people throughout history have neglected this art of rhetoric. Indeed, Plato thought rhetoric was for fools. It was the art of manipulation. Rhetoric was for the sophists and those who only wished to confuse the masses, aiming these people away from the truth. However, his student, Aristotle, rejected Plato’s view. For Aristotle, rhetoric was a tool that, while available for manipulation, was equally valuable for communicating the truth. Rhetoric was the only weapon suitable to combat such manipulation. Thus, it is better to hone the skills of rhetoric to combat the sophists. In the following video, we analyze Plato’s objections to rhetoric and Aristotle’s reasons for rejecting Plato’s views and embracing the art of rhetoric.
 
 <span class="blockhead">Read<span class="prote">
 
@@ -55,7 +61,8 @@ Exercising the previous skills of wisdom when arguing with other people is helpf
 
 <span class="blockhead">Watch<span class="prote">
 
-- *Wisdom and Rhetoric - Unit 3 Topic 2A Lecture video (8 min 01 sec)*
+- Wisdom and Rhetoric - Unit 3 Lecture 3.3 video (8 min 01 sec)
+- This video introduces wisdom and rhetoric. Rhetoric is the art of persuasion. This is a valuable skill to practice in life because we often engage in rhetoric with other people, family, friends, supervisors, strangers, and even enemies. This video introduces Aristotle’s defense of using rhetoric against Plato’s criticisms of the practice.
 
 <div class="video-container">
 
@@ -65,9 +72,14 @@ Exercising the previous skills of wisdom when arguing with other people is helpf
 
 ## 3.4 Wisdom and Rhetoric Lecture 2 {-}
 
+This topic examines the second part about wisdom and rhetoric. Arguments with other people, such as family, friends, or colleagues, are part of everyday life. A wise person knows how to argue without fighting. According to Jay Heinrichs, a necessary skill for arguing productively is knowing the appropriate goal you wish to bring about. Are you trying to influence someone's decision? Is that feasible? Are you hoping to feel like a winner? Is that an appropriate goal? It may be your goal to change the mood of your opponent, or simply to inform your opponent of a different point of view. Would you like to end the argument quickly? After the argument, would you like to maintain the relationship with the person? Should you pursue either of these goals? How will you go about accomplishing your goal? In what way are you prepared to compromise? Are you prepared to experience defeat from your opponent's point of view in order to achieve your goal? What is the purpose of the argument and how should it be achieved?
+
+Exercising the previous skills of wisdom when arguing with other people is helpful for practicing rhetoric. Wise actions, for example, require setting reasonable goals and avoiding the pitfalls that may undermine these goals. Similarly, when applying rhetoric in an argument with someone else, focus on the goal you wish to bring about and be willing to concede as much as possible to get there. Furthermore, remember that wisdom requires knowledge and humility. When these skills are applied to rhetoric, demonstrate the ability to challenge your own views to show your intention to understand the opponent's position. And in everything, act with charity. When arguing with others, assist them with their arguments, and, if possible, suggest ways in which their arguments can be strengthened. Demonstrate your comfort with the exchange by temporarily embracing their viewpoint. Charity of this kind encourages your opponent to act in a similar manner, and, in doing so, may reduce the defensiveness of each person. Depending on your rhetorical goal when arguing with another person, the tactics above may be useful. The following video explores some of these simple rhetorical strategies to help us better get along with other people.
+
 <span class="blockhead">Watch<span class="prote">
 
-- *Wisdom and Rhetoric - Unit 3 Topic 2B Lecture video (11 min 13 sec)*
+- Wisdom and Rhetoric - Unit 3 Lecture 3.4 video (11 min 13 sec)
+- This video expands on the study of rhetoric by discussing some strategies for applying rhetoric. One strategy is to set goals of the encounter and focus on what you must do to achieve these goals. Perhaps you want the other person to understand your view, or perhaps you want to end the encounter with the person as quickly as possible without making things worse. Practicing rhetoric can help us in these ways.
 
 <div class="video-container">
 
