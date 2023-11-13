@@ -204,7 +204,7 @@ Take a moment to watch this optional video. Here, Camille A. Langston, a special
 
 ## Required Note Taking Learning Activity {-}
 
-``{block2, type='reflect'}
+```{block2, type='reflect'}
 
 - Answering these questions will help you reflect on the video topic content and prepare you for your Unit 1 Reflection Assignment.
 - Click the Download button after you've completed all the questions for this unit and save the answers to your computer.
