@@ -1,63 +1,215 @@
-# Wisdom, Action, Knowledge
+# Wisdom
+
+This video briefly introduces the four topics in the first unit: knowledge, humility, friendship, and rhetoric. While we will learn some basic ideas about the nature of wisdom in the first topic on knowledge, most of this unit is devoted to introducing some of the skills of living a life of wisdom and how we can begin to practice these skills.
+
+- **Wisdom Unit 1 Introduction Video** (6 min 10 sec)
+
+<div class="video-container">
+
+<iframe src=https://player.vimeo.com/video/863371336?h=1432d24ea4&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="Wisdom - PHIL 100 - Unit 1, Introduction"></iframe>
+
+</div>
 
 ## Overview {-}
 
-This unit is divided into two lectures.
+### Topics {-}
 
-1. Wisdom and Action Lecture
-2. Wisdom and Knowledge Lecture
+This unit is divided into the following topics:
+
+1. Wisdom and Knowledge
+2. Wisdom and Humility
+3. Wisdom and Friendship
+4. Wisdom and Rhetoric
 
 ### Learning Outcomes {-}
 
 When you’ve completed this unit, you will have learned how to:
 
-- Identify the differences between knowledge and wisdom
-- Understand the type of knowledge important and necessary for wisdom
-- Recognize and be able to apply the types of actions a wise person may take
+- Identify and understand the role wisdom plays in knowledge, humiloity, friendship and rhetoric
+- Practice and apply the skills of wisdom to knowledge, humility, friendship and rhetoric
+- Apply these skills to the types of actions a wise person may take
+- Enhance your skills of wisdom and reason to live life within the context of justice and faith
+- Develop the skills to become a well-rounded person and citizen and live a wise and just life  
 
-## 1.1 Wisdom and Action {-}
+## 1.1 Wisdom and Knowledge {-}
 
-Wisdom and Action
-This topic examines wisdom and action. According to Nozick, wisdom is practical in that wisdom is required to live life well, to cope with and respond to the many challenges of life, and, if possible, avoid some of those challenges. For living life well, wisdom requires both affirming the right beliefs and practicing the right actions. How do we know which beliefs and actions are appropriate for living life well? Nozick argues that a wise person holds beliefs about many aspects of life, including beliefs about life's most important values, beliefs about achieving one's goals, and following the necessary steps to achieve these goals. Likewise, the right actions for living a fulfilling life are derived from applying the aforementioned beliefs. If a person knows about the most important values and goals in life, but never applies them to their behavior, then they are not considered wise. In other words, having knowledge does not entail wisdom. Nozick is also aware that applying the appropriate beliefs and actions is not sufficient to live life well. Sometimes bad things occur for no apparent reason, which may undermine our efforts. A wise person is aware of this problem, and while pursuing their goals, prepares for failure, learns how to avoid it, and how to respond to it if failure occurs. In the following video, we briefly discuss some of Nozick’s ideas about wisdom and action.
+In this topic, we learn about the nature of wisdom and its relationship with knowledge. Wisdom is not just about knowledge. Wisdom is practical in that wisdom is required to live life well, to cope with and respond to the many challenges of life, and, if possible, avoid some of those challenges. While wisdom is practical, it does require at least some knowledge. For living life well, wisdom requires knowing the right beliefs and knowing how to apply these beliefs in the right way at the right time. How do we know which beliefs and actions are appropriate for living life well? Philosopher Robert Nozick argues that a wise person holds beliefs about many aspects of life, including beliefs about life’s most important values, beliefs about achieving one’s goals, and following the necessary steps to achieve these goals. Likewise, the right actions for living a fulfilling life are derived from applying the aforementioned beliefs. If a person knows about the most important values and goals in life, but never applies them to their behavior, then they are not considered wise. In other words, having knowledge does not entail wisdom. Nozick is also aware that applying the appropriate beliefs and actions is not sufficient to live life well. Sometimes bad things occur for no apparent reason, which may undermine our efforts. A wise person is aware of this problem, and while pursuing their goals, prepares for failure, learns how to avoid it, and how to respond to it if failure occurs.
 
-<span class="blockhead">Read<span class="prote">
+### Watch and Reflect {-}
 
-- Robert Nozick -  “*What is Wisdom and Why Do Philosophers Love It So?*”
-
-<span class="blockhead">Watch<span class="prote">
-
-- Wisdom and Action - Unit 1 Lecture 1.1 video (10 min 25 sec)
-- This video introduces wisdom and action. Wisdom is not only about possessing knowledge. Wisdom is practical; wisdom helps us get on in life. This video also introduces a few ideas from the Nozick required reading, such as the importance of the deeper story in life, positive and negative wisdom, setting and achieving goals, and how to deal with failure.
+- Wisdom and Knowledge Unit 1 Topic 1 (11 min 15 sec)
 
 <div class="video-container">
 
-<iframe src=https://player.vimeo.com/video/863371336?h=1432d24ea4&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="Wisdom and Action - PHIL 100 - Unit 1, Topic 1, Wisdom and Action"></iframe>
+<iframe src="https://player.vimeo.com/video/863371368?h=2355f01fe6&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Wisdom and Knowledge Unit 1 Topic 1"></iframe>
 
 </div>
 
-## 1.2 Wisdom and Knowledge {-}
+### Read and Reflect {-}
 
-This topic examines wisdom and knowledge. In the previous topic, we established that knowledge is not sufficient for wisdom because wisdom requires action. There are two ideas associated with wisdom and knowledge to discuss. The first idea is that acquiring knowledge requires the practice of doubting. Do not believe everything you read and hear. The second idea is that a wise person obtains knowledge of the most valuable things in life, such as knowledge about God, science, and morality. According to Rene Descartes, pursuing knowledge of these higher domains is not only good in itself, but higher knowledge can enable one to live a better life.
+- Robert Nozick - “*What is Wisdom and Why Do Philosophers Love It So?*”
 
-Having doubt about something does not entail rejecting its truth. For our purposes, doubting something means applying careful consideration, such as asking yourself: Why should I think this is true? What is the best way to verify the claim? Who can give me an informed opinion? Healthy doubt is valuable for acquiring knowledge and living life well. For example, whenever we detect incoming scams, such as phone and computer scams, we employ doubt. The hesitation (or doubt) to believe and act according to the computer scam resembles the hesitation one should apply when listening to the news, a podcast, a sermon, or reading an opinion on social media. However, particularly in ordinary affairs, Descartes also warns that extreme doubt may be harmful. Neither the need for basic necessities nor the importance of friendship should be questioned. When individuals are faced with situations such as these, it is often necessary that they act even if they lack all the information about the situation. Descartes argues that remaining paralyzed by doubt is an inadvisable course.
+## 1.2 Wisdom and Humility {-}
 
-Descartes also believes that one should pursue a higher knowledge about God, science, and morality. His point about seeking this type of valuable knowledge relevant because of the human obsession with entertainment. We often seek entertainment and pleasure rather than searching for the truth about the most important ideas in life. For Descartes, that obsession with entertainment and the neglect of seeking valuable knowledge undermines one’s potential to gain wisdom and seek a fulfilling life. In the following video, we briefly discuss these two ideas, the importance of learning to doubt and the value of seeking higher knowledge about God, science, and morality.
+In this topic, we focus on wisdom and humility. A wise person understands their limitations about what they know and do not know. In other words, a wise person is aware of their ignorance. The word “ignorance” in this case does not have a negative connotation, but rather describes a lack of knowledge about a particular thing.
 
-<span class="blockhead">Watch<span class="prote">
+In “the Apology,” Plato introduces the character Socrates, who is on trial for his life. During his defense, Socrates describes the account of his friend, Chaerephon, seeking answers from the Oracle of Delphi, wondering if there is any person wiser than Socrates. In reply to Chaerephon, the oracle says that no one is wiser than Socrates. Socrates is puzzled by the revelation about his wisdom since he considers himself to be unwise. Socrates then asks questions of different people in the city, such as politicians, poets, and artisans, in an attempt to solve the mystery about the oracle’s revelation. Socrates discovers that while these individuals claim to know a great deal about issues such as the nature of beauty and what is good, he observes that they know very little about such issues. These people think they possess knowledge, when in fact they do not, and that is why they lack wisdom. Their way of thinking contrasts with Socrates, who thinks he lacks knowledge about these issues; more specifically, Socrates is aware of his ignorance about the nature of beauty and what is good, while the others are unaware of their own ignorance about these same issues. Because of this, Socrates is the wisest person.
 
-- Wisdom and Knowledge - Unit 1 Lecture 1.2 video (7 min 59 sec)
-- This video introduces wisdom and knowledge. Wisdom does require at least some knowledge to get along in life. According to Descartes, this knowledge includes the highest form of knowledge, such as knowledge about God, science, and morality, as well as the importance of doubt when attempting to obtain knowledge.
+One application of being aware of ignorance for seeking wisdom is to practice a humble attitude towards the complex issues in life, such as how to interpret the Bible, evolution, the nature of sexuality, the implications of social media for our lives, and was Donald Trump an effective president? These types of questions represent complex ideas that even some of the most specialized scholars cannot answer. A wise person demonstrates their humility towards these complex issues by asking thoughtful questions about the opposing view, knowing when to withhold judgment and opinion, and with a willingness to change their mind.
+
+### Watch and Reflect {-}
+
+- Wisdom and Humility Unit 1 Topic 2 (13 min 54 sec)
 
 <div class="video-container">
 
-<iframe src=https://player.vimeo.com/video/863371368?h=2355f01fe6&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="Wisdom and Knowledge - PHIL 100 - Unit 1, Topic 2, Wisdom and Knowledge"></iframe>
+<iframe src="https://player.vimeo.com/video/863371368?h=2355f01fe6&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Wisdom and Humility Unit 1 Topic 2"></iframe>
 
 </div>
+
+### Read and Reflect {-}
+
+- Plato’s Apology - https://classics.mit.edu/Plato/apology.html
+
+### Activity: Practicing Humility - Simulation Exercise 2 {-}
+
+```{block2, type='reflect'}
+
+The simulation exercises are meant to simulate a conversation and introduce you to the various topics in Unit 1. You are encouraged to not only review the simulation exercises but to and practice the applications of wisdom in your daily lives.
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=424" width="100%" height="745" frameborder="0" allowfullscreen="allowfullscreen" title="Phil 101_Branching Exercise (Humility, Topic 3)"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+```
+
+### Watch and Reflect {-}
+
+```{block2, type='reflect'}
+
+Please take a moment to watch this optional video with Dr. Ian Church, What is intellectual humility? A doxastic account. Here is the first of three parts. If you have the time, you should watch them all. Please note that this video lasts for approximately 2:27 minutes.
+
+[Watch: *What is intellectual humility?*](https://www.youtube.com/watch?v=8CZIkGEJYRY){targt="_blank"}
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8CZIkGEJYRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+```
+
+## 1.3 Wisdom and Friendship {-}
+
+This topic examines wisdom and friendship. A wise person is careful about how they view their friends. In doing so, it is best to learn about the various types of friendships. According to Aristotle, there are three types of friendships, friends of utility, pleasure, and virtue. Friends of utility are friends who are a means to an end, such as business partners, or some friends on a sports team. Friends of pleasure are friends with whom we share pleasurable activities. Friends of virtue are friends who exhibit good qualities and help us develop these qualities as well. Aristotle believes that the third type of friend is the best type of friend, and this type of friendship, while difficult to find and develop, is worth pursuing and fighting for. This is because friends of virtue care about us and our character development beyond the scope of utility and pleasure. They care about us even when things are difficult. But how do we find these friends and how can we be virtuous friends to other people? Thomas Aquinas provides some advice. Aquinas suggests that we should be careful about the bad qualities that make for a poor friend, such as envy and pride. These vices (or bad characteristics) undermine the pursuit of virtue and thus compromise any friendship that is built upon virtue. An envious person is someone who is upset about our own success. Think of a friend you have. Have they ever been upset or sad when good things happen to you? If the answer is yes, then this person may not be a virtuous friend. They may suffer from envy towards you. Or have you ever had a friend who jokes about you but can never receive the joke in return? This person may not be a virtuous friend because they suffer from arrogant pride. They think too highly of themselves. Furthermore, we should be cautious about whether we are exhibiting these defects as well. Do we treat our friends as a means to a utilitarian end? Do we make friends only for pleasure? Do we feel upset about our friends success? Do we exhibit a sense of arrogant pride about ourselves? This video introduces these ideas from Aristotle and Aquinas to help better equip us with the skills for developing healthy friendship for living well.
+
+### Watch and Reflect {-}
+
+- Wisdom and Friendship Unit 1 Topic 3 (24 min 18 sec)
+
+<div class="video-container">
+
+<iframe src="https://player.vimeo.com/video/863371368?h=2355f01fe6&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Wisdom and Friendship Unit 1 Topic 3"></iframe>
+
+</div>
+
+### Read and Reflect {-}
+
+- [Aristotle, *Nicomachean Ethics*, Books VIII, IX and X](assets/u1/PHIL-100-Aristotle-NE-VIII-IX-X.pdf){target="_blank"}
+
+### Watch and Reflect {-}
+
+```{block2, type='reflect'}
+
+Please take a moment to view this optional video.  In this video, the Honorable Richard Holloway, who is a writer, broadcaster, and cleric from Scotland, seeks to initiate a debate around the more profound spiritual questions of life. The duration of this video is 4:45 minutes.
+
+[Watch: *Why doubt is a good thing*](https://www.youtube.com/watch?v=LERi_Xjfio4){target="_blank"}
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LERi_Xjfio4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+```
+
+The aim of the following learning activities is to explore and learn about these two applications of knowledge: the practice of doubt and the acquisition of valuable knowledge over entertainment.
+
+### Activity : Learning to doubt - Simulation Exercise 1 {-}
+
+```{block2, type='reflect'}
+
+The simulation exercises are meant to simulate a conversation and introduce students to the various topics in Unit 1. Students are encouraged to not only review the simulation exercises but to practice the applications of wisdom in their daily lives.
+
+<div class="video-container">
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=409" width="100%" height="745" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL101_Branching Exercise - Wisdom and Knowledge (topic 2)"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+</div>
+
+```
+
+### Activity: Take notes for your Life Journal {-}
+
+```{block2, type='reflect'}
+
+Answering the following questions is optional. Answering these questions and saving them as a document will allow you to take notes on the readings in preparation for the Life Journal assignment due at the end of Unit 1.
+
+<div class="video-container">
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=412" width="100%" height="876" frameborder="0" allowfullscreen="allowfullscreen" title="Phil101_Wisdom and Knowledge"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+</div>
+
+```
+
+## 1.4 Wisdom and Rhetoric {-}
+
+This topic examines wisdom and rhetoric. Arguments with other people, such as family, friends, or colleagues, are part of everyday life. A wise person knows how to argue without fighting. According to Jay Heinrichs, a necessary skill for arguing productively is knowing the appropriate goal you wish to bring about. Are you trying to influence someone’s decision? Is that feasible? Are you hoping to feel like a winner? Is that an appropriate goal? It may be your goal to change the mood of your opponent, or simply to inform your opponent of a different point of view. Would you like to end the argument quickly? After the argument, would you like to maintain the relationship with the person? Should you pursue either of these goals? How will you go about accomplishing your goal? In what way are you prepared to compromise? Are you prepared to experience defeat from your opponent’s point of view in order to achieve your goal? What is the purpose of the argument and how should it be achieved?
+
+### Watch and Reflect {-}
+
+- Wisdom and Rhetoric Unit 1 Topic 4 (12 min 19 sec)
+
+<div class="video-container">
+
+<iframe src="https://player.vimeo.com/video/863371368?h=2355f01fe6&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Wisdom and Rhetoric Unit 1 Topic 4"></iframe>
+
+</div>
+
+### Read and Reflect {-}
+
+- [Heinrichs, Thank You for Arguing](assets/u1/PHIL-100-Heinrichs-Thank-You-for-Arguing.pdf){target="_blank"}
+
+### Activity: Take notes for your Life Journal {-}
+
+```{block2, type='reflect'}
+
+Answering the following questions is optional. Answering these questions and saving them as a document will allow you to take notes on the readings in preparation for the Life Journal assignment due at the end of Unit 1.
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=427" width="100%" height="804" frameborder="0" allowfullscreen="allowfullscreen" title="Phil101_Wisdom and Humility"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+```
+
+### Watch and Reflect {-}
+
+```{block2, type='reflect'}
+
+Take a moment to watch this optional video. Here, Camille A. Langston, a specialist in rhetoric and nineteenth-century women, explains the basics of deliberative rhetoric and shares tips for appealing to the ethos, logos, and pathos of your audience. This video is 4:29 minutes long.
+
+[Watch: *How to use rhetoric to get what you want*](https://www.youtube.com/watch?v=3klMM9BkW5o){target="_blank"}
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3klMM9BkW5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+```
 
 ## Required Note Taking Learning Activity {-}
 
-- Answering these questions will help you reflect on the video lecture content and prepare you for your Unit 1 Reflection Assignment.
+``{block2, type='reflect'}
+
+- Answering these questions will help you reflect on the video topic content and prepare you for your Unit 1 Reflection Assignment.
 - Click the Download button after you've completed all the questions for this unit and save the answers to your computer.
-- You will be required to submit these downloaded notes as part of your Final Course Reflection Essay/Video Assignment.
+- You will need the downloaded answers to these questions as you will be required to submit them as part of your Final Course Reflection Essay/Video Assignment.
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=570" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+```
