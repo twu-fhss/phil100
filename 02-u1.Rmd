@@ -6,7 +6,7 @@ This video briefly introduces the four topics in the first unit: knowledge, humi
 
 <div class="video-container">
 
-<iframe src=https://player.vimeo.com/video/863371336?h=1432d24ea4&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="Wisdom - PHIL 100 - Unit 1, Introduction"></iframe>
+<iframe src=https://player.vimeo.com/video/863371291?h=be205cbd14&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 1, Introduction"></iframe>
 
 </div>
 
@@ -41,13 +41,13 @@ In this topic, we learn about the nature of wisdom and its relationship with kno
 
 <div class="video-container">
 
-<iframe src="https://player.vimeo.com/video/863371368?h=2355f01fe6&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Wisdom and Knowledge Unit 1 Topic 1"></iframe>
+<iframe src=https://player.vimeo.com/video/863371336?h=1432d24ea4&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 1, Topic 1, Knowledge"></iframe>
 
 </div>
 
 ### Read and Reflect {-}
 
-- Robert Nozick - “*What is Wisdom and Why Do Philosophers Love It So?*”
+- Robert Nozick - [*What is Wisdom and Why Do Philosophers Love It So?*](assets/u1/PHIL-100-Nozick-What-is-Wisdom.pdf){target="_blank"}
 
 ## 1.2 Wisdom and Humility {-}
 
@@ -63,13 +63,13 @@ One application of being aware of ignorance for seeking wisdom is to practice a 
 
 <div class="video-container">
 
-<iframe src="https://player.vimeo.com/video/863371368?h=2355f01fe6&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Wisdom and Humility Unit 1 Topic 2"></iframe>
+<iframe src=https://player.vimeo.com/video/863371368?h=2355f01fe6&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 1, Topic 2, Humility"></iframe>
 
 </div>
 
 ### Read and Reflect {-}
 
-- Plato’s Apology - https://classics.mit.edu/Plato/apology.html
+- Plato - *Apology* - https://classics.mit.edu/Plato/apology.html
 
 ### Activity: Practicing Humility - Simulation Exercise 2 {-}
 
@@ -107,13 +107,13 @@ This topic examines wisdom and friendship. A wise person is careful about how th
 
 <div class="video-container">
 
-<iframe src="https://player.vimeo.com/video/863371368?h=2355f01fe6&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Wisdom and Friendship Unit 1 Topic 3"></iframe>
+<iframe src=https://player.vimeo.com/video/863371397?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 1, Topic 3, Friendship"></iframe>
 
 </div>
 
 ### Read and Reflect {-}
 
-- [Aristotle, *Nicomachean Ethics*, Books VIII, IX and X](assets/u1/PHIL-100-Aristotle-NE-VIII-IX-X.pdf){target="_blank"}
+- Aristotle - [*Nicomachean Ethics*, Books VIII, IX and X](assets/u1/PHIL-100-Aristotle-NE-VIII-IX-X.pdf){target="_blank"}
 
 ### Watch and Reflect {-}
 
@@ -168,13 +168,13 @@ This topic examines wisdom and rhetoric. Arguments with other people, such as fa
 
 <div class="video-container">
 
-<iframe src="https://player.vimeo.com/video/863371368?h=2355f01fe6&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Wisdom and Rhetoric Unit 1 Topic 4"></iframe>
+<iframe src=https://player.vimeo.com/video/863371442?h=66df806e96&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 1, Topic 4, Rhetoric"></iframe>
 
 </div>
 
 ### Read and Reflect {-}
 
-- [Heinrichs, Thank You for Arguing](assets/u1/PHIL-100-Heinrichs-Thank-You-for-Arguing.pdf){target="_blank"}
+- Jay Heinrichs - [*Thank You for Arguing*](assets/u1/PHIL-100-Heinrichs-Thank-You-for-Arguing.pdf){target="_blank"}
 
 ### Activity: Take notes for your Life Journal {-}
 
