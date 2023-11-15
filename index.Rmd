@@ -7,13 +7,13 @@ url: https://twu-fhss.github.io/soci101/
 biblio-style: apalike
 ---
 
-# Welcome Test with Colin {-}
+# Welcome {-}
 
 This is the course book for Philosophy for Life. This book is divided into thematic units of study to help you engage with the materials. The course resources and learning activities are designed not only to help prepare you for the course assessments, but also to give you opportunities to practice various skills.
 
 > Below you will find information about how to navigate this book. Please read the full course syllabus located on the Course Home page in Moodle. It includes key information about the course schedule, assignments, and policies.
 
-## Course Notes{-}
+## Course Notes {-}
 
 You should be reading this information in the context of a Trinity Western University course offered via Moodle. If this is not the case, then this may be an unauthorized reproduction of the course. Please contact elearning@twu.ca if you have concerns.
 
