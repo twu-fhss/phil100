@@ -47,7 +47,7 @@ In this video, you will learn about the various definitions of faith from Elizab
 
 <span class="blockhead">Read and Reflect<span class="prote">
 
-- Jackson - *Types of Faith* - https://iep.utm.edu/faith-contemporary-perspectives/#SSH1ai
+- Jackson - *Types of Faith* - https://iep.utm.edu/faith-contemporary-perspectives/#SSH1ai{target="_blank"}
 
 ## 2.2 Faith and Hope {-}
 
@@ -67,7 +67,7 @@ In this video, you will learn about faith as hope in the midst of doubt from Lou
 
 ### Read and Reflect {-}
 
-- Pojman - [*Faith, Hope and Doubt*](assets/u1/PHIL 100-Pojman-Faith-Hope-and-Doubt.pdf){target="_blank"}
+- Pojman - [*Faith, Hope and Doubt*](assets/u2/PHIL-100-Pojman-Faith-Hope-and-Doubt.pdf){target="_blank"}
 
 ## 2.3 Faith and Action {-}
 
@@ -87,7 +87,7 @@ In this video, you will learn about faith and action from Boyd and Thorsen’s c
 
 ### Read and Reflect {-}
 
-- Boyd and Thorsen - [*Ethics in the Christian Scriptures*](assets/u1/PHIL-100-Boyd-and-Thorsen-Ethics-in-the-Christian-Scriptures.pdf){target="_blank"}
+- Boyd and Thorsen - [*Ethics in the Christian Scriptures*](assets/u2/PHIL-100-Boyd-and-Thorsen-Ethics-in-the-Christian-Scriptures.pdf){target="_blank"}
 
 ## 1.4 Faith and Rationality {-}
 
@@ -107,7 +107,7 @@ IIn this video, you will learn about faith and rationality from W.K. Clifford’
 
 ### Read and Reflect {-}
 
-- WK Clifford - [*Ethics of Belief*](assets/u1/PHIL-100-Clifford-Ethics-of-Belief.pdf){target="_blank"}
+- WK Clifford - [*Ethics of Belief*](assets/u2/PHIL-100-Clifford-Ethics-of-Belief.pdf){target="_blank"}
 
 ## Required Note Taking Learning Activity {-}
 
