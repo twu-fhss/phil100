@@ -33,7 +33,7 @@ When you’ve completed this unit, you will have learned how to:
 
 ## 1.1 Wisdom and Knowledge {-}
 
-The following are the items you need to do to complete this topic.
+Follow and complete the steps below to accomplish your learning for this topic.
 
 1. Read topic notes
 2. Watch and reflect on Wisdom and Knowledge video
@@ -60,9 +60,25 @@ In this video, you will learn about wisdom and knowledge from Robert Nozick’s 
 
 - Robert Nozick - [*What is Wisdom and Why Do Philosophers Love It So?*](assets/u1/PHIL-100-Nozick-What-is-Wisdom.pdf){target="_blank"}
 
+### Watch and Reflect {-}
+
+```{block2, type='reflect'}
+
+In this 5 minutes 55 second optional video, philosophers Valerie Tiberius and Philip Kitcher, as well as psychologist Lisa Feldman Barret discuss their definitions of wisdom.
+
+[Watch: *What is Wisdom?*](https://youtu.be/obqedyeUcwk){targt="_blank"}
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/obqedyeUcwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+```
+
 ## 1.2 Wisdom and Humility {-}
 
-The following are the items you need to do to complete this topic.
+Follow and complete the steps below to accomplish your learning for this topic.
 
 1. Read topic notes
 2. Watch and reflect on Wisdom and Humility video
@@ -107,9 +123,9 @@ The simulation exercises are meant to simulate a conversation and introduce you 
 
 ```{block2, type='reflect'}
 
-Please take a moment to watch this optional video with Dr. Ian Church, *What is Intellectual Humility*? A doxastic account. Here is the first of three parts. If you have the time, you should watch them all. Please note that this video lasts for approximately 2:27 minutes.
+Take a moment to watch this 2 minute 59 second optional video with Dr. Ian Church, *What is Intellectual Humility*? A doxastic account. Here is the first of three parts. If you have the time, you should watch all three parts.
 
-[Watch: *What is intellectual humility?*](https://www.youtube.com/watch?v=8CZIkGEJYRY){targt="_blank"}
+[Watch: *What is Intellectual Humility?*](https://www.youtube.com/watch?v=8CZIkGEJYRY){targt="_blank"}
 
 <div class="video-container">
 
@@ -121,7 +137,7 @@ Please take a moment to watch this optional video with Dr. Ian Church, *What is 
 
 ## 1.3 Wisdom and Friendship {-}
 
-The following are the items you need to do to complete this topic.
+Follow and complete the steps below to accomplish your learning for this topic.
 
 1. Read topic notes
 2. Watch and reflect on Wisdom and Friendship video
@@ -191,9 +207,25 @@ Answering the following questions is optional. Answering these questions and sav
 
 ```
 
+### Watch and Reflect {-}
+
+```{block2, type='reflect'}
+
+In this 7 minute 21 second optional video, you will learn further details about Aristotle’s view of friendship.
+
+[Watch: *Aristotle’s Timeless Advice on What Real Friendship Is and Why It Matters*](https://www.youtube.com/watch?v=F18kSA8OxqY){targt="_blank"}
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/F18kSA8OxqY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+```
+
 ## 1.4 Wisdom and Rhetoric {-}
 
-The following are the items you need to do to complete this topic.
+Follow and complete the steps below to accomplish your learning for this topic.
 
 1. Read topic notes
 2. Watch and reflect on Wisdom and Rhetoric video
@@ -246,7 +278,7 @@ Answering the following questions is optional. Answering these questions and sav
 
 ```{block2, type='reflect'}
 
-Take a moment to watch this optional video. Here, Camille A. Langston, a specialist in rhetoric and nineteenth-century women, explains the basics of deliberative rhetoric and shares tips for appealing to the ethos, logos, and pathos of your audience. This video is 4:29 minutes long.
+Take a moment to watch this 4 minute 29 second optional video. Here, Camille A. Langston, a specialist in rhetoric and nineteenth-century women, explains the basics of deliberative rhetoric and shares tips for appealing to the ethos, logos, and pathos of your audience.
 
 [Watch: *How to Use Rhetoric to Get What You Want*](https://www.youtube.com/watch?v=3klMM9BkW5o){target="_blank"}
 
