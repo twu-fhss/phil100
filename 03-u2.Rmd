@@ -14,7 +14,7 @@ This video briefly introduces the four topics in the second unit: definitions, h
 
 ### Topics {-}
 
-This unit is divided into the following topics:
+This unit is divided into the following four topics:
 
 1. Faith and Definitions
 2. Faith and Hope
@@ -25,11 +25,22 @@ This unit is divided into the following topics:
 
 When you’ve completed this unit, you will have learned how to:
 
-- Apply wisdom to practice intellectual humility with knowledge
-- Interpret Plato’s “The Apology” from a wise person’s perspective
-- Develop and apply wisdom to strategies for practicing charity towards your opponents
+- Identify and understand the nature of faith, including definitions, ethical implications, and its relationship to rationality
+- Develop a greater understanding of the ethical behavior required by faith
+- Identify briefly how Christianity applies to living life within the context of justice and faith
+- Enhance a greater understanding about faith and rationality
+- Navigate some of the objections to the nature of faith, particularly the beliefs about faith
 
 ## 2.1 Faith and Definitions {-}
+
+Follow and complete the steps below to accomplish your learning for this topic.
+
+1. Read topic notes
+2. Watch and reflect on the Faith and Definitions topic video
+3. Read and reflect on the Jackson reading
+4. Complete and download the Required Note-taking exercise
+5. Complete and download the Required Note-taking questionnaire
+6. Watch and reflect on the *Belief vs Faith (Philosophical Distinction)* optional video
 
 In this topic, we learn about several definitions of the term faith. One distinction to make about faith is between faith as an attitude and faith as an action. Faith as an attitude means that faith is something in our heads. Faith is a mental and cognitive experience, such as a belief, trust, and hope. These ideas are a common way to think about faith. On the other hand, faith as an action refers to an ancient way of thinking about the term. The Greek word for faith is “pistis” and this can refer ethical behavior towards a person or ideal. With regard to faith as an attitude, we will learn about the difference between doxastic faith and non-doxastic faith. The term “doxastic” refers to beliefs. Thus, doxastic faith is faith focusing on belief. Non-doxastic faith focuses on faith that does not include belief.
 
@@ -49,7 +60,32 @@ In this video, you will learn about the various definitions of faith from Elizab
 
 - Jackson - *Types of Faith* - https://iep.utm.edu/faith-contemporary-perspectives/#SSH1ai{target="_blank"}
 
+### Watch and Reflect {-}
+
+```{block2, type='reflect'}
+
+In this 10 minute 06 second optional video, you will learn some further distinctions between the terms faith and belief, especially in religious contexts.
+
+[Watch: *Belief vs Faith (Philosophical Distinction)*](https://www.youtube.com/watch?v=o8QKkHWUSu0){targt="_blank"}
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/o8QKkHWUSu0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+```
+
 ## 2.2 Faith and Hope {-}
+
+Follow and complete the steps below to accomplish your learning for this topic.
+
+1. Read topic notes
+2. Watch and reflect on the Faith and Hope topic video
+3. Read and reflect on the Pojman reading
+4. Complete and download the Required Note-taking exercise
+5. Complete and download the Required Note-taking questionnaire
+6. Watch and reflect on the *Faith and Hope Are Two Different Philosophical Mindsets* optional video
 
 In the previous topic, we learned about various definitions of faith, mainly faith as an attitude. The first two ways of thinking about faith as an attitude are belief and trust. These attitudes of faith are called doxastic because they generally focus on beliefs – mental and cognitive experiences in our heads. In this topic, we focus on a non-doxastic attitude of faith called hope. Hope is non-doxastic because hope does not necessarily include belief when considering faith. Pojman is going to argue that faith as hope is the more appropriate way to think about faith, especially Christian faith and the doctrine of salvation. Salvation is the idea that the human race is in danger and God is attempting to save them. According to some traditions, if humans believe in God, then God will save them. But for Pojman, humans can’t control what they believe, including their doubts about God. So how can salvation be about something one cannot control? Rather, faith as hope in God and his saving plan seems to be the more accurate way to think about faith and salvation.
 
@@ -69,7 +105,32 @@ In this video, you will learn about faith as hope in the midst of doubt from Lou
 
 - Pojman - [*Faith, Hope and Doubt*](assets/u2/PHIL-100-Pojman-Faith-Hope-and-Doubt.pdf){target="_blank"}
 
+### Watch and Reflect {-}
+
+```{block2, type='reflect'}
+
+In this 4 minute 22 second optional video, you will learn about the difference between faith and hope.
+
+[Watch: *Faith and Hope Are Two Different Philosophical Mindsets*](https://www.youtube.com/watch?v=-b5Hiijc4bU){targt="_blank"}
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/b5Hiijc4bU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+```
+
 ## 2.3 Faith and Action {-}
+
+Follow and complete the steps below to accomplish your learning for this topic.
+
+1. Read topic notes
+2. Watch and reflect on the Faith and Action topic video
+3. Read and reflect on the Boyd and Thorsen reading
+4. Complete and download the Required Note-taking exercise
+5. Complete and download the Required Note-taking questionnaire
+6. Watch and reflect on the *Frans de Waal: Morality Without Religion* optional video
 
 In the previous two topics, we discussed faith as an attitude, such as a belief, a trust, or a hope. These conceptions of faith exist in one’s head – as a mental and cognitive experience. Faith as action focuses more on the behavior of a person and not as much on the mental experience. While it’s true that our beliefs and desires and hopes may be causally relevant for our actions, this needn’t always be the case. Thus, faith as action focuses more on ethical behavior as the mode of faith. In this topic, we briefly examine a controversy within Christian theology about the definition of faith. Traditionally, the view of faith was attitudinal, such as belief and trust. More recently, the suggestion is that Christian faith is about Christian ethics and good works and less so about having the attitudinal beliefs and trust about Christianity.
 
@@ -89,7 +150,32 @@ In this video, you will learn about faith and action from Boyd and Thorsen’s c
 
 - Boyd and Thorsen - [*Ethics in the Christian Scriptures*](assets/u2/PHIL-100-Boyd-and-Thorsen-Ethics-in-the-Christian-Scriptures.pdf){target="_blank"}
 
-## 1.4 Faith and Rationality {-}
+### Watch and Reflect {-}
+
+```{block2, type='reflect'}
+
+In this 2 minute 52 second optional video, you will be introduced to one view regarding the origins of religion and how this origin is related to morality.
+
+[Watch: *Frans de Waal: Morality Without Religion*](https://www.youtube.com/watch?v=sEQuIDqY6Cc){targt="_blank"}
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sEQuIDqY6Cc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+```
+
+## 2.4 Faith and Rationality {-}
+
+Follow and complete the steps below to accomplish your learning for this topic.
+
+1. Read topic notes
+2. Watch and reflect on the Faith and Rationality topic video
+3. Read and reflect on the Clifford reading
+4. Complete and download the Required Note-taking exercise
+5. Complete and download the Required Note-taking questionnaire
+6. Watch and reflect on the *Religion: Reason and Faith* optional video
 
 In the previous topics, we briefly discussed some definitions of faith. A primary distinction is between faith as attitudes and faith as actions. While these categories may be interwoven, they can also remain distinct. Regardless, the critic of faith will challenge any of these ideas about faith by questioning the rationality of faith, either faith as belief and trust, or faith as action. In this topic, we explore this challenge. The term rationality in this case refers to beliefs and actions aligning with evidence. If beliefs and actions do not align with the evidence, then, according to the evidentialist, such beliefs and actions are irrational. So, according to the objection, for us to exhibit rationality, we must align our beliefs and actions according to the proper evidence. Is this a good objection to the rationality of faith as belief and action? We explore this issue by first reading William Clifford’s famous piece on the ethics of belief. According to Clifford, it is wrong to believe anything not proportional to the evidence. We then consider some response to this evidential objection by noting (i) the possible incoherence of the objection; (ii) the fact that may of our rational beliefs are not proportional to the evidence; (iii) that in some cases of faith, there exists sufficient evidence to meet the rational standard.
 
@@ -118,5 +204,21 @@ IIn this video, you will learn about faith and rationality from W.K. Clifford’
 - You will be required to submit these downloaded notes as part of your Final Course Reflection Essay/Video Assignment.
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=571" width="936" height="1902" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 2"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+```
+
+### Watch and Reflect {-}
+
+```{block2, type='reflect'}
+
+In this 8 minute 38 second optional video, you will learn about further details about the relationship between faith and reason.
+
+[Watch: *Religion: Reason and Faith*](https://www.youtube.com/watch?v=MTPHXNMi9tA){targt="_blank"}
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MTPHXNMi9tA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
 
 ```
