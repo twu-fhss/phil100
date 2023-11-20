@@ -38,11 +38,10 @@ When you’ve completed this unit, you will have learned how to:
 Follow and complete the steps below to accomplish your learning for this topic.
 
 1. Read topic notes
-2. Watch and reflect on the Reason and Parts and Keywords of an Argument topic video
-3. Read and reflect on the reading
-4. Complete and download the Required Note-taking exercise
-5. Complete and download the Required Note-taking questionnaire
-6. Watch and reflect on the *Critical Thinking #3: Types of Arguments* optional video
+2. Watch the Reason and Parts and Keywords of an Argument topic video
+3. Complete and download the Required Reading Note-taking exercise
+4. Complete and download the Required Note-taking questionnaire
+5. Watch the *Critical Thinking #3: Types of Arguments* optional video
 
 In this topic, we learn about the parts of the argument and the words often used to designate these parts. Arguments are made up of statements. Statements are claims that are either true or false. Sometimes statements are whole sentences, while other times statements are phrases. For example, the question, “Is there a God?” is not a statement because the question does not state something that is either true or false. The answer to this question, “yes there is a God,” or “no, there is no God” are statements because they express claims that are either true or false. Other parts of the argument are the premises and conclusion. The premises are the statements that support the conclusion. The conclusion is the statement that is being argued for by the premises. The inference is the move from the premises to the conclusion. Imagine someone says they believe that God exists. This is their conclusion. You ask them, “why think that God exists?” Their response is going to be a reason (i.e. a premise) or a set of reasons (i.e. a set of premises) that are supposed to support their conclusion. The inference is the nature of the support from premise to conclusion.
 
@@ -85,11 +84,10 @@ In this 5 minute 24 second optional video, you will learn about the basic struct
 Follow and complete the steps below to accomplish your learning for this topic.
 
 1. Read topic notes
-2. Watch and reflect on the Reason and Labelling and Restructuring topic video
-3. Read and reflect on the reading
-4. Complete and download the Required Note-taking exercise
-5. Complete and download the Required Note-taking questionnaire
-6. Watch and reflect on the *Ninety Second Philosophy: Arguments* optional video
+2. Watch the Reason and Labelling and Restructuring topic video
+3. Complete and download the Required Reading Note-taking exercise
+4. Complete and download the Required Note-taking questionnaire
+5. Watch the *Ninety Second Philosophy: Arguments* optional video
 
 In the previous topic, we learned about the parts and keywords of an argument. In this topic, we learn how to label these parts of the argument and then restructure the argument vertically, with premises and conclusion, so that we may see the argument clearly. The steps for applying these tools follow this pattern: (i) focus on statements and ignore non-statements. Recall from the previous topic that arguments are made up of statements only and never non-statements. Thus, only focus on statements and cross out any non-statements. (ii) Locate the premises and conclusion amongst the set of statements using keywords. As discussed, premises and conclusions often have terms that designate them, such as “therefore”.
 
@@ -128,11 +126,10 @@ In this 1 minute 22 second optional video, you will learn about the basic struct
 Follow and complete the steps below to accomplish your learning for this topic.
 
 1. Read topic notes
-2. Watch and reflect on the Reason and Interpreting Arguments and Conditionals (If…Then) topic video
-3. Read and reflect on the reading
-4. Complete and download the Required Note-taking exercise
-5. Complete and download the Required Note-taking questionnaire
-6. Watch and reflect on the *Lesson 2. Identifying Arguments* optional video
+2. Watch the Reason and Interpreting Arguments and Conditionals (If…Then) topic video
+3. Complete and download the Required Reading Note-taking exercise
+4. Complete and download the Required Note-taking questionnaire
+5. Watch the *Lesson 2. Identifying Arguments* optional video
 
 In the first two topics, we learned some foundational skills for identifying arguments, such as the parts and keywords of an argument, and the methods for labeling and restructuring arguments. The challenge, however, is that ordinary discourse – both written and verbal – often makes the argument difficult to identify. We often must interpret what we think the author intended to say about their view and then structure the argument according to this intention. In this topic, we practice the skill of interpretating arguments. One strategy for interpreting an argument is the “Why/Because” strategy. If it’s difficult to identify the premises and conclusion, then look for statements that may follow with a hypothetical “why”. Such statements may be the conclusion(s). The reason is that concluding statements have by definition reasons for them. And the term “why” may pick out these reasons. The term “because” often precedes a reason (i.e. a premise) and so looking for statements that may be preceded with “because” may help with identifying the premises.
 
@@ -171,11 +168,10 @@ In this 6 minute optional video, you will be introduced to some further techniqu
 Follow and complete the steps below to accomplish your learning for this topic.
 
 1. Read topic notes
-2. Watch and reflect on the Reason and Identifying and Practicing Difficult Arguments topic video
-3. Read and reflect on the reading
-4. Complete and download the Required Note-taking exercise
-5. Complete and download the Required Note-taking questionnaire
-6. Watch and reflect on the *Identifying Premises and Conclusions* optional video
+2. Watch the Reason and Identifying and Practicing Difficult Arguments topic video
+3. Complete and download the Required Reading Note-taking exercise
+4. Complete and download the Required Note-taking questionnaire
+5. Watch the *Identifying Premises and Conclusions* optional video
 
 In the previous topics, we have attempted to build our foundation for identifying arguments. The real challenge is when we’re confronted with long speeches, texts, reports, stories, and accusations whereby the argument may often seem unclear. Our task is to use the tools we’ve learned to identify the argument(s) in more difficult contexts. In this topic, we practice these skills by following these steps: (i) ignore non-statements and label the premises and conclusion; (ii) restructure the argument vertically with premises on top and the conclusion beneath. Notice that the difficult step is (i). We must sift through the content to locate keywords, interpret ambiguous statements, possibly use the “Why/Because” strategy in cases of doubt, decipher unusual “if/then” statements, and so on. Sometimes there is no argument at all; other times there may exist more than one argument, such that there is a main argument, and a secondary argument. The point of this entire exercise is to learn the skill that so many of us fail to properly master: to learn what the opposing person is trying to say. What is their position? What is their argument if there is one? Only after we’ve successfully identified the argument can we then properly raise objections and evaluate their argument.
 
