@@ -123,7 +123,7 @@ The simulation exercises are meant to simulate a conversation and introduce you 
 
 ```{block2, type='reflect'}
 
-Take a moment to watch this 2 minute 59 second optional video with Dr. Ian Church, *What is Intellectual Humility*? A doxastic account. Here is the first of three parts. If you have the time, you should watch all three parts.
+In this 2 minute 59 second optional video with Dr. Ian Church, *What is Intellectual Humility*? A doxastic account. Here is the first of three parts. If you have the time, you should watch all three parts.
 
 [Watch: *What is Intellectual Humility?*](https://www.youtube.com/watch?v=8CZIkGEJYRY){targt="_blank"}
 
@@ -278,7 +278,7 @@ Answering the following questions is optional. Answering these questions and sav
 
 ```{block2, type='reflect'}
 
-Take a moment to watch this 4 minute 29 second optional video. Here, Camille A. Langston, a specialist in rhetoric and nineteenth-century women, explains the basics of deliberative rhetoric and shares tips for appealing to the ethos, logos, and pathos of your audience.
+In this 4 minute 29 second optional video. Here, Camille A. Langston, a specialist in rhetoric and nineteenth-century women, explains the basics of deliberative rhetoric and shares tips for appealing to the ethos, logos, and pathos of your audience.
 
 [Watch: *How to Use Rhetoric to Get What You Want*](https://www.youtube.com/watch?v=3klMM9BkW5o){target="_blank"}
 
