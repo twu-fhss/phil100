@@ -111,11 +111,11 @@ In this video, you will learn about faith as hope in the midst of doubt from Lou
 
 In this 4 minute 22 second optional video, you will learn about the difference between faith and hope.
 
-[Watch: *Faith and Hope Are Two Different Philosophical Mindsets*](https://www.youtube.com/watch?v=-b5Hiijc4bU){targt="_blank"}
+[Watch: *Faith and Hope Are Two Different Philosophical Mindsets*](https://youtu.be/-b5Hiijc4bU?si=7WEWLT5UR6GsiZVj){targt="_blank"}
 
 <div class="video-container">
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/b5Hiijc4bU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtu.be-nocookie/embed/7WEWLT5UR6GsiZVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
