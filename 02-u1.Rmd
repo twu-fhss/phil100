@@ -38,8 +38,8 @@ Follow and complete the steps below to accomplish your learning for this topic.
 1. Read topic notes
 2. Watch and reflect on the Wisdom and Knowledge topic video
 3. Read and reflect on the Nozick reading
-4. Complete and download the Required Note-taking exercise
-5. Complete and download the Required Note-taking questionnaire
+4. Complete and download the Required Note-taking Exercise
+5. Complete and download the Required Note-taking Questionnaire
 6. Watch and reflect on the *Definition of Wisdom* optional video
 
 In this topic, we learn about the nature of wisdom and its relationship with knowledge. Wisdom is not just about knowledge. Wisdom is practical in that wisdom is required to live life well, to cope with and respond to the many challenges of life, and, if possible, avoid some of those challenges. While wisdom is practical, it does require at least some knowledge. For living life well, wisdom requires knowing the right beliefs and knowing how to apply these beliefs in the right way at the right time. How do we know which beliefs and actions are appropriate for living life well? Philosopher Robert Nozick argues that a wise person holds beliefs about many aspects of life, including beliefs about life’s most important values, beliefs about achieving one’s goals, and following the necessary steps to achieve these goals. Likewise, the right actions for living a fulfilling life are derived from applying the aforementioned beliefs. If a person knows about the most important values and goals in life, but never applies them to their behavior, then they are not considered wise. In other words, having knowledge does not entail wisdom. Nozick is also aware that applying the appropriate beliefs and actions is not sufficient to live life well. Sometimes bad things occur for no apparent reason, which may undermine our efforts. A wise person is aware of this problem, and while pursuing their goals, prepares for failure, learns how to avoid it, and how to respond to it if failure occurs.
@@ -59,6 +59,18 @@ In this video, you will learn about wisdom and knowledge from Robert Nozick’s 
 ### Read and Reflect {-}
 
 - Robert Nozick - [*What is Wisdom and Why Do Philosophers Love It So?*](assets/u1/PHIL-100-Nozick-What-is-Wisdom.pdf){target="_blank"}
+
+## Required Note-Taking Questionnaire {-}
+
+```{block2, type='reflect'}
+
+- Answering these questions will help you reflect on the topic content and prepare you for your Unit 1 Reflection Assignment.
+- Click the Download button after you've completed all the questions for this unit and save the answers to your computer.
+- You will need the downloaded answers to these questions as you will be required to submit them as part of your Final Course Reflection Essay/Video Assignment.
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=570" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+```
 
 ### Watch and Reflect {-}
 
@@ -83,9 +95,10 @@ Follow and complete the steps below to accomplish your learning for this topic.
 1. Read topic notes
 2. Watch and reflect on the Wisdom and Humility topic video
 3. Read and reflect on the Plato reading
-4. Complete and download the Required Note-taking exercise
-5. Complete and download the Required Note-taking questionnaire
-6. Watch and reflect on the *What is Intellectual Humility* optional video
+4. Complete and download the Required Note-taking Exercise
+5. Complete and download the Required Note-taking Questionnaire
+6. Complete the Practicing Humility - Simulation Exercise
+7. Watch and reflect on the *What is Intellectual Humility* optional video
 
 In this topic, we focus on wisdom and humility. A wise person understands their limitations about what they know and do not know. In other words, a wise person is aware of their ignorance. The word “ignorance” in this case does not have a negative connotation, but rather describes a lack of knowledge about a particular thing.
 
@@ -109,7 +122,19 @@ In this video, you will learn about wisdom and humility from Plato’s *Apology*
 
 - Plato - *Apology* - https://classics.mit.edu/Plato/apology.html
 
-### Activity: Practicing Humility - Simulation Exercise 2 {-}
+## Required Note-Taking Questionnaire {-}
+
+```{block2, type='reflect'}
+
+- Answering these questions will help you reflect on the topic content and prepare you for your Unit 1 Reflection Assignment.
+- Click the Download button after you've completed all the questions for this unit and save the answers to your computer.
+- You will need the downloaded answers to these questions as you will be required to submit them as part of your Final Course Reflection Essay/Video Assignment.
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=571" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+```
+
+### Practicing Humility - Simulation Exercise {-}
 
 ```{block2, type='reflect'}
 
@@ -142,8 +167,8 @@ Follow and complete the steps below to accomplish your learning for this topic.
 1. Read topic notes
 2. Watch and reflect on the Wisdom and Friendship topic video
 3. Read and reflect on the Aristole reading
-4. Complete and download the Required Note-taking exercise
-5. Complete and download the Required Note-taking questionnaire
+4. Complete and download the Required Note-taking Exercise
+5. Complete and download the Required Note-taking Questionnaire
 6. Watch and reflect on the Placeholder optional video
 
 This topic examines wisdom and friendship. A wise person is careful about how they view their friends. In doing so, it is best to learn about the various types of friendships. According to Aristotle, there are three types of friendships, friends of utility, pleasure, and virtue. Friends of utility are friends who are a means to an end, such as business partners, or some friends on a sports team. Friends of pleasure are friends with whom we share pleasurable activities. Friends of virtue are friends who exhibit good qualities and help us develop these qualities as well. Aristotle believes that the third type of friend is the best type of friend, and this type of friendship, while difficult to find and develop, is worth pursuing and fighting for. This is because friends of virtue care about us and our character development beyond the scope of utility and pleasure. They care about us even when things are difficult. But how do we find these friends and how can we be virtuous friends to other people? Thomas Aquinas provides some advice. Aquinas suggests that we should be careful about the bad qualities that make for a poor friend, such as envy and pride. These vices (or bad characteristics) undermine the pursuit of virtue and thus compromise any friendship that is built upon virtue. An envious person is someone who is upset about our own success. Think of a friend you have. Have they ever been upset or sad when good things happen to you? If the answer is yes, then this person may not be a virtuous friend. They may suffer from envy towards you. Or have you ever had a friend who jokes about you but can never receive the joke in return? This person may not be a virtuous friend because they suffer from arrogant pride. They think too highly of themselves. Furthermore, we should be cautious about whether we are exhibiting these defects as well. Do we treat our friends as a means to a utilitarian end? Do we make friends only for pleasure? Do we feel upset about our friends success? Do we exhibit a sense of arrogant pride about ourselves? This video introduces these ideas from Aristotle and Aquinas to help better equip us with the skills for developing healthy friendship for living well.
@@ -163,6 +188,18 @@ In this video, you will learn about wisdom and friendship from Aristotle’s *Ni
 ### Read and Reflect {-}
 
 - Aristotle - [*Nicomachean Ethics*, Books VIII, IX and X](assets/u1/PHIL-100-Aristotle-NE-VIII-IX-X.pdf){target="_blank"}
+
+## Required Note-Taking Questionnaire {-}
+
+```{block2, type='reflect'}
+
+- Answering these questions will help you reflect on the topic content and prepare you for your Unit 1 Reflection Assignment.
+- Click the Download button after you've completed all the questions for this unit and save the answers to your computer.
+- You will need the downloaded answers to these questions as you will be required to submit them as part of your Final Course Reflection Essay/Video Assignment.
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=572" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+```
 
 ### Watch and Reflect {-}
 
@@ -230,8 +267,8 @@ Follow and complete the steps below to accomplish your learning for this topic.
 1. Read topic notes
 2. Watch and reflect on the Wisdom and Rhetoric topic video
 3. Read and reflect on the Heinrichs reading
-4. Complete and download the Required Note-taking exercise
-5. Complete and download the Required Note-taking questionnaire
+4. Complete and download the Required Note-taking Exercise
+5. Complete and download the Required Note-taking Questionnaire
 6. Watch and reflect on the *How to Use Rhetoric to Get What You Want* optional video
 
 This topic examines wisdom and rhetoric. Arguments with other people, such as family, friends, or colleagues, are part of everyday life. A wise person knows how to argue without fighting. According to Jay Heinrichs, a necessary skill for arguing productively is knowing the appropriate goal you wish to bring about. Are you trying to influence someone’s decision? Is that feasible? Are you hoping to feel like a winner? Is that an appropriate goal? It may be your goal to change the mood of your opponent, or simply to inform your opponent of a different point of view. Would you like to end the argument quickly? After the argument, would you like to maintain the relationship with the person? Should you pursue either of these goals? How will you go about accomplishing your goal? In what way are you prepared to compromise? Are you prepared to experience defeat from your opponent’s point of view in order to achieve your goal? What is the purpose of the argument and how should it be achieved?
@@ -252,6 +289,18 @@ In this video, you will learn about wisdom and rhetoric from Jay Heinrich’s *T
 
 - Jay Heinrichs - [*Thank You for Arguing*](assets/u1/PHIL-100-Heinrichs-Thank-You-for-Arguing.pdf){target="_blank"}
 
+## Required Note-Taking Questionnaire {-}
+
+```{block2, type='reflect'}
+
+- Answering these questions will help you reflect on the topic content and prepare you for your Unit 1 Reflection Assignment.
+- Click the Download button after you've completed all the questions for this unit and save the answers to your computer.
+- You will need the downloaded answers to these questions as you will be required to submit them as part of your Final Course Reflection Essay/Video Assignment.
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=576" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+```
+
 ### Activity: Take notes for your Life Journal {-}
 
 ```{block2, type='reflect'}
@@ -262,7 +311,7 @@ Answering the following questions is optional. Answering these questions and sav
 
 ```
 
-## Required Note Taking Learning Activity {-}
+## Required Note Taking Questionnaire {-}
 
 ```{block2, type='reflect'}
 
