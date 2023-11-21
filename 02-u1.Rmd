@@ -37,7 +37,7 @@ Follow and complete the steps below to accomplish your learning for this topic.
 
 1. Read topic notes
 2. Watch the Wisdom and Knowledge topic video
-3. Read the Nozick reading
+3. Read Nozick
 4. Complete and download the Required Reading Note-taking Exercise
 5. Complete and download the Required Note-taking Questionnaire
 6. Watch the *Definition of Wisdom* optional video
@@ -60,12 +60,12 @@ In this video, you will learn about wisdom and knowledge from Robert Nozick’s 
 
 - Robert Nozick - [*What is Wisdom and Why Do Philosophers Love It So?*](assets/u1/PHIL-100-Nozick-What-is-Wisdom.pdf){target="_blank"}
 
-## Required Note-Taking Questionnaire {-}
+### Required Note-Taking Questionnaire {-}
 
 ```{block2, type='reflect'}
 
 - Answering these questions will help you reflect on the topic content and prepare you for your Unit 1 Reflection Assignment.
-- Click the Download button after you've completed all the questions for this unit and save the answers to your computer.
+- Click the Download button on the left after you've completed all the questions for this unit and save the answers to your computer.
 - You will be required to submit the downloaded answers to these questions as part of your Unit 1 Reflection Assignment.
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=570" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
@@ -94,7 +94,7 @@ Follow and complete the steps below to accomplish your learning for this topic.
 
 1. Read topic notes
 2. Watch the Wisdom and Humility topic video
-3. Read the Plato reading
+3. Read Plato
 4. Complete and download the Required Reading Note-taking Exercise
 5. Complete and download the Required Note-taking Questionnaire
 6. Watch the *What is Intellectual Humility* optional video
@@ -121,12 +121,12 @@ In this video, you will learn about wisdom and humility from Plato’s *Apology*
 
 - Plato - *Apology* - https://classics.mit.edu/Plato/apology.html
 
-## Required Note-Taking Questionnaire {-}
+### Required Note-Taking Questionnaire {-}
 
 ```{block2, type='reflect'}
 
 - Answering these questions will help you reflect on the topic content and prepare you for your Unit 1 Reflection Assignment.
-- Click the Download button after you've completed all the questions for this unit and save the answers to your computer.
+- Click the Download button on the left after you've completed all the questions for this unit and save the answers to your computer.
 - You will be required to submit the downloaded answers to these questions as part of your Unit 1 Reflection Assignment.
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=571" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
@@ -155,7 +155,7 @@ Follow and complete the steps below to accomplish your learning for this topic.
 
 1. Read topic notes
 2. Watch the Wisdom and Friendship topic video
-3. Read the Aristole reading
+3. Read Aristole
 4. Complete and download the Required Reading Note-taking Exercise
 5. Complete and download the Required Note-taking Questionnaire
 6. Watch the *Aristotle’s Timeless Advice on What Real Friendship Is and Why It Matters* optional video
@@ -178,12 +178,12 @@ In this video, you will learn about wisdom and friendship from Aristotle’s *Ni
 
 - Aristotle - [*Nicomachean Ethics*, Books VIII, IX and X](assets/u1/PHIL-100-Aristotle-NE-VIII-IX-X.pdf){target="_blank"}
 
-## Required Note-Taking Questionnaire {-}
+### Required Note-Taking Questionnaire {-}
 
 ```{block2, type='reflect'}
 
 - Answering these questions will help you reflect on the topic content and prepare you for your Unit 1 Reflection Assignment.
-- Click the Download button after you've completed all the questions for this unit and save the answers to your computer.
+- Click the Download button on the left after you've completed all the questions for this unit and save the answers to your computer.
 - You will be required to submit the downloaded answers to these questions as part of your Unit 1 Reflection Assignment.
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=572" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
@@ -212,7 +212,7 @@ Follow and complete the steps below to accomplish your learning for this topic.
 
 1. Read topic notes
 2. Watch the Wisdom and Rhetoric topic video
-3. Read the Heinrichs reading
+3. Read Heinrichs
 4. Complete and download the Required Reading Note-taking Exercise
 5. Complete and download the Required Note-taking Questionnaire
 6. Watch the *How to Use Rhetoric to Get What You Want* optional video
@@ -235,12 +235,12 @@ In this video, you will learn about wisdom and rhetoric from Jay Heinrich’s *T
 
 - Jay Heinrichs - [*Thank You for Arguing*](assets/u1/PHIL-100-Heinrichs-Thank-You-for-Arguing.pdf){target="_blank"}
 
-## Required Note-Taking Questionnaire {-}
+### Required Note-Taking Questionnaire {-}
 
 ```{block2, type='reflect'}
 
 - Answering these questions will help you reflect on the topic content and prepare you for your Unit 1 Reflection Assignment.
-- Click the Download button after you've completed all the questions for this unit and save the answers to your computer.
+- Click the Download button on the left after you've completed all the questions for this unit and save the answers to your computer.
 - You will be required to submit the downloaded answers to these questions as part of your Unit 1 Reflection Assignment.
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=576" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
