@@ -36,9 +36,9 @@ When you’ve completed this unit, you will have learned how to:
 Follow and complete the steps below to accomplish your learning for this topic.
 
 1. Read topic notes
-2. Watch the Wisdom and Knowledge topic video
+2. Watch the *Wisdom and Knowledge* topic video
 3. Read Nozick
-4. Complete and download the Required Reading Note-taking Exercise
+4. Complete and download the Required Nozick Reading Note-taking Exercise
 5. Complete and download the Required Note-taking Questionnaire
 6. Watch the *Definition of Wisdom* optional video
 
@@ -59,6 +59,18 @@ In this video, you will learn about wisdom and knowledge from Robert Nozick’s 
 ### Read and Reflect {-}
 
 - Robert Nozick - [*What is Wisdom and Why Do Philosophers Love It So?*](assets/u1/PHIL-100-Nozick-What-is-Wisdom.pdf){target="_blank"}
+
+### Required Nozick Reading Note-Taking Exercise {-}
+
+```{block2, type='reflect'}
+
+- Answering these questions will help you understand the Nozick reading and prepare you for your Unit 1 Reflection Assignment.
+- Click the Download button on the left after you've completed all the notes for this reading and save the answers to your computer.
+- You will be required to submit your downloaded notes to this reading as part of your Unit 1 Reflection Assignment.
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=581" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+```
 
 ### Required Note-Taking Questionnaire {-}
 
@@ -93,9 +105,9 @@ In this 5 minute 55 second optional video, philosophers Valerie Tiberius and Phi
 Follow and complete the steps below to accomplish your learning for this topic.
 
 1. Read topic notes
-2. Watch the Wisdom and Humility topic video
+2. Watch the *Wisdom and Humility* topic video
 3. Read Plato
-4. Complete and download the Required Reading Note-taking Exercise
+4. Complete and download the Required Plato Reading Note-taking Exercise
 5. Complete and download the Required Note-taking Questionnaire
 6. Watch the *What is Intellectual Humility* optional video
 
@@ -120,6 +132,18 @@ In this video, you will learn about wisdom and humility from Plato’s *Apology*
 ### Read and Reflect {-}
 
 - Plato - *Apology* - https://classics.mit.edu/Plato/apology.html
+
+### Required Plato Reading Note-Taking Exercise {-}
+
+```{block2, type='reflect'}
+
+- Answering these questions will help you understand the Plato reading and prepare you for your Unit 1 Reflection Assignment.
+- Click the Download button on the left after you've completed all the notes for this reading and save the answers to your computer.
+- You will be required to submit your downloaded notes to this reading as part of your Unit 1 Reflection Assignment.
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=582" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+```
 
 ### Required Note-Taking Questionnaire {-}
 
@@ -154,9 +178,9 @@ In this 2 minute 59 second optional video with Dr. Ian Church, *What is Intellec
 Follow and complete the steps below to accomplish your learning for this topic.
 
 1. Read topic notes
-2. Watch the Wisdom and Friendship topic video
+2. Watch the *Wisdom and Friendship* topic video
 3. Read Aristole
-4. Complete and download the Required Reading Note-taking Exercise
+4. Complete and download the Required Aristotle Reading Note-taking Exercise
 5. Complete and download the Required Note-taking Questionnaire
 6. Watch the *Aristotle’s Timeless Advice on What Real Friendship Is and Why It Matters* optional video
 
@@ -177,6 +201,18 @@ In this video, you will learn about wisdom and friendship from Aristotle’s *Ni
 ### Read and Reflect {-}
 
 - Aristotle - [*Nicomachean Ethics*, Books VIII, IX and X](assets/u1/PHIL-100-Aristotle-NE-VIII-IX-X.pdf){target="_blank"}
+
+### Required Aristotle Reading Note-Taking Exercise {-}
+
+```{block2, type='reflect'}
+
+- Answering these questions will help you understand the Aristotle reading and prepare you for your Unit 1 Reflection Assignment.
+- Click the Download button on the left after you've completed all the notes for this reading and save the answers to your computer.
+- You will be required to submit your downloaded notes to this reading as part of your Unit 1 Reflection Assignment.
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=583" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+```
 
 ### Required Note-Taking Questionnaire {-}
 
@@ -211,9 +247,9 @@ In this 7 minute 21 second optional video, you will learn further details about 
 Follow and complete the steps below to accomplish your learning for this topic.
 
 1. Read topic notes
-2. Watch the Wisdom and Rhetoric topic video
+2. Watch the *Wisdom and Rhetoric* topic video
 3. Read Heinrichs
-4. Complete and download the Required Reading Note-taking Exercise
+4. Complete and download the Required Heinrichs Reading Note-taking Exercise
 5. Complete and download the Required Note-taking Questionnaire
 6. Watch the *How to Use Rhetoric to Get What You Want* optional video
 
@@ -234,6 +270,18 @@ In this video, you will learn about wisdom and rhetoric from Jay Heinrich’s *T
 ### Read and Reflect {-}
 
 - Jay Heinrichs - [*Thank You for Arguing*](assets/u1/PHIL-100-Heinrichs-Thank-You-for-Arguing.pdf){target="_blank"}
+
+### Required Heinrichs Reading Note-Taking Exercise {-}
+
+```{block2, type='reflect'}
+
+- Answering these questions will help you understand the Heinrichs reading and prepare you for your Unit 1 Reflection Assignment.
+- Click the Download button on the left after you've completed all the notes for this reading and save the answers to your computer.
+- You will be required to submit your downloaded notes to this reading as part of your Unit 1 Reflection Assignment.
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=584" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+```
 
 ### Required Note-Taking Questionnaire {-}
 
