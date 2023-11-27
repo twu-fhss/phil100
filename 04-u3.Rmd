@@ -38,9 +38,9 @@ When you’ve completed this unit, you will have learned how to:
 Follow and complete the steps below to accomplish your learning for this topic.
 
 1. Read topic notes
-2. Watch the Reason and Parts and Keywords of an Argument topic video
-3. Complete and download the Required Reading Note-taking exercise
-4. Complete and download the Required Note-taking questionnaire
+2. Watch the *Reason and Parts and Keywords of an Argument* topic video
+3. Complete the Required Parts of an Argument Logic Exercise
+4. Complete the Required Keywords of an Argument Logic Exercise
 5. Watch the *Critical Thinking #3: Types of Arguments* optional video
 
 In this topic, we learn about the parts of the argument and the words often used to designate these parts. Arguments are made up of statements. Statements are claims that are either true or false. Sometimes statements are whole sentences, while other times statements are phrases. For example, the question, “Is there a God?” is not a statement because the question does not state something that is either true or false. The answer to this question, “yes there is a God,” or “no, there is no God” are statements because they express claims that are either true or false. Other parts of the argument are the premises and conclusion. The premises are the statements that support the conclusion. The conclusion is the statement that is being argued for by the premises. The inference is the move from the premises to the conclusion. Imagine someone says they believe that God exists. This is their conclusion. You ask them, “why think that God exists?” Their response is going to be a reason (i.e. a premise) or a set of reasons (i.e. a set of premises) that are supposed to support their conclusion. The inference is the nature of the support from premise to conclusion.
@@ -59,9 +59,21 @@ In this video, you will learn about wisdom and knowledge from Robert Nozick’s 
 
 </div>
 
-### Read and Reflect {-}
+### Required Parts of an Argument Logic Exercise {-}
 
-- Reading - [*What is Wisdom and Why Do Philosophers Love It So?*](assets/u1/PHIL-100-Nozick-What-is-Wisdom.pdf){target="_blank"}
+```{block2, type='reflect'}
+
+<iframe scrolling="yes" style="border: 0px #ffffff none;" src="https://far.twu.ca/arts/phil101-pages/u2/topic-1/chromeless:true/hidepagetitle:true" allowfullscreen="allowfullscreen" width="100%" height="3100"></iframe>
+
+```
+
+### Required Keywords of an Argument Logic Exercise {-}
+
+```{block2, type='reflect'}
+
+<iframe scrolling="yes" style="border: 0px #ffffff none;" src="https://far.twu.ca/arts/phil101-pages/u2/topic-2/chromeless:true/hidepagetitle:true" allowfullscreen="allowfullscreen" width="100%" height="730"></iframe>
+
+```
 
 ### Watch and Reflect {-}
 
@@ -84,9 +96,9 @@ In this 5 minute 24 second optional video, you will learn about the basic struct
 Follow and complete the steps below to accomplish your learning for this topic.
 
 1. Read topic notes
-2. Watch the Reason and Labelling and Restructuring topic video
-3. Complete and download the Required Reading Note-taking exercise
-4. Complete and download the Required Note-taking questionnaire
+2. Watch the *Reason and Labelling and Restructuring* topic video
+3. Complete the Required Labelling an Argument Exercise
+4. Complete the Required Restructuring an Argument Exercise
 5. Watch the *Ninety Second Philosophy: Arguments* optional video
 
 In the previous topic, we learned about the parts and keywords of an argument. In this topic, we learn how to label these parts of the argument and then restructure the argument vertically, with premises and conclusion, so that we may see the argument clearly. The steps for applying these tools follow this pattern: (i) focus on statements and ignore non-statements. Recall from the previous topic that arguments are made up of statements only and never non-statements. Thus, only focus on statements and cross out any non-statements. (ii) Locate the premises and conclusion amongst the set of statements using keywords. As discussed, premises and conclusions often have terms that designate them, such as “therefore”.
@@ -101,9 +113,21 @@ Once the argument has been labelled, the next step is to restructure the argumen
 
 </div>
 
-### Read and Reflect {-}
+### Required Labelling an Argument Exercise {-}
 
-- Reading - [*What is Wisdom and Why Do Philosophers Love It So?*](assets/u1/PHIL-100-Nozick-What-is-Wisdom.pdf){target="_blank"}
+```{block2, type='reflect'}
+
+<iframe scrolling="yes" style="border: 0px #ffffff none;" src="https://far.twu.ca/arts/phil101-pages/u2/topic-3/chromeless:true/hidepagetitle:true" allowfullscreen="allowfullscreen" width="100%" height="2350"></iframe>topic-4/chromeless:true/hidepagetitle:true" allowfullscreen="allowfullscreen" width="100%" height="12800"></iframe>
+
+```
+
+### Required Restructuring an Argument Exercise {-}
+
+```{block2, type='reflect'}
+
+<iframe scrolling="yes" style="border: 0px #ffffff none;" src="https://far.twu.ca/arts/phil101-pages/u2/topic-4/chromeless:true/hidepagetitle:true" allowfullscreen="allowfullscreen" width="100%" height="12800"></iframe>
+
+```
 
 ### Watch and Reflect {-}
 
@@ -126,9 +150,9 @@ In this 1 minute 22 second optional video, you will learn about the basic struct
 Follow and complete the steps below to accomplish your learning for this topic.
 
 1. Read topic notes
-2. Watch the Reason and Interpreting Arguments and Conditionals (If…Then) topic video
-3. Complete and download the Required Reading Note-taking exercise
-4. Complete and download the Required Note-taking questionnaire
+2. Watch the *Reason and Interpreting Arguments and Conditionals (If…Then)* topic video
+3. Complete the Required Interpreting an Argument Exercise
+4. Complete the Required Arguments with “If…Then” Exercise
 5. Watch the *Lesson 2. Identifying Arguments* optional video
 
 In the first two topics, we learned some foundational skills for identifying arguments, such as the parts and keywords of an argument, and the methods for labeling and restructuring arguments. The challenge, however, is that ordinary discourse – both written and verbal – often makes the argument difficult to identify. We often must interpret what we think the author intended to say about their view and then structure the argument according to this intention. In this topic, we practice the skill of interpretating arguments. One strategy for interpreting an argument is the “Why/Because” strategy. If it’s difficult to identify the premises and conclusion, then look for statements that may follow with a hypothetical “why”. Such statements may be the conclusion(s). The reason is that concluding statements have by definition reasons for them. And the term “why” may pick out these reasons. The term “because” often precedes a reason (i.e. a premise) and so looking for statements that may be preceded with “because” may help with identifying the premises.
@@ -143,9 +167,21 @@ A second skill of interpretation is learning to navigate conditional statements.
 
 </div>
 
-### Read and Reflect {-}
+### Required Interpreting an Argument Exercise {-}
 
-- Reading - [*What is Wisdom and Why Do Philosophers Love It So?*](assets/u1/PHIL-100-Nozick-What-is-Wisdom.pdf){target="_blank"}
+```{block2, type='reflect'}
+
+<iframe scrolling="yes" style="border: 0px #ffffff none;" src="https://far.twu.ca/arts/phil101-pages/u2/topic-5/chromeless:true/hidepagetitle:true" allowfullscreen="allowfullscreen" width="100%" height="16500"></iframe>
+
+```
+
+### Required Arguments with “If…Then” Exercise {-}
+
+```{block2, type='reflect'}
+
+<iframe scrolling="yes" style="border: 0px #ffffff none;" src="https://far.twu.ca/arts/phil101-pages/u2/topic-6/chromeless:true/hidepagetitle:true" allowfullscreen="allowfullscreen" width="100%" height="11350"></iframe>
+
+```
 
 ### Watch and Reflect {-}
 
@@ -168,7 +204,7 @@ In this 6 minute optional video, you will be introduced to some further techniqu
 Follow and complete the steps below to accomplish your learning for this topic.
 
 1. Read topic notes
-2. Watch the Reason and Identifying and Practicing Difficult Arguments topic video
+2. Watch the *Reason and Identifying and Practicing Difficult Arguments* topic video
 3. Complete and download the Required Reading Note-taking exercise
 4. Complete and download the Required Note-taking questionnaire
 5. Watch the *Identifying Premises and Conclusions* optional video
