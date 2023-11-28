@@ -41,8 +41,7 @@ Follow and complete the steps below to accomplish your learning for this topic.
 2. Watch Topic Video
 3. Complete Logic Exercise 1
 4. Complete Logic Exercise 2
-5. Complete Topic Questionnaire
-6. Watch Optional Video
+5. Watch Optional Video
 
 ### Topic Notes {-}
 
@@ -102,8 +101,7 @@ Follow and complete the steps below to accomplish your learning for this topic.
 2. Watch Topic Video
 3. Complete Logic Exercise 1
 4. Complete Logic Exercise 2
-5. Complete Topic Questionnaire
-6. Watch Optional Video
+5. Watch Optional Video
 
 ### Topic Notes {-}
 
@@ -159,8 +157,7 @@ Follow and complete the steps below to accomplish your learning for this topic.
 2. Watch Topic Video
 3. Complete Logic Exercise 1
 4. Complete Logic Exercise 2
-5. Complete Topic Questionnaire
-6. Watch Optional Video
+5. Watch Optional Video
 
 ### Topic Notes {-}
 
@@ -214,10 +211,8 @@ Follow and complete the steps below to accomplish your learning for this topic.
 
 1. Read Topic Notes
 2. Watch Topic Video
-3. Complete Logic Exercise 1
-4. Complete Logic Exercise 2
-5. Complete Topic Questionnaire
-6. Watch Optional Video
+3. Complete Practice Exercises
+4. Watch Optional Video
 
 ### Topic Notes {-}
 
@@ -231,19 +226,15 @@ In the previous topics, we have attempted to build our foundation for identifyin
 
 </div>
 
-### Required Identifying Difficult Arguments Exercise {-}
-
-```{block2, type='reflect'}
-
-<iframe scrolling="yes" style="border: 0px #ffffff none;" src="https://far.twu.ca/arts/phil101-pages/u2/topic-7/chromeless:true/hidepagetitle:true" allowfullscreen="allowfullscreen" width="100%" height="3400"></iframe>
-
-```
-
 ### Required Practice Exercises {-}
 
 ```{block2, type='reflect'}
 
-<iframe scrolling="yes" style="border: 0px #ffffff none;" src="https://far.twu.ca/arts/phil101-pages/u2/topic-6/chromeless:true/hidepagetitle:true" allowfullscreen="allowfullscreen" width="100%" height="11350"></iframe>
+- Completing this exercise will help you reflect on the topic content and prepare you for your Final Course Reflection Assignment.
+- Click the Download button on the left after you've completed the exercise and save the answers to your computer.
+- You will be required to submit the downloaded answers to this exercise as part of your Final Course Reflection Assignment.
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=589" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ```
 

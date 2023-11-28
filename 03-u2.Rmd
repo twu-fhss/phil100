@@ -1,6 +1,6 @@
 # Faith
 
-This video briefly introduces the four topics in the second unit: definitions, hope, action, and rationality. We will learn about the nature of faith, both in terms of the attitudes of faith, such as beliefs and trust, and also the actions of faith, focusing briefly on ethics. Finally, we will learn about the rationality of faith and whether faith aligns with evidence.
+In this video, we provide a succinct overview of the four key themes in the second unit: definitions, hope, action, and rationality. Our exploration will center around the intricate nature of faith, encompassing not only the attitudes associated with faith, such as beliefs and trust, but also delving into the actions inspired by faith, with a brief emphasis on ethical considerations. Lastly, our journey will lead us to scrutinize the rationality of faith, contemplating its alignment with evidence and the broader spectrum of reasoned thought. Join us as we navigate these nuanced dimensions of faith, seeking a deeper understanding of its essence and implications.
 
 **Faith Unit 2 Introduction** Video (7 min 34 sec)
 
@@ -44,7 +44,13 @@ Follow and complete the steps below to accomplish your learning for this topic.
 
 ### Topic Notes {-}
 
-In this topic, we learn about several definitions of the term faith. One distinction to make about faith is between faith as an attitude and faith as an action. Faith as an attitude means that faith is something in our heads. Faith is a mental and cognitive experience, such as a belief, trust, and hope. These ideas are a common way to think about faith. On the other hand, faith as an action refers to an ethical way of thinking about the term. The Greek word for faith is “pistis” and this can refer ethical behavior towards a person or ideal. With regard to faith as an attitude, we will learn about the difference between doxastic faith and non-doxastic faith. The term “doxastic” refers to belief, and the term “Non-doxastic” refers to faith without belief.
+The first topic includes considering the multifaceted definitions of the term “faith.” A pivotal distinction surfaces when considering faith both as an attitude and as an action. Faith as an attitude encapsulates the cognitive realm, residing in our thoughts and beliefs, encompassing notions of trust and hope. This conceptualization aligns with common perceptions of faith as a mental and cognitive experience.
+
+In contrast, faith as an action introduces an ethical dimension to the term. Rooted in the Greek word “pistis,” faith, in this context, pertains to ethical behavior directed towards a person or an ideal. This perspective invites us to view faith not merely as a mental state but as a manifestation of ethical considerations in our actions and conduct.
+
+Further nuances emerge within faith as an attitude, where we explore the differentiation between doxastic faith and non-doxastic faith. The term “doxastic” centers on belief, indicating a cognitive dimension to faith. Conversely, “non-doxastic” faith extends beyond mere belief, encompassing faith that operates independently of explicit cognitive assent.
+
+This exploration aims to unravel the intricate layers of faith, encouraging a comprehensive understanding that spans both the cognitive and ethical dimensions of this complex and significant concept.
 
 ### Watch and Reflect {-}
 
@@ -115,7 +121,11 @@ Follow and complete the steps below to accomplish your learning for this topic.
 
 ### Topic Notes {-}
 
-In the previous topic, we learned about various definitions of faith, mainly faith as an attitude. The first two ways of thinking about faith as an attitude are belief and trust. These attitudes of faith are called doxastic because they generally focus on beliefs – mental and cognitive experiences in our heads. In this topic, we focus on a non-doxastic attitude of faith called hope. Hope is non-doxastic because hope does not necessarily include belief when considering faith. Louis Pojman is going to argue that faith as hope is the more appropriate way to think about faith, especially Christian faith and the doctrine of salvation. Salvation is the idea that the human race is in danger and God is attempting to save them. According to some traditions, if humans believe in God, then God will save them. But for Pojman, humans can’t control what they believe, including their doubts about God. So how can salvation be about something one cannot control? Rather, faith as hope in God and his saving plan seems to be the more accurate way to think about faith and salvation.
+Building on our exploration of faith as an attitude, particularly focusing on belief and trust in the previous topic, we now inquire into a non-doxastic facet of faith: hope. Unlike belief and trust, hope doesn’t necessarily hinge on cognitive assent, marking it as a non-doxastic attitude within the realm of faith. Louis Pojman contends that understanding faith as hope is particularly relevant, especially in the context of Christian faith and the doctrine of salvation.
+
+The concept of salvation suggests that humanity is in jeopardy, and God is endeavoring to rescue them. Traditional perspectives posit that belief in God is a prerequisite for salvation. However, Pojman challenges this notion, recognizing that humans don’t have absolute control over their beliefs, including doubts about God. In this context, the idea that salvation is contingent on something beyond one’s control raises questions. Pojman argues that faith as hope in God and his redemptive plan provides a more accurate and inclusive perspective on faith and salvation.
+
+By emphasizing hope as a non-doxastic attitude within faith, this discussion broadens our understanding of faith beyond mere cognitive elements, offering a nuanced perspective that aligns with the complexities of belief, doubt, and the pursuit of salvation.
 
 ### Watch and Reflect {-}
 
@@ -186,7 +196,11 @@ Follow and complete the steps below to accomplish your learning for this topic.
 
 ### Topic Notes {-}
 
-In the previous two topics, we discussed faith as an attitude, such as a belief, a trust, or a hope. These conceptions of faith exist in one’s head – as a mental and cognitive experience. Faith as action focuses more on the behavior of a person and not as much on the mental experience. While it’s true that our beliefs and desires and hopes may be causally relevant for our actions, this needn’t always be the case. Thus, faith as action focuses more on ethical behavior as the mode of faith. In this topic, we briefly examine a controversy within Christian theology about the definition of faith. Traditionally, the view of faith was attitudinal, such as belief and trust. More recently, the suggestion is that Christian faith is about Christian ethics and good works and less so about having the attitudinal beliefs and trust about Christianity.
+In our recent discussions, we’ve examined faith as an attitude, encompassing beliefs, trust, and hope—mental and cognitive experiences that reside within an individual. Shifting the focus, we now explore faith as action, centering on behavioral aspects rather than solely on mental experiences. While beliefs, desires, and hopes may influence actions, this connection is not absolute. Consequently, faith as action directs attention to ethical behavior as the primary mode of expressing faith.
+
+In this third topic, we briefly navigate a theological controversy within Christianity concerning the definition of faith. Traditionally, faith was construed as an attitudinal concept, emphasizing beliefs and trust. However, contemporary perspectives challenge this tradition, proposing that Christian faith is more intricately linked to Christian ethics and good works, de-emphasizing the importance of specific attitudinal beliefs and trust in Christianity.
+
+This exploration invites us to reconsider the nature of faith within the Christian context, prompting reflection on whether faith should be predominantly characterized by mental attitudes or by the ethical conduct and good works that spring forth from one’s beliefs.
 
 ### Watch and Reflect {-}
 
@@ -257,7 +271,11 @@ Follow and complete the steps below to accomplish your learning for this topic.
 
 ### Topic Notes {-}
 
-In the previous topics, we briefly discussed some definitions of faith. A primary distinction is between faith as attitudes and faith as actions. While these categories may be interwoven, they can also remain distinct. Regardless, the critic of faith will challenge any of these ideas about faith by questioning the rationality of faith, either faith as belief and trust, or faith as action. In this topic, we explore this challenge. The term rationality in this case refers to beliefs and actions aligning with evidence. If beliefs and actions do not align with the evidence, then, according to the evidentialist, such beliefs and actions are irrational. So, according to the objection, for us to exhibit rationality, we must align our beliefs and actions according to the proper evidence. Is this a good objection to the rationality of faith as belief and action? We explore this issue by first reading William Clifford’s famous piece on the ethics of belief. According to Clifford, it is wrong to believe anything not proportional to the evidence. We then consider some response to this evidential objection by noting (i) the possible incoherence of the objection; (ii) the fact that many of our rational beliefs are not proportional to the evidence; (iii) that in some cases of faith, there exists sufficient evidence to meet the rational standard.
+In our preceding discussions, we touched upon various definitions of faith, distinguishing between faith as attitudes and faith as actions. While these categories may overlap, they can also maintain distinct identities. However, a persistent challenge to these notions of faith arises from critics who question the rationality of faith, whether conceived as belief and trust or as action. This final topic examines this challenge.
+
+The term “rationality” here pertains to the alignment of beliefs and actions with evidence. According to the evidentialist perspective, if beliefs and actions deviate from the evidence, they are deemed irrational. Hence, the objection posits that to exhibit rationality, one must align beliefs and actions according to the available evidence. The ensuing exploration assesses the strength of this objection, beginning with an examination of William Clifford’s renowned work on the ethics of belief.
+
+Clifford contends that it is ethically wrong to believe anything not proportional to the evidence. To evaluate this evidential objection, we consider several responses, including the potential incoherence of the objection, the observation that many of our rational beliefs are not strictly proportional to the evidence, and the recognition that, in certain cases of faith, there may be sufficient evidence to meet rational standards.
 
 ### Watch and Reflect {-}
 
