@@ -16,10 +16,10 @@ In this video, we provide a succinct overview of the four key themes in the seco
 
 This unit is divided into the following four topics:
 
-1. Faith and Definitions
-2. Faith and Hope
-3. Faith and Action
-4. Faith and Rationality
+1. Faith and Definitions  
+2. Faith and Hope  
+3. Faith and Action  
+4. Faith and Rationality  
 
 ### Learning Outcomes {-}
 
@@ -31,16 +31,16 @@ When you’ve completed this unit, you will have learned how to:
 - Enhance a greater understanding about faith and rationality
 - Navigate some of the objections to the nature of faith, particularly the beliefs about faith
 
-## 2.1 Faith and Definitions {-}
+## Faith and Definitions
 
 Follow and complete the steps below to accomplish your learning for this topic.
 
-1. Read Topic Notes
-2. Watch Topic Video
-3. Read Topic Reading
-4. Complete Topic Exercise
-5. Complete Topic Questionnaire
-6. Watch Optional Video
+1. Read Topic Notes  
+2. Watch Topic Video  
+3. Read Topic Reading  
+4. Complete Topic Exercise  
+5. Complete Topic Questionnaire  
+6. Watch Optional Video  
 
 ### Topic Notes {-}
 
@@ -108,16 +108,16 @@ In this 10 minute 06 second optional video, you will learn some further distinct
 
 ```
 
-## 2.2 Faith and Hope {-}
+## Faith and Hope
 
 Follow and complete the steps below to accomplish your learning for this topic.
 
-1. Read Topic Notes
-2. Watch Topic Video
-3. Read Topic Reading
-4. Complete Topic Exercise
-5. Complete Topic Questionnaire
-6. Watch Optional Video
+1. Read Topic Notes  
+2. Watch Topic Video  
+3. Read Topic Reading  
+4. Complete Topic Exercise  
+5. Complete Topic Questionnaire  
+6. Watch Optional Video  
 
 ### Topic Notes {-}
 
@@ -183,16 +183,16 @@ In this 6 minute 17 second optional video, you will learn about faith and doubt 
 
 ```
 
-## 2.3 Faith and Action {-}
+## Faith and Action
 
 Follow and complete the steps below to accomplish your learning for this topic.
 
-1. Read Topic Notes
-2. Watch Topic Video
-3. Read Topic Reading
-4. Complete Topic Exercise
-5. Complete Topic Questionnaire
-6. Watch Optional Video
+1. Read Topic Notes  
+2. Watch Topic Video  
+3. Read Topic Reading  
+4. Complete Topic Exercise  
+5. Complete Topic Questionnaire  
+6. Watch Optional Video  
 
 ### Topic Notes {-}
 
@@ -222,9 +222,9 @@ In this video, you will learn about faith and action from Boyd and Thorsen’s c
 
 ```{block2, type='reflect'}
 
-- Answering these questions will help you understand the Boyd & Thorsen reading and prepare you for your Unit 2 Reflection Assignment.
-- Click the Download button on the left after you've completed all the notes for this reading and save the answers to your computer.
-- You will be required to submit your downloaded notes to this reading as part of your Unit 2 Reflection Assignment.
+- Answering these questions will help you understand the Boyd & Thorsen reading and prepare you for your Unit 2 Reflection Assignment.  
+- Click the Download button on the left after you've completed all the notes for this reading and save the answers to your computer.  
+- You will be required to submit your downloaded notes to this reading as part of your Unit 2 Reflection Assignment.  
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=587" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
@@ -258,16 +258,16 @@ In this 9 minute 04 second optional video, Professor Peter Singer discusses the 
 
 ```
 
-## 2.4 Faith and Rationality {-}
+## Faith and Rationality
 
 Follow and complete the steps below to accomplish your learning for this topic.
 
-1. Read Topic Notes
-2. Watch Topic Video
-3. Read Topic Reading
-4. Complete Topic Exercise
-5. Complete Topic Questionnaire
-6. Watch Optional Video
+1. Read Topic Notes  
+2. Watch Topic Video  
+3. Read Topic Reading  
+4. Complete Topic Exercise  
+5. Complete Topic Questionnaire  
+6. Watch Optional Video  
 
 ### Topic Notes {-}
 
@@ -297,9 +297,9 @@ In this video, you will learn about faith and rationality from W.K. Clifford’s
 
 ```{block2, type='reflect'}
 
-- Answering these questions will help you understand the Clifford reading and prepare you for your Unit 2 Reflection Assignment.
-- Click the Download button on the left after you've completed all the notes for this reading and save the answers to your computer.
-- You will be required to submit your downloaded notes to this reading as part of your Unit 2 Reflection Assignment.
+- Answering these questions will help you understand the Clifford reading and prepare you for your Unit 2 Reflection Assignment.  
+- Click the Download button on the left after you've completed all the notes for this reading and save the answers to your computer.  
+- You will be required to submit your downloaded notes to this reading as part of your Unit 2 Reflection Assignment.  
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=588" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
@@ -309,9 +309,9 @@ In this video, you will learn about faith and rationality from W.K. Clifford’s
 
 ```{block2, type='reflect'}
 
-- Answering these questions will help you reflect on the topic content and prepare you for your Unit 2 Reflection Assignment.
-- Click the Download button on the left after you've completed all the questions for this unit and save the answers to your computer.
-- You will be required to submit the downloaded answers to these questions as part of your Unit 2 Reflection Assignment.
+- Answering these questions will help you reflect on the topic content and prepare you for your Unit 2 Reflection Assignment.  
+- Click the Download button on the left after you've completed all the questions for this unit and save the answers to your computer.  
+- You will be required to submit the downloaded answers to these questions as part of your Unit 2 Reflection Assignment.  
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=580" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 

@@ -18,30 +18,30 @@ In topic 1, we learn about the parts of the argument, such as the proper terms u
 
 This unit is divided into the following four topics:
 
-1. Parts and Keywords of an Argument
-2. Labelling and Restructuring
-3. Interpreting Arguments and Conditionals (If…Then)
-4. Identifying and Practicing Difficult Arguments
+1. Parts and Keywords of an Argument  
+2. Labelling and Restructuring  
+3. Interpreting Arguments and Conditionals (If...Then)  
+4. Identifying and Practicing Difficult Arguments  
 
 ### Learning Outcomes {-}
 
 When you’ve completed this unit, you will have learned how to:
 
-- Identify the parts of an argument and how to label and structure these parts
-- Interpret arguments with ambiguous terminology to be made more precise
-- Develop a greater understanding of how arguments work in contemporary culture, including issues of justice and faith
-- Practice the skills necessary for navigating arguments in literature, news, and podcasts
-- Appreciate the value and skill of knowing how to handle the basic features of an argument
+- Identify the parts of an argument and how to label and structure these parts  
+- Interpret arguments with ambiguous terminology to be made more precise  
+- Develop a greater understanding of how arguments work in contemporary culture, including issues of justice and faith  
+- Practice the skills necessary for navigating arguments in literature, news, and podcasts  
+- Appreciate the value and skill of knowing how to handle the basic features of an argument  
 
-## 3.1 Parts and Keywords of an Argument {-}
+## Parts and Keywords of an Argument
 
 Follow and complete the steps below to accomplish your learning for this topic.
 
-1. Read Topic Notes
-2. Watch Topic Video
-3. Complete Logic Exercise 1
-4. Complete Logic Exercise 2
-5. Watch Optional Video
+1. Read Topic Notes  
+2. Watch Topic Video  
+3. Complete Logic Exercise 1  
+4. Complete Logic Exercise 2  
+5. Watch Optional Video  
 
 ### Topic Notes {-}
 
@@ -93,15 +93,15 @@ In this 5 minute 24 second optional video, you will learn about the basic struct
 
 ```
 
-## 3.2 Labelling and Restructuring {-}
+## Labelling and Restructuring
 
 Follow and complete the steps below to accomplish your learning for this topic.
 
-1. Read Topic Notes
-2. Watch Topic Video
-3. Complete Logic Exercise 1
-4. Complete Logic Exercise 2
-5. Watch Optional Video
+1. Read Topic Notes  
+2. Watch Topic Video  
+3. Complete Logic Exercise 1  
+4. Complete Logic Exercise 2  
+5. Watch Optional Video  
 
 ### Topic Notes {-}
 
@@ -149,15 +149,15 @@ In this 1 minute 22 second optional video, you will learn about the basic struct
 
 ```
 
-## 3.3 Interpreting Arguments and Conditionals (If…Then) {-}
+## Interpreting Arguments and Conditionals (If…Then)
 
 Follow and complete the steps below to accomplish your learning for this topic.
 
-1. Read Topic Notes
-2. Watch Topic Video
-3. Complete Logic Exercise 1
-4. Complete Logic Exercise 2
-5. Watch Optional Video
+1. Read Topic Notes  
+2. Watch Topic Video  
+3. Complete Logic Exercise 1  
+4. Complete Logic Exercise 2  
+5. Watch Optional Video  
 
 ### Topic Notes {-}
 
@@ -205,15 +205,15 @@ In this 6 minute optional video, you will be introduced to some further techniqu
 
 ```
 
-## 3.4 Identifying and Practicing Difficult Arguments {-}
+## Identifying and Practicing Difficult Arguments
 
 Follow and complete the steps below to accomplish your learning for this topic.
 
-1. Read Topic Notes
-2. Watch Topic Video
-3. Complete Logic Exercise
-4. Complete Practice Exercises
-5. Watch Optional Video
+1. Read Topic Notes  
+2. Watch Topic Video  
+3. Complete Logic Exercise  
+4. Complete Practice Exercises  
+5. Watch Optional Video  
 
 ### Topic Notes {-}
 

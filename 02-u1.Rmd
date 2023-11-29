@@ -31,7 +31,7 @@ When you’ve completed this unit, you will have learned how to:
 - Enhance your skills of wisdom and reason to live life within the context of justice and faith
 - Develop the skills to become a well-rounded person and citizen and live a wise and just life  
 
-## 1.1 Wisdom and Knowledge {-}
+## Wisdom and Knowledge
 
 Follow and complete the steps below to accomplish your learning for this topic.
 
@@ -106,7 +106,7 @@ In this 5 minute 55 second optional video, philosophers Valerie Tiberius and Phi
 
 ```
 
-## 1.2 Wisdom and Humility {-}
+## Wisdom and Humility
 
 Follow and complete the steps below to accomplish your learning for this topic.
 
@@ -139,7 +139,7 @@ In this video, you will learn about wisdom and humility from Plato’s *Apology*
 
 ### Read and Reflect {-}
 
-- Plato - *Apology* - https://classics.mit.edu/Plato/apology.html
+- Plato - [*Apology*](https://classics.mit.edu/Plato/apology.html){target="_blank"}
 
 ### Required Plato Reading Note-Taking Exercise {-}
 
@@ -181,16 +181,16 @@ In this 2 minute 59 second optional video with Dr. Ian Church, *What is Intellec
 
 ```
 
-## 1.3 Wisdom and Friendship {-}
+## Wisdom and Friendship
 
 Follow and complete the steps below to accomplish your learning for this topic.
 
-1. Read Topic Notes
-2. Watch Topic Video
-3. Read Topic Reading
-4. Complete Topic Exercise
-5. Complete Topic Questionnaire
-6. Watch Optional Video
+1. Read Topic Notes  
+2. Watch Topic Video  
+3. Read Topic Reading  
+4. Complete Topic Exercise  
+5. Complete Topic Questionnaire  
+6. Watch Optional Video  
 
 ### Topic Notes {-}
 
@@ -258,7 +258,7 @@ In this 7 minute 21 second optional video, you will learn further details about 
 
 ```
 
-## 1.4 Wisdom and Rhetoric {-}
+## Wisdom and Rhetoric
 
 Follow and complete the steps below to accomplish your learning for this topic.
 
@@ -311,9 +311,9 @@ In this video, you will learn about wisdom and rhetoric from Jay Heinrich’s *T
 
 ```{block2, type='reflect'}
 
-- Answering these questions will help you reflect on the topic content and prepare you for your Unit 1 Reflection Assignment.
-- Click the Download button on the left after you've completed all the questions for this unit and save the answers to your computer.
-- You will be required to submit the downloaded answers to these questions as part of your Unit 1 Reflection Assignment.
+- Answering these questions will help you reflect on the topic content and prepare you for your Unit 1 Reflection Assignment.  
+- Click the Download button on the left after you've completed all the questions for this unit and save the answers to your computer.   
+- You will be required to submit the downloaded answers to these questions as part of your Unit 1 Reflection Assignment.  
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=576" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
