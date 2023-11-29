@@ -5,8 +5,6 @@ show_sidebar: '1'
 hide_git_sync_repo_link: false
 ---
 
-In Topics 1-4, we learned about the parts of the argument, how to locate keywords, label the parts of the argument with letters in parentheses, and how to restructure the argument vertically with premises at the top and conclusion at the bottom.
-
 Another challenge with arguments written in ordinary discourse is not only that they’re written horizontally but they lack keywords for identifying premises and conclusions. When there are no keywords for identifying premise and conclusion, the reader must interpret what the author intended to say and then determine which statements are the premises and conclusion. Consider two examples, the first simpler and the second more complex. The first example is the following:
 
 
@@ -62,7 +60,7 @@ Those statements do not (really) constitute an argument even though the term “
 
 &nbsp;
 
-### Learning Activity 2.5: Label and structure the arguments vertically
+### Label and Structure the Arguments Vertically
 :fa-pencil: This activity has two steps. The first step is to click/drag the appropriate letter into the box to label the premises and conclusion. In the second step, click/drag the appropriate premise and conclusion to complete the vertical argument.
 
 _Checklist:_

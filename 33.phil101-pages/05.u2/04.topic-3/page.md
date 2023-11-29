@@ -4,7 +4,7 @@ hide_page_title: false
 show_sidebar: '1'
 hide_git_sync_repo_link: false
 ---
-In topics 1 and 2, we learned about the parts of an argument and some initial strategies for identifying arguments. The parts of an argument include statements, which are claims that are either true or false, such as premises and conclusions. We also learned that identifying an argument is simpler when there exist keywords for indicating those premises and conclusions. In Topic 3, we focus on how to label arguments by symbolizing premises and conclusions, for example:
+In this activity, you will learn how to label the parts of the argument by adding the letters (p) and (c) in front of the premise(s) and conclusion(s). For example:
 
 !!! “All humans are mortal, and Lucy is a human. So, Lucy is mortal.”
 
@@ -17,7 +17,7 @@ In that example, “P” stands for premise and (C) means conclusion. **Note aga
 
 &nbsp;
 
-### Learning Activity 2.3: Label the premises and conclusions
+### Label the Premises and Conclusions
 :fa-pencil: Identify which of the following are premises and which are conclusions. Label by filling the blanks using the appropriate letters.
 
 _Checklist:_

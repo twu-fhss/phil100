@@ -7,8 +7,6 @@ hide_git_sync_repo_link: false
 
 
 
-In topics 1-5, we learned about the parts of the argument, and, in doing so, learned some strategies for identifying arguments. However, as arguments become more complicated, one must learn new techniques.
-
 Some arguments use sentences with the terms “If…Then.” These types of sentences are called conditional sentences (or conditionals) and often appear in arguments. For example:
 
 !!! “**IF** Willy is a whale, **THEN** Willy is a mammal.”
@@ -91,7 +89,7 @@ Now you know how to identify different ways of expressing “If…then,” and h
 
 &nbsp;
 
-### Learning Activity 2.6: Arguments with conditionals
+### Arguments with Conditionals
 :fa-pencil: This activity has two steps. The first step is to click/drag the appropriate letter into the box to label the premises and conclusion. In the second step, click/drag the appropriate premise and conclusion to complete the vertical argument.
 
 _Checklist:_

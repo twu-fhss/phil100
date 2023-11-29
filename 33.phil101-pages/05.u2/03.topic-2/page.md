@@ -5,7 +5,7 @@ show_sidebar: '1'
 hide_git_sync_repo_link: false
 ---
 
-The purpose of Topic 1 was to introduce the elements of an argument, such as statements, non-statements, and sentences. We learned about the premises, conclusion, and inferences (note, again, that we do not cover inferences in this class). Topic 2 discusses the use of keywords to identify the premises and conclusion of an argument.
+In this activity, you will learn about the keywords of an argument, including keywords that designate the premises and the conclusions of an argument.
 
 Some arguments are difficult to locate because the premises and conclusion remain unclear. In those difficult cases, one strategy for identifying the argument is locating **keywords** indicating the premises and conclusion. Keywords that indicate premises include: **“All, every, most, some, none, for, because, If…then.”** Keywords that indicate the conclusion are: **“therefore, so, thus, hence, consequently, it follows that…”** Consider the following example:
 
@@ -18,7 +18,7 @@ In that example, the first premise follows the term “All,” and the conclusio
 
 &nbsp;
 
-### Learning Activity 2.2: Identifying premises and conclusions
+### Identifying Premises and Conclusions
 :fa-pencil: Identify which of the following are premises and which are conclusions by clicking the correct answer.
 
 *Checklist*

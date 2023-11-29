@@ -6,7 +6,7 @@ hide_git_sync_repo_link: false
 ---
 
 
-A major part of our learning in Topics 1-3 focused on the premises and conclusions of an argument. Additionally, we learned about the keywords for identifying those parts, and how to label the premises and conclusion with letters in parentheses. As illustrated in the previous topics, notice that writing an argument in vertical form, with premises on top and the conclusion on the bottom, is the most effective way to illustrate the final argument. For example,   
+As illustrated in the previous lessons and activities, notice that writing an argument in vertical form, with premises on top and the conclusion on the bottom, is the most effective way to illustrate the final argument. For example,   
 
 1.       All humans are mortal. (P)
 2.       Lucy is a human. (P)
@@ -18,7 +18,7 @@ That vertical format is valuable for the reader to know exactly what the argumen
 
 &nbsp;
 
-### Learning Activity 2.4: Label and structure the argument
+### Label and Structure the Argument
 :fa-pencil: This activity has two steps. The first step is to click/drag the appropriate letter into the box to label the premises and conclusion. In the second step, click/drag the appropriate premise and conclusion to complete the vertical argument.
 
 _Checklist:_
