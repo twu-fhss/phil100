@@ -6,7 +6,6 @@ hide_git_sync_repo_link: false
 ---
 
 
-
 Some arguments use sentences with the terms “If…Then.” These types of sentences are called conditional sentences (or conditionals) and often appear in arguments. For example:
 
 !!! “**IF** Willy is a whale, **THEN** Willy is a mammal.”

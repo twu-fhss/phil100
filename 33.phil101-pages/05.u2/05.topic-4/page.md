@@ -6,7 +6,7 @@ hide_git_sync_repo_link: false
 ---
 
 
-As illustrated in the previous lessons and activities, notice that writing an argument in vertical form, with premises on top and the conclusion on the bottom, is the most effective way to illustrate the final argument. For example,   
+As illustrated in the previous lessons and activities, notice that writing an argument in vertical form, with premises on top and the conclusion on the bottom, is the most effective way to illustrate the final argument. For example:
 
 1.       All humans are mortal. (P)
 2.       Lucy is a human. (P)

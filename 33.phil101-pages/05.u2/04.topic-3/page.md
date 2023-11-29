@@ -4,6 +4,7 @@ hide_page_title: false
 show_sidebar: '1'
 hide_git_sync_repo_link: false
 ---
+
 In this activity, you will learn how to label the parts of the argument by adding the letters (p) and (c) in front of the premise(s) and conclusion(s). For example:
 
 !!! “All humans are mortal, and Lucy is a human. So, Lucy is mortal.”
