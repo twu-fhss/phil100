@@ -235,13 +235,13 @@ In the previous topics, we have attempted to build our foundation for identifyin
 
 ```
 
-### Required Practice Exercises {-}
+### Optional Practice Exercises {-}
 
 ```{block2, type='reflect'}
 
-- Completing this exercise will help you reflect on the topic content and prepare you for your Final Course Reflection Assignment.
-- Click the Download button on the left after you've completed the exercise and save the answers to your computer.
-- You will be required to submit the downloaded answers to this exercise as part of your Final Course Reflection Assignment.
+These practice exercises are optional and not graded. However, the more you practice and become familiar with identifying arguments, the more prepared you will be for your Final Course Reflection Assignment.
+
+If you want to keep your answers for future reference, click the Download button on the left after you’ve completed the exercise and save the answers to your computer.
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=589" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
