@@ -4,11 +4,11 @@ This final unit is about arguments. This unit is valuable because everything we�
 
 In topic 1, we learn about the parts of the argument, such as the proper terms used to designate these different parts. If we wish to learn how to identify arguments, we must know what terms to look for. In topic 2, we learn about how to label and structure arguments. Often people do not organize their argument clearly and so we must learn how to reconstruct the argument so that we know the conclusion and the reasons for supporting the conclusion. In topic 3, we tackle slightly more complicated arguments and learn how to interpret what the author intended to say. As practiced in topic 2, people often organize their arguments (or, occasionally, non-arguments) in a confusing way. Moreover, we will learn about tricky terms often used in arguments, such as the terms “if” and “then”. In the final topic, we practice identifying difficult arguments, which often include long texts, run on sentences, and additional irrelevant content to the argument being put forward. Our task in the final topic is to use our skills practiced in topics 1-3 to identify more difficult arguments.
 
-**Reason Unit 3 Introduction** Video (0 min 0 sec)
+**Reason Unit 3 Introduction** Video (5 min 41 sec)
 
 <div class="video-container">
 
-<iframe src=https://player.vimeo.com/video/863371291?h=be205cbd14&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 3, Introduction"></iframe>
+<iframe src=https://player.vimeo.com/video/889164879?h=3f2c085f03&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 3, Introduction"></iframe>
 
 </div>
 
@@ -53,11 +53,11 @@ Some of the primary keywords of an argument are terms that describe premises and
 
 In this video, you will learn about wisdom and knowledge from Robert Nozick’s piece, “*What is Wisdom and Why do Philosophers Love it So?*”
 
-**Parts and Keywords of an Argument Unit 3 Topic 1** Video (0 min 0 sec)
+**Parts and Keywords of an Argument Unit 3 Topic 1** Video (6 min 46 sec)
 
 <div class="video-container">
 
-<iframe src=https://player.vimeo.com/video/863371336?h=1432d24ea4&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 3, Topic 1, Parts and Keywords of an Argument"></iframe>
+<iframe src=https://player.vimeo.com/video/889164919?h=8ccf02be69&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 3, Topic 1, Parts and Keywords"></iframe>
 
 </div>
 
@@ -109,11 +109,11 @@ In the previous topic, we learned about the parts and keywords of an argument. I
 
 Once the argument has been labelled, the next step is to restructure the argument vertically with the premises on top and the conclusion beneath. This way we can see what the author’s argument is exactly. That is, we can see the conclusion – the main point of their position – and the reasons (i.e. premises) for thinking the conclusion is true. Once these statements are ordered correctly, anyone can see the argument. The reader needn’t labour over the text and the many confusing non-statements to locate the point of the passage.
 
-**Labelling and Restructuring Unit 3 Topic 2** Video (0 min 0 sec)
+**Labelling and Restructuring Unit 3 Topic 2** Video (8 min 56 sec)
 
 <div class="video-container">
 
-<iframe src=https://player.vimeo.com/video/863371336?h=1432d24ea4&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 3, Topic 2, Labelling and Restructuring"></iframe>
+<iframe src=https://player.vimeo.com/video/889164959?h=c6d86e2284&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 3, Topic 2, Labelling and Restructuring"></iframe>
 
 </div>
 
@@ -165,11 +165,11 @@ In the first two topics, we learned some foundational skills for identifying arg
 
 A second skill of interpretation is learning to navigate conditional statements. A conditional is a “if … then” statement. For example, “If it’s raining outside, then we can’t go to the park.” Sentences with the words “if” and “then” may be interpreted in different ways depending on the order of these words. In this topic we practice some of these interpretive skills.
 
-**Interpreting Arguments and Conditionals (If…Then) Unit 3 Topic 3** Video (0 min 0 sec)
+**Interpreting Arguments and Conditionals (If…Then) Unit 3 Topic 3** Video (15 min 32 sec)
 
 <div class="video-container">
 
-<iframe src=https://player.vimeo.com/video/863371336?h=1432d24ea4&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 3, Topic 1, Parts and Keywords of an Argument"></iframe>
+<iframe src=https://player.vimeo.com/video/889164999?h=fbfb392482&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 3, Topic 3, Interpretation and Conditionals"></iframe>
 
 </div>
 
@@ -211,20 +211,29 @@ Follow and complete the steps below to accomplish your learning for this topic.
 
 1. Read Topic Notes
 2. Watch Topic Video
-3. Complete Practice Exercises
-4. Watch Optional Video
+3. Complete Logic Exercise
+4. Complete Practice Exercises
+5. Watch Optional Video
 
 ### Topic Notes {-}
 
 In the previous topics, we have attempted to build our foundation for identifying arguments. The real challenge is when we’re confronted with long speeches, texts, reports, stories, and accusations whereby the argument may often seem unclear. Our task is to use the tools we’ve learned to identify the argument(s) in more difficult contexts. In this topic, we practice these skills by following these steps: (i) ignore non-statements and label the premises and conclusion; (ii) restructure the argument vertically with premises on top and the conclusion beneath. Notice that the difficult step is (i). We must sift through the content to locate keywords, interpret ambiguous statements, possibly use the “Why/Because” strategy in cases of doubt, decipher unusual “if/then” statements, and so on. Sometimes there is no argument at all; other times there may exist more than one argument, such that there is a main argument, and a secondary argument. The point of this entire exercise is to learn the skill that so many of us fail to properly master: to learn what the opposing person is trying to say. What is their position? What is their argument if there is one? Only after we’ve successfully identified the argument can we then properly raise objections and evaluate their argument.
 
-**Identifying and Practicing Difficult Arguments Unit 3 Topic 4** Video (0 min 0 sec)
+**Identifying and Practicing Difficult Arguments Unit 3 Topic 4** Video (8 min 03 sec)
 
 <div class="video-container">
 
-<iframe src=https://player.vimeo.com/video/863371336?h=1432d24ea4&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 3, Topic 4, Identifying and Practicing Difficult Arguments"></iframe>
+<iframe src=https://player.vimeo.com/video/889165070?h=1f15d261ff&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 3, Topic 4, Difficult Arguments"></iframe>
 
 </div>
+
+### Required Identifying Difficult Arguments Exercise {-}
+
+```{block2, type='reflect'}
+
+<iframe scrolling="yes" style="border: 0px #ffffff none;" src="https://far.twu.ca/arts/phil101-pages/u2/topic-7/chromeless:true/hidepagetitle:true" allowfullscreen="allowfullscreen" width="100%" height="3400"></iframe>
+
+```
 
 ### Required Practice Exercises {-}
 
