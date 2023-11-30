@@ -49,9 +49,9 @@ In this topic, we learn about the parts of the argument and the words often used
 
 Some of the primary keywords of an argument are terms that describe premises and conclusions. For example, the word “therefore” often picks out a conclusion. The statement that follows from the term “therefore” may act as a conclusion. Terms that describe premise can be “all” “every” “some”. As we shall see, these types of words help us identify the premises of an argument.
 
-### Watch and Reflect {-}
+### Topic Video {-}
 
-In this video, you will learn about wisdom and knowledge from Robert Nozick’s piece, “*What is Wisdom and Why do Philosophers Love it So?*”
+In this video, you will learn about the parts and keywords of an argument. The parts of an argument include statements and never include non-statements. A statement is a claim that is either true or false. Statements in an argument can be premises and/or conclusions. There are often keywords that designate premises and conclusions, such as “all” and “therefore”, respectively.
 
 **Parts and Keywords of an Argument Unit 3 Topic 1** Video (6 min 46 sec)
 
@@ -61,7 +61,7 @@ In this video, you will learn about wisdom and knowledge from Robert Nozick’s 
 
 </div>
 
-### Required Parts of an Argument Logic Exercise {-}
+### Logic Exercise 1 {-}
 
 ```{block2, type='reflect'}
 
@@ -69,7 +69,7 @@ In this video, you will learn about wisdom and knowledge from Robert Nozick’s 
 
 ```
 
-### Required Keywords of an Argument Logic Exercise {-}
+### Logic Exercise 2 {-}
 
 ```{block2, type='reflect'}
 
@@ -77,7 +77,7 @@ In this video, you will learn about wisdom and knowledge from Robert Nozick’s 
 
 ```
 
-### Watch and Reflect {-}
+### Optional Video {-}
 
 ```{block2, type='reflect'}
 
@@ -109,6 +109,10 @@ In the previous topic, we learned about the parts and keywords of an argument. I
 
 Once the argument has been labelled, the next step is to restructure the argument vertically with the premises on top and the conclusion beneath. This way we can see what the author’s argument is exactly. That is, we can see the conclusion – the main point of their position – and the reasons (i.e. premises) for thinking the conclusion is true. Once these statements are ordered correctly, anyone can see the argument. The reader needn’t labour over the text and the many confusing non-statements to locate the point of the passage.
 
+### Topic Video {-}
+
+In this video, you will learn about labelling and restructuring arguments. Labelling an argument involves inserting the letter (p) next to the premises and the letter (c) next to the conclusion. You then restructure the argument vertically with the premises on top and the conclusion beneath.
+
 **Labelling and Restructuring Unit 3 Topic 2** Video (8 min 56 sec)
 
 <div class="video-container">
@@ -117,7 +121,7 @@ Once the argument has been labelled, the next step is to restructure the argumen
 
 </div>
 
-### Required Labelling an Argument Exercise {-}
+### Logic Exercise 1 {-}
 
 ```{block2, type='reflect'}
 
@@ -125,7 +129,7 @@ Once the argument has been labelled, the next step is to restructure the argumen
 
 ```
 
-### Required Restructuring an Argument Exercise {-}
+### Logic Exercise 2 {-}
 
 ```{block2, type='reflect'}
 
@@ -133,7 +137,7 @@ Once the argument has been labelled, the next step is to restructure the argumen
 
 ```
 
-### Watch and Reflect {-}
+### Optional Video {-}
 
 ```{block2, type='reflect'}
 
@@ -165,6 +169,10 @@ In the first two topics, we learned some foundational skills for identifying arg
 
 A second skill of interpretation is learning to navigate conditional statements. A conditional is a “if … then” statement. For example, “If it’s raining outside, then we can’t go to the park.” Sentences with the words “if” and “then” may be interpreted in different ways depending on the order of these words. In this topic we practice some of these interpretive skills.
 
+### Topic Video {-}
+
+In this video, you will learn some strategies for interpreting arguments. Interpretation is important because we often we fail to clearly communicate the argument. One strategy for interpretation is called the “why/because” strategy. This strategy involves looking for statements that could be followed with a hypothetical “why”, and statements that precede with a hypothetical “because”. In addition, you will learn how to interpret conditional sentences with the term “if” and “then”.
+
 **Interpreting Arguments and Conditionals (If…Then) Unit 3 Topic 3** Video (15 min 32 sec)
 
 <div class="video-container">
@@ -173,7 +181,7 @@ A second skill of interpretation is learning to navigate conditional statements.
 
 </div>
 
-### Required Interpreting an Argument Exercise {-}
+### Logic Exercise 1 {-}
 
 ```{block2, type='reflect'}
 
@@ -181,7 +189,7 @@ A second skill of interpretation is learning to navigate conditional statements.
 
 ```
 
-### Required Arguments with “If…Then” Exercise {-}
+### Logic Exercise 2 {-}
 
 ```{block2, type='reflect'}
 
@@ -189,7 +197,7 @@ A second skill of interpretation is learning to navigate conditional statements.
 
 ```
 
-### Watch and Reflect {-}
+### Optional Video {-}
 
 ```{block2, type='reflect'}
 
@@ -219,6 +227,10 @@ Follow and complete the steps below to accomplish your learning for this topic.
 
 In the previous topics, we have attempted to build our foundation for identifying arguments. The real challenge is when we’re confronted with long speeches, texts, reports, stories, and accusations whereby the argument may often seem unclear. Our task is to use the tools we’ve learned to identify the argument(s) in more difficult contexts. In this topic, we practice these skills by following these steps: (i) ignore non-statements and label the premises and conclusion; (ii) restructure the argument vertically with premises on top and the conclusion beneath. Notice that the difficult step is (i). We must sift through the content to locate keywords, interpret ambiguous statements, possibly use the “Why/Because” strategy in cases of doubt, decipher unusual “if/then” statements, and so on. Sometimes there is no argument at all; other times there may exist more than one argument, such that there is a main argument, and a secondary argument. The point of this entire exercise is to learn the skill that so many of us fail to properly master: to learn what the opposing person is trying to say. What is their position? What is their argument if there is one? Only after we’ve successfully identified the argument can we then properly raise objections and evaluate their argument.
 
+### Topic Video {-}
+
+In this video, you will learn how to use the previous tools and strategies to identify difficult arguments. These arguments are often a challenge to locate because they exist within a longer text or speech. These texts and speeches often include irrelevant information and non-statements that make identification difficult.
+
 **Identifying and Practicing Difficult Arguments Unit 3 Topic 4** Video (8 min 03 sec)
 
 <div class="video-container">
@@ -227,7 +239,7 @@ In the previous topics, we have attempted to build our foundation for identifyin
 
 </div>
 
-### Required Identifying Difficult Arguments Exercise {-}
+### Logic Exercise {-}
 
 ```{block2, type='reflect'}
 
@@ -235,7 +247,7 @@ In the previous topics, we have attempted to build our foundation for identifyin
 
 ```
 
-### Optional Practice Exercises {-}
+### Practice Exercises {-}
 
 ```{block2, type='reflect'}
 
@@ -247,7 +259,7 @@ If you want to keep your answers for future reference, click the Download button
 
 ```
 
-### Watch and Reflect {-}
+### Optional Video {-}
 
 ```{block2, type='reflect'}
 

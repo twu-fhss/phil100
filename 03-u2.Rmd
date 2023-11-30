@@ -52,7 +52,7 @@ Further nuances emerge within faith as an attitude, where we explore the differe
 
 This exploration aims to unravel the intricate layers of faith, encouraging a comprehensive understanding that spans both the cognitive and ethical dimensions of this complex and significant concept.
 
-### Watch and Reflect {-}
+### Topic Video {-}
 
 In this video, you will learn about the various definitions of faith from Elizabeth Jackson’s article, “Faith: Contemporary Perspectives”. The main focus is on learning about various distinctions with the concept of faith, such as attitude faith and action faith, and doxastic and non-doxastic view of faith.
 
@@ -64,35 +64,38 @@ In this video, you will learn about the various definitions of faith from Elizab
 
 </div>
 
-<span class="blockhead">Read and Reflect<span class="prote">
+### Topic Reading {-}
 
 - Jackson - *Types of Faith* - https://iep.utm.edu/faith-contemporary-perspectives/#SSH1ai{target="_blank"}
 
-### Required Jackson Reading Note-Taking Exercise {-}
+### Note-Taking Exercise {-}
+
+**These note-taking exercises are designed to help you navigate challenging texts. While reading through the entire text without interruption can provide a grasp of the author’s overarching message, it might be overwhelming in some cases, making comprehension difficult. In such instances, students may be tempted to abandon the text and seek online summaries, which may not accurately reflect the author’s intent.**
+
+**If you find the readings challenging, one effective strategy is to break down the text, either by section or even paragraph. Take point-form notes on the key ideas within each chunk of the text. As you progress and continue taking notes, you may find it helpful to revisit earlier sections to revise or add additional insights.**
+
+**By the end of this exercise, you should have detailed notes covering the entire text, enhancing your understanding of the author’s intended message. This approach proves particularly beneficial in courses where content recall is crucial for exams or when crafting a research essay, helping you better recall various research points you’ve gathered.**
 
 ```{block2, type='reflect'}
 
-- Answering these questions will help you understand the Jackson reading and prepare you for your Unit 2 Reflection Assignment.
-- Click the Download button on the left after you've completed all the notes for this reading and save the answers to your computer.
-- You will be required to submit your downloaded notes to this reading as part of your Unit 2 Reflection Assignment.
+Click the Download button on the left after you've completed all the notes for this reading and save the answers to your computer as you will be required to submit your downloaded notes to this reading as part of your Unit 1 Reflection Assignment.
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=585" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ```
 
-### Required Note-Taking Questionnaire {-}
+### Topic Questionnaire {-}
 
 ```{block2, type='reflect'}
 
 - Answering these questions will help you reflect on the topic content and prepare you for your Unit 2 Reflection Assignment.
-- Click the Download button on the left after you've completed all the questions for this unit and save the answers to your computer.
-- You will be required to submit the downloaded answers to these questions as part of your Unit 2 Reflection Assignment.
+- Click the Download button on the left after you've completed all the questions for this unit and save the answers to your computer as you will be required to submit the downloaded answers to these questions as part of your Unit 2 Reflection Assignment.
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=577" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ```
 
-### Watch and Reflect {-}
+### Optional Video {-}
 
 ```{block2, type='reflect'}
 
@@ -127,7 +130,7 @@ The concept of salvation suggests that humanity is in jeopardy, and God is endea
 
 By emphasizing hope as a non-doxastic attitude within faith, this discussion broadens our understanding of faith beyond mere cognitive elements, offering a nuanced perspective that aligns with the complexities of belief, doubt, and the pursuit of salvation.
 
-### Watch and Reflect {-}
+### Topic Video {-}
 
 In this video, you will learn about faith as hope in the midst of doubt from Louis Pojman’s article, “Faith, Hope, Doubt”. According to Pojman, faith is a matter of hope and not belief. Thus, faith is non-doxastic.
 
@@ -139,35 +142,32 @@ In this video, you will learn about faith as hope in the midst of doubt from Lou
 
 </div>
 
-### Read and Reflect {-}
+### Topic Reading {-}
 
 - Pojman - [*Faith, Hope and Doubt*](assets/u2/PHIL-100-Pojman-Faith-Hope-and-Doubt.pdf){target="_blank"}
 
-### Required Pojman Reading Note-Taking Exercise {-}
+### Note-Taking Exercise {-}
 
 ```{block2, type='reflect'}
 
-- Answering these questions will help you understand the Pojman reading and prepare you for your Unit 2 Reflection Assignment.
-- Click the Download button on the left after you've completed all the notes for this reading and save the answers to your computer.
-- You will be required to submit your downloaded notes to this reading as part of your Unit 2 Reflection Assignment.
+Click the Download button on the left after you've completed all the notes for this reading and save the answers to your computer as you will be required to submit your downloaded notes to this reading as part of your Unit 1 Reflection Assignment.
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=586" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ```
 
-### Required Note-Taking Questionnaire {-}
+### Topic Questionnaire {-}
 
 ```{block2, type='reflect'}
 
 - Answering these questions will help you reflect on the topic content and prepare you for your Unit 2 Reflection Assignment.
-- Click the Download button on the left after you've completed all the questions for this unit and save the answers to your computer.
-- You will be required to submit the downloaded answers to these questions as part of your Unit 2 Reflection Assignment.
+- Click the Download button on the left after you've completed all the questions for this unit and save the answers to your computer as you will be required to submit the downloaded answers to these questions as part of your Unit 2 Reflection Assignment.
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=578" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ```
 
-### Watch and Reflect {-}
+### Optional Video {-}
 
 ```{block2, type='reflect'}
 
@@ -202,7 +202,7 @@ In this third topic, we briefly navigate a theological controversy within Christ
 
 This exploration invites us to reconsider the nature of faith within the Christian context, prompting reflection on whether faith should be predominantly characterized by mental attitudes or by the ethical conduct and good works that spring forth from one’s beliefs.
 
-### Watch and Reflect {-}
+### Topic Video {-}
 
 In this video, you will learn about faith and action from Boyd and Thorsen’s chapter, “Ethics in the Christian Scriptures.” Unlike faith as belief, trust, and hope, faith as action focuses on behavior and ethics, rather than on mental content. You will also be introduced to the debate in Christian theology about faith and works.
 
@@ -214,35 +214,32 @@ In this video, you will learn about faith and action from Boyd and Thorsen’s c
 
 </div>
 
-### Read and Reflect {-}
+### Topic Reading {-}
 
 - Boyd and Thorsen - [*Ethics in the Christian Scriptures*](assets/u2/PHIL-100-Boyd-and-Thorsen-Ethics-in-the-Christian-Scriptures.pdf){target="_blank"}
 
-### Required Boyd & Thorsen Reading Note-Taking Exercise {-}
+### Note-Taking Exercise {-}
 
 ```{block2, type='reflect'}
 
-- Answering these questions will help you understand the Boyd & Thorsen reading and prepare you for your Unit 2 Reflection Assignment.
-- Click the Download button on the left after you've completed all the notes for this reading and save the answers to your computer.
-- You will be required to submit your downloaded notes to this reading as part of your Unit 2 Reflection Assignment.
+Click the Download button on the left after you've completed all the notes for this reading and save the answers to your computer as you will be required to submit your downloaded notes to this reading as part of your Unit 1 Reflection Assignment.
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=587" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ```
 
-### Required Note-Taking Questionnaire {-}
+### Topic Questionnaire {-}
 
 ```{block2, type='reflect'}
 
 - Answering these questions will help you reflect on the topic content and prepare you for your Unit 2 Reflection Assignment.
-- Click the Download button on the left after you've completed all the questions for this unit and save the answers to your computer.
-- You will be required to submit the downloaded answers to these questions as part of your Unit 2 Reflection Assignment.
+- Click the Download button on the left after you've completed all the questions for this unit and save the answers to your computer as you will be required to submit the downloaded answers to these questions as part of your Unit 2 Reflection Assignment.
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=579" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ```
 
-### Watch and Reflect {-}
+### Optional Video {-}
 
 ```{block2, type='reflect'}
 
@@ -277,7 +274,7 @@ The term “rationality” here pertains to the alignment of beliefs and actions
 
 Clifford contends that it is ethically wrong to believe anything not proportional to the evidence. To evaluate this evidential objection, we consider several responses, including the potential incoherence of the objection, the observation that many of our rational beliefs are not strictly proportional to the evidence, and the recognition that, in certain cases of faith, there may be sufficient evidence to meet rational standards.
 
-### Watch and Reflect {-}
+### Topic Video {-}
 
 In this video, you will learn about faith and rationality from W.K. Clifford’s article, “The Ethics of Belief.” You will be introduced to the evidential objection to religious belief, which states that religious belief is rational only if there is evidence for religious belief, and some brief responses and replies to this evidential objection.
 
@@ -289,35 +286,32 @@ In this video, you will learn about faith and rationality from W.K. Clifford’s
 
 </div>
 
-### Read and Reflect {-}
+### Topic Reading {-}
 
 - WK Clifford - [*Ethics of Belief*](assets/u2/PHIL-100-Clifford-Ethics-of-Belief.pdf){target="_blank"}
 
-### Required Clifford Reading Note-Taking Exercise {-}
+### Note-Taking Exercise {-}
 
 ```{block2, type='reflect'}
 
-- Answering these questions will help you understand the Clifford reading and prepare you for your Unit 2 Reflection Assignment.
-- Click the Download button on the left after you've completed all the notes for this reading and save the answers to your computer.
-- You will be required to submit your downloaded notes to this reading as part of your Unit 2 Reflection Assignment.
+Click the Download button on the left after you've completed all the notes for this reading and save the answers to your computer as you will be required to submit your downloaded notes to this reading as part of your Unit 1 Reflection Assignment.
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=588" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ```
 
-### Required Note-Taking Questionnaire {-}
+### Topic Questionnaire {-}
 
 ```{block2, type='reflect'}
 
 - Answering these questions will help you reflect on the topic content and prepare you for your Unit 2 Reflection Assignment.
-- Click the Download button on the left after you've completed all the questions for this unit and save the answers to your computer.
-- You will be required to submit the downloaded answers to these questions as part of your Unit 2 Reflection Assignment.
+- Click the Download button on the left after you've completed all the questions for this unit and save the answers to your computer as you will be required to submit the downloaded answers to these questions as part of your Unit 2 Reflection Assignment.
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=580" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ```
 
-### Watch and Reflect {-}
+### Optional Video {-}
 
 ```{block2, type='reflect'}
 

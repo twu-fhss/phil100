@@ -1,5 +1,17 @@
 fig:unnamed-chunk-1
 fig:unnamed-chunk-2
 wisdom
+wisdom-and-knowledge
+wisdom-and-humility
+wisdom-and-friendship
+wisdom-and-rhetoric
 faith
+faith-and-definitions
+faith-and-hope
+faith-and-action
+faith-and-rationality
 reason
+parts-and-keywords-of-an-argument
+labelling-and-restructuring
+interpreting-arguments-and-conditionals-ifthen
+identifying-and-practicing-difficult-arguments
