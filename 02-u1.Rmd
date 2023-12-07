@@ -99,7 +99,7 @@ Click the Download button on the left after you've completed all the notes for t
 
 In this 5 minute 55 second optional video, philosophers Valerie Tiberius and Philip Kitcher, as well as psychologist Lisa Feldman Barret discuss their definitions of wisdom.
 
-[Watch: *What is Wisdom?*](https://youtu.be/obqedyeUcwk){targt="_blank"}
+[Watch: *What is Wisdom?*](https://youtu.be/obqedyeUcwk){target="_blank"}
 
 <div class="video-container">
 
@@ -171,7 +171,7 @@ Click the Download button on the left after you've completed all the notes for t
 
 In this 2 minute 59 second optional video with Dr. Ian Church, *What is Intellectual Humility*? A doxastic account. Here is the first of three parts. If you have the time, you should watch all three parts.
 
-[Watch: *What is Intellectual Humility?*](https://www.youtube.com/watch?v=8CZIkGEJYRY){targt="_blank"}
+[Watch: *What is Intellectual Humility?*](https://www.youtube.com/watch?v=8CZIkGEJYRY){target="_blank"}
 
 <div class="video-container">
 

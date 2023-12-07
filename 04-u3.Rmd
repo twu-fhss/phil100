@@ -147,7 +147,7 @@ In that example, the first premise follows the term “All,” and the conclusio
 
 In this 5 minute 24 second optional video, you will learn about the basic structure of an argument.
 
-[Watch: *Critical Thinking #3: Types of Arguments*](https://www.youtube.com/watch?v=wbRxR53F3rI){targt="_blank"}
+[Watch: *Critical Thinking #3: Types of Arguments*](https://www.youtube.com/watch?v=wbRxR53F3rI){target="_blank"}
 
 <div class="video-container">
 
@@ -270,7 +270,7 @@ Step 2: Restructure the argument vertically
 
 In this 1 minute 22 second optional video, you will learn about the basic structure of an argument, with brief attention to what makes a bad argument.
 
-[Watch: *Ninety Second Philosophy: Arguments*](https://www.youtube.com/watch?v=Z7f_uuy1JcM){targt="_blank"}
+[Watch: *Ninety Second Philosophy: Arguments*](https://www.youtube.com/watch?v=Z7f_uuy1JcM){target="_blank"}
 
 <div class="video-container">
 
@@ -519,7 +519,7 @@ Example 2:
 
 In this 6 minute optional video, you will be introduced to some further techniques for identifying arguments.
 
-[Watch: *Lesson 2. Identifying Arguments*](https://www.youtube.com/watch?v=lYiEj5z8le8){targt="_blank"}
+[Watch: *Lesson 2. Identifying Arguments*](https://www.youtube.com/watch?v=lYiEj5z8le8){target="_blank"}
 
 <div class="video-container">
 
@@ -596,7 +596,7 @@ If you want to keep your answers for future reference, click the Download button
 
 In this 5 minute 34 second optional video, you will be introduced to strategies for locating terms that describe parts of the argument in difficult passages, such as terms that pick out conclusions and premises.
 
-[Watch: *Identifying Premises and Conclusions*](https://www.youtube.com/watch?v=07mehbgE5jc){targt="_blank"}
+[Watch: *Identifying Premises and Conclusions*](https://www.youtube.com/watch?v=07mehbgE5jc){target="_blank"}
 
 <div class="video-container">
 

@@ -101,7 +101,7 @@ Click the Download button on the left after you've completed all the notes for t
 
 In this 10 minute 06 second optional video, you will learn some further distinctions between the terms faith and belief, especially in religious contexts.
 
-[Watch: *Belief vs Faith (Philosophical Distinction)*](https://www.youtube.com/watch?v=o8QKkHWUSu0){targt="_blank"}
+[Watch: *Belief vs Faith (Philosophical Distinction)*](https://www.youtube.com/watch?v=o8QKkHWUSu0){target="_blank"}
 
 <div class="video-container">
 
@@ -173,7 +173,7 @@ Click the Download button on the left after you've completed all the notes for t
 
 In this 6 minute 17 second optional video, you will learn about faith and doubt by Richard Swinburne.
 
-[Watch: *Swinburne: On Doubt and Faith*](https://www.youtube.com/watch?v=exsmSlxnbHQ){targt="_blank"}
+[Watch: *Swinburne: On Doubt and Faith*](https://www.youtube.com/watch?v=exsmSlxnbHQ){target="_blank"}
 
 <div class="video-container">
 
@@ -245,7 +245,7 @@ Click the Download button on the left after you've completed all the notes for t
 
 In this 9 minute 04 second optional video, Professor Peter Singer discusses the role of religion in ethics. Questions discussed include: Is something good because a divine being approves of it, or does the divine being approve of it because it is good? How do we know what is good without religion? How do we reconcile ethics from different religions coexisting in the same society?
 
-[Watch: *Religion and Ethics*](https://www.youtube.com/watch?v=w9QtjQ5Ow7Y){targt="_blank"}
+[Watch: *Religion and Ethics*](https://www.youtube.com/watch?v=w9QtjQ5Ow7Y){target="_blank"}
 
 <div class="video-container">
 
@@ -317,7 +317,7 @@ Click the Download button on the left after you've completed all the notes for t
 
 In this 8 minute 38 second optional video, you will learn about further details about the relationship between faith and reason.
 
-[Watch: *Religion: Reason and Faith*](https://www.youtube.com/watch?v=MTPHXNMi9tA){targt="_blank"}
+[Watch: *Religion: Reason and Faith*](https://www.youtube.com/watch?v=MTPHXNMi9tA){target="_blank"}
 
 <div class="video-container">
 
